@@ -46,7 +46,7 @@ $on-laptop:        780px;
     }
 }
 
-.dont-break-out {
+// .dont-break-out {
 
   /* Careful, this breaks the word wherever it is without a hyphen */
   // overflow-wrap: break-word;
@@ -58,7 +58,7 @@ $on-laptop:        780px;
   // -moz-hyphens: auto;
   // hyphens: auto;
 
-}
+// }
 
 @import
         "normalize",

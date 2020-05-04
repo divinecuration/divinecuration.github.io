@@ -173,7 +173,7 @@ input#menu-toggle {
 }
 
 .post {
-  @extend .dont-break-out;
+  @extend .dont-break-out !optional;
 }
 
 .post-list {
