@@ -2,7 +2,7 @@
 layout: post
 title:  "Still Thinking about Burial"
 date: 2020-04-02 09:50:00
-categories: bit
+categories: blog
 excerpt_separator: <!--end_excerpt-->
 ---
 

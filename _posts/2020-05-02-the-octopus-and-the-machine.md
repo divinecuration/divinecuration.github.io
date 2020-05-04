@@ -2,7 +2,7 @@
 layout: post
 title:  "The Octopus and the Machine"
 date: 2019-05-01 21:06:26 +0800
-categories: writing
+categories: writings
 date_text: October 2019
 excerpt_separator: <!--end_excerpt-->
 ---

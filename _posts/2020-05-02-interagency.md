@@ -2,7 +2,7 @@
 layout: post
 title:  "Interagency"
 date: 2017-05-01 21:06:26 +0800
-categories: piece
+categories: pieces
 date_text: November 2017
 excerpt_separator: <!--end_excerpt-->
 meta: 2 x Raspberry Pi Zero, acrylic, custom scripts, display. 2017.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Fluid Form"
 date: 2018-05-01 21:06:26 +0800
-categories: piece
+categories: pieces
 date_text: April 2018
 excerpt_separator: <!--end_excerpt-->
 meta: SLA resin. 2018.

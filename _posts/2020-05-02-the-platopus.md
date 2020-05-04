@@ -2,7 +2,7 @@
 layout: post
 title:  "The Platopus"
 date: 2013-05-01 21:06:26 +0800
-categories: piece
+categories: pieces
 date_text: September 2013 - June 2015
 excerpt_separator: <!--end_excerpt-->
 meta: Blog. 2013-2015.

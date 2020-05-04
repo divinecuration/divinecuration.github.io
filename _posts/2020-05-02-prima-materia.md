@@ -3,7 +3,7 @@ layout: post
 title:  "Prima Materia"
 date: 2020-05-01 21:07:26 +0800
 date_text: April 2018
-categories: piece
+categories: pieces
 excerpt_separator: <!--end_excerpt-->
 meta: Ferrofluid, camera, electromagnets, custom software. 2018.
 description: A feedback loop for ferrofluid and computer vision.
