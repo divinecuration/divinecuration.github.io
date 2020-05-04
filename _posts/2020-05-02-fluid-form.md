@@ -13,11 +13,11 @@ description: A series of speculative objects based on the propagation of waves t
 
 <br />
 
-_Fluid form_ is a series of five sculptures based on the propagation of waves through fluids.
+_Fluid form_ is a series of five objects based on the propagation of waves through fluids.
 
-A simulation of rippling water was folded in 3D space to produce a fluid virtual entity which cannot exist according to real world physics. Its form unfolding over time, moments in the process were captured as static objects.
+A simulation of rippling water was deformed in 3D space to produce a virtual object which could not exist according to real world physics. Its form unfolding over time, moments in the process were captured as static objects.
 
-The sculptures are 3D printed in white resin using stereolithography. The speculative objects are physically realised through a process in which the inherent tendencies of the material are engineered directly, by altering its molecular structure.
+The objects are 3D printed in white resin using stereolithography, a form of 3D printing in which a targeted laser chemically bonds different layers of liquid resin (it then rises from the ooze) to create an extremely smooth finish.
 
 <br />
 

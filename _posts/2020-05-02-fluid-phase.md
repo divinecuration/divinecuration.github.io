@@ -16,6 +16,6 @@ description: An audiovisual meditation on fluids and cycles.
 
 _Fluid Phase_ is a film exploring the incidental qualities of scientific imagery.
 
-Footage taken from educational films on fluid dynamics is chopped, looped, processed, and spliced together. Their function as vehicles for a mathematical theory is nullified, foregrounding the aesthetic and structural qualities.
+The footage came from a load of educational [films](http://web.mit.edu/hml/ncfmf.html) made available by the US National Committee for Fluid Mechanics, which I then chopped, looped, processed, and spliced together. I wanted to nullify the rational content, decontextualising and foregrounding the aesthetic and structural qualities instead.
 
-Layered with pulsing sounds created from Tibetan singing bowls, the film is meditation on the human relationship to fluids and cycles. It points to an active dynamism belonging as much to the representations as to the phenomena themselves.
+Layered with pulsing sounds from singing bowls, the film is also a meditation on fluids and cycles.

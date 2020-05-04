@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Still Thinking about Burial"
-date: 2020-05-02 09:50:00
+date: 2020-04-02 09:50:00
 categories: bit
 excerpt_separator: <!--end_excerpt-->
 ---
 
-A sound system could be understood as a technology for producing space, operating by consolidating and autonomising local time, neutralising it through the cancellation of metronomic difference. Rhythm both dissolves temporality and resolves narrative interiority, a becoming-time of space at its edges. Time is the becoming-extensive of intensive space, the crust that contains and defines it. Leaving the club is always an encounter with hostile temporality experienced as a loss of shared space.  
+A sound system could be understood as a technology for producing space, operating by consolidating and autonomising local time, neutralising it through the cancellation of metronomic difference. Rhythm both dissolves temporality and resolves narrative interiority: a becoming-time of space at its edges. Time is the becoming-extensive of intensive space, the crust that contains and defines it. Leaving the club is always an encounter with hostile temporality experienced as a loss of shared space.  
 
 <!--end_excerpt-->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Four Studies in Lowercase"
-date: 2020-05-02 09:50:00
+date: 2020-03-02 09:50:00
 categories: bit
 ---
 

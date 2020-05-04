@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brian Massumi on Affect"
-date: 2020-05-02 09:50:00
+date: 2020-01-02 09:50:00
 categories: bit
 excerpt_separator: <!--end_excerpt-->
 ---
