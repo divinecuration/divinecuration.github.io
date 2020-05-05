@@ -6,7 +6,7 @@ categories: blog
 excerpt_separator: <!--end_excerpt-->
 ---
 
-Here's my thousandish-word summary of Mark Fisher's book _Capitalist Realism_. (Admittedly this is not a book that really needed summarising, given that its magic is to lucidly synthesise several of the incisive yet inaccessible critiques already in circulation. But, err, here it is.)
+Here's my thousandish-word summary of Mark Fisher's book _Capitalist Realism_. (Admittedly this is not a book that really needed summarising, given that its magic is to lucidly synthesise several incisive yet inaccessible ideas already in circulation. But, err, here it is.)
 
 TS Eliot first made the point that culture's ability to produce the new is dependent on its capacity to store and transmit collective memory. Innovation depends on a sense of tradition, otherwise there is nothing to innovate against. By destabilising the material conditions of life and through its commodification of culture capitalism has undermined this capacity; consequently cultural innovation has become impossible. Since exchange-value is privileged over use-value, the value attributed to a cultural product is dependent on its _alienation_, in Marx's sense: its abstraction from its life-world---from its function and significance within the social context of the individuals and communities that produce it---and re-situation within a system of general exchange. This corresponds to a shift in the way we encounter cultural products from a mode of participation to a mode of spectatorship. Culture ceases to be a participatory forum for shared projects of self-narration, instead becoming a factory for aesthetic objects produced for passive consumption.
 
