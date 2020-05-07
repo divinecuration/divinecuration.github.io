@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "The Platopus"
 date: 2013-05-01 21:06:26 +0800
 categories: pieces

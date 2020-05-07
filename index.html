@@ -6,12 +6,12 @@ title: divine curation
 <div class="home">
   <div class="post-list">
 
-    {% for post in site.posts %}
-    {% if post.categories contains "blog" %}
+    {% for post in paginator.posts %}
+    <!-- {% if post.categories contains "blog" %} -->
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
-        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+        <time class="post_date">{{ post.date | date: "%d %B %Y" }}</time>
       </header>
       <div class="post_excerpt">
         <p>
@@ -28,6 +28,8 @@ title: divine curation
         </p>
       </div>
       <footer class="post_meta">
+
+
 
 
         <!-- {% if post.location %}
@@ -59,9 +61,34 @@ title: divine curation
       </footer>
       <hr/>
     </article>
-    {% endif %}
+    <!-- {% endif %} -->
     {% endfor %}
 
-    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination-older-post">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+      {% else %}
+        <span>&laquo; Prev</span>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="/">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+      {% else %}
+        <span>Next &raquo;</span>
+      {% endif %}
+    </div>
+    {% endif %}
+    <!-- <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div> -->
   </div>
 </div>

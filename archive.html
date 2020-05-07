@@ -8,6 +8,35 @@ title: archive
   <h2>Archive</h2>
 
   <section class="archive_list">
+
+    <div class="category-name">
+      <h2>Writings</h2>
+    </div>
+    <br />
+
+    {% for post in site.pages %}
+    {% if post.categories contains "writings" %}
+    <div class="post_title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      <span class="date">{{ post.date_text }}</span>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    <div class="category-name">
+      <h2>Pieces</h2>
+    </div>
+    <br />
+
+    {% for post in site.pages %}
+    {% if post.categories contains "pieces" %}
+    <div class="post_title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      <span class="date">{{ post.date_text }}</span>
+    </div>
+    {% endif %}
+    {% endfor %}
+
     {% for category in site.categories %}
 
     <div class="category-name">
@@ -18,7 +47,7 @@ title: archive
 
     <div class="post_title">
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-      <span class="date">{{ post.date_text }}</span>
+      <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
     </div>
 
     {% endfor %}

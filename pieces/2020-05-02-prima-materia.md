@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Prima Materia"
 date: 2020-05-01 21:07:26 +0800
 date_text: April 2018

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Fluid Phase"
 date: 2016-05-01 21:06:26 +0800
 categories: pieces
