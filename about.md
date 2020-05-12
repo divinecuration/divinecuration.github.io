@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
+Welcome to my personal site.
 
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
+This is where I collect various bits and pieces of creative output that have been accumulating over the years. The blog is a place for ongoing practice, works-in-progress and other sketches and spells---sounds, image, readings and thoughts. Pieces is a dumping ground for old projects, and writings is where I'll host longer-form texts.
 
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+I'm also on [twitter](https://twitter.com/divinecuration) which is probably the best place to get hold of me should you wish. Also email exists: _divinecurationsite_ [at] _gmail.com_.
+
+Other places I have scattered things around the web are [soundcloud](https://soundcloud.com/samludford), [mixcloud](https://www.mixcloud.com/samludford/), and [vimeo](https://vimeo.com/samuelludford).
+
+Sam
