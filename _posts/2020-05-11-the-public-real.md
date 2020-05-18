@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Website Makes it Real"
+title:  "The Real as an Optics of Value"
 date: 2020-05-10 14:02:00
 categories: blog
 ---
