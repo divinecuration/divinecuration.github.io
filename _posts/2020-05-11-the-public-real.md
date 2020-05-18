@@ -5,7 +5,7 @@ date: 2020-05-10 14:02:00
 categories: blog
 ---
 
-In recent months Squarespace has been running an ad campaign worth noting for the sheer multi-layered depth of its cynicism:
+In recent months Squarespace has been running an ad campaign riffing off the tagline "a website makes it real":
 
 ![]({{site.baseurl}}/assets/img/blog/sq-trash-art.jpg)
 
