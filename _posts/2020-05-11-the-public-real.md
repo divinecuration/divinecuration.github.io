@@ -3,12 +3,9 @@ layout: post
 title:  "A Website Makes it Real"
 date: 2020-05-10 14:02:00
 categories: blog
-excerpt_separator: <!--end_excerpt-->
 ---
 
 In recent months Squarespace has been running an ad campaign worth noting for the sheer multi-layered depth of its cynicism:
-
-<!--end_excerpt-->
 
 ![]({{site.baseurl}}/assets/img/blog/sq-trash-art.jpg)
 
