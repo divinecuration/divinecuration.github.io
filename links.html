@@ -1,0 +1,104 @@
+---
+layout: default
+title: links
+---
+
+<div>
+
+  <h2>Links</h2>
+
+  <div class="article_content">
+
+    <br />
+    <p>This is where I maintain a list of various bits and pieces on the web I have found amusing, interesting, or just worth noting down, for all sorts of reasons.<p>
+    <p>The presence of a link on this list does not express an endorsement of its content.</p>
+
+    <section class="archive_list">
+
+      <div class="category-name">
+        <h2>Culture</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-culture %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Blogs</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-blog %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Borderlands</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-borderlands %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Anarchism</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-anarchism %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Subculture</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-subculture %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Documentaries</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-documentaries %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+      <div class="category-name">
+        <h2>Simulations</h2>
+      </div>
+      <br />
+
+      {% for link in site.data.links-simulations %}
+        <div class="post_title">
+          <a href="{{ link.url }}">{{ link.name }}</a>
+          <span class="date">{{ link.desc }}</span>
+        </div>
+      {% endfor %}
+
+    </section>
+  </div>
+</div>

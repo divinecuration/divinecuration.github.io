@@ -1,0 +1,14 @@
+- name: Sähkö
+  url: https://fourthree.boilerroom.tv/film/sahko-the-movie
+  type: documentary
+  desc: Mika Vainio documentary
+
+- name: People Who Do Noise
+  url: https://www.youtube.com/watch?v=dGrN6PeIiOU
+  type: documentary
+  desc: Portland noise music scene documentary
+
+- name: Patience (After Sebald)
+  url: https://monoskop.org/W._G._Sebald
+  type: documentary
+  desc: WG Sebald documentary

@@ -1,0 +1,14 @@
+- name: Less Wrong
+  url: https://www.lesswrong.com/
+  type: subculture
+  desc: a community dedicated to improving reasoning and decision-making
+
+- name: The NeuroHacking Association
+  url: http://www.neurohackers.com/index.php
+  type: simulation
+  desc: an international community of lighthearted friends dedicated to Intelligence Augmentation
+
+- name: London Fetish Scene
+  url: http://www.londonfetishscene.com/index.php?cmd=mktcalendar
+  type: subculture
+  desc: calendar of London's fetish events

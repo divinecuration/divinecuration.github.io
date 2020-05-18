@@ -1,0 +1,34 @@
+- name: Aleph.se
+  url: http://www.aleph.se/Trans/
+  type: simulation
+  desc: Anders Sandberg's transhumanism pages
+
+- name: Journal of Artificial Societies and Social Simulation
+  url: http://jasss.soc.surrey.ac.uk/JASSS.html
+  type: simulation
+  desc: an inter-disciplinary journal for the exploration and understanding of social processes by means of computer simulation
+
+- name: Harvesting the Fruits of the Web
+  url: https://fruitsoftheweb.tumblr.com/
+  type: simulation
+  desc: hatched in the unknown incubator
+
+- name: Mark Foster Gage
+  url: https://www.mfga.com/
+  type: simulation
+  desc: speculative architecture studio
+
+- name: defcad
+  url: https://defcad.com/
+  type: simulation
+  desc: library of 3D-printable firearms
+
+- name: Mediated Matter
+  url: https://www.media.mit.edu/groups/mediated-matter/projects/
+  type: simulation
+  desc: designing with, for, and by matter
+
+- name: Environment Built for Absence (an unofficial/artificial sequel to J.G. Ballard's "High Rise")
+  url: https://vimeo.com/298879155
+  type: simulation
+  desc: Tivon Rice

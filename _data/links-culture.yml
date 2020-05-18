@@ -1,0 +1,91 @@
+- name: Bad Vibes Club
+  url: http://badvibesclub.co.uk/upcoming-archive/
+  type: culture
+  desc: forum for research into negative states
+
+
+
+- name: Jacobite Magazine
+  url: https://jacobitemag.com/
+  type: culture
+  desc: post-political magazine
+
+- name: Many Loops
+  url: https://xn--wgiaa.ws/
+  type: culture
+  desc: a publication somewhat occupied by recursion
+
+- name: Metamoderna
+  url: https://metamoderna.org/
+  type: culture
+  desc: Hanzi Freinacht's metamodernism site
+
+- name: Rhizome
+  url: https://rhizome.org/
+  type: culture
+  desc: born-digital art and culture
+
+- name: e-flux
+  url: http://e-flux.com/
+  type: culture
+  desc: paradigms informing contemporary arts
+
+- name: Egress
+  url: https://egressac.wordpress.com/
+  type: culture
+  desc: a site to build (around) an acid communism
+
+- name: The Vast Abrupt
+  url: https://vastabrupt.com/
+  type: culture
+  desc: accelerationism etc
+
+- name: New Materialism
+  url: http://newmaterialism.eu/
+  type: culture
+  desc: how matter comes to matter
+
+- name: Cybernetic Culture Research Unit
+  url: http://ccru.net/?LMCL=wfBvgu&LMCL=iSlBWA
+  type: culture
+  desc: antagonistic towards stable temporality
+
+- name: The New Centre
+  url: https://thenewcentre.org/
+  type: culture
+  desc: centre for research & practice
+
+- name: The Dark Enlightenment
+  url: http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick-land
+  type: culture
+  desc: nRx key texts
+
+- name: Reality Studio
+  url: https://realitystudio.org/
+  type: culture
+  desc: a William S Burroughs community
+
+- name: Beat Book Covers
+  url: http://www.beatbookcovers.com/kerouac-otr/
+  type: culture
+  desc: beat literature graphics
+
+- name: Marxists Internet Archive
+  url: https://www.marxists.org/
+  type: culture
+  desc: non-profit Marxist library
+
+- name: bldgblog
+  url: http://www.bldgblog.com/
+  type: culture
+  desc: architectural conjecture / urban speculation / landscape futures
+
+- name: Everyday Listening
+  url: http://www.everydaylistening.com/
+  type: culture
+  desc: sonic inspiration
+
+- name: Critical Art Ensemble
+  url: http://critical-art.net/category/printed-material/
+  type: culture
+  desc: critical media arts

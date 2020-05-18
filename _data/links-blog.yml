@@ -1,0 +1,44 @@
+- name: K-punk
+  url: https://k-punk.org/
+  type: blog
+  desc: archive of Mark Fisher's blog
+
+- name: The Medium and the Message
+  url: https://www.bbc.co.uk/blogs/adamcurtis
+  type: blog
+  desc: Adam Curtis' blog
+
+- name: Xenosystems
+  url: http://www.xenosystems.net/
+  type: blog
+  desc: Nick Land's blog
+
+- name: Xenogothic
+  url: https://xenogothic.com/
+  type: blog
+  desc: Matt Colquhoun's blog
+
+- name: Metanomad
+  url: https://www.meta-nomad.net/
+  type: blog
+  desc: accelerationism, among other things
+
+- name: Cyclonograph II
+  url: https://vincentgarton.com/
+  type: blog
+  desc: beyond the horizon of myth
+
+- name: Deontologistics
+  url: https://deontologistics.tumblr.com/
+  type: blog
+  desc: Pete Wolfendale's blog
+
+- name: Unqualified Reservations
+  url: https://www.unqualified-reservations.org/
+  type: blog
+  desc: Curtis Yarvin's blog
+
+- name: The Blog of Baphomet
+  url: https://theblogofbaphomet.com/
+  type: blog
+  desc: Julian Vayne's blog
