@@ -16,6 +16,14 @@ github_username:
 paginate: 10
 paginate_path: "/page:num/"
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+
 # Build settings
 plugins:
   - jekyll-paginate
