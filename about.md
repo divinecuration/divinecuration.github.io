@@ -13,3 +13,11 @@ I'm also on [twitter](https://twitter.com/divinecuration) which is probably the 
 Other places I have scattered things around the web are [soundcloud](https://soundcloud.com/samludford), [mixcloud](https://www.mixcloud.com/samludford/), and [vimeo](https://vimeo.com/samuelludford).
 
 Sam
+
+<br />
+<hr />
+
+### Subscribe
+<br />
+
+{% include mc_subscribe.html %}
