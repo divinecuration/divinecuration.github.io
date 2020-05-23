@@ -4,7 +4,6 @@ title:  "Brian Massumi on Affect"
 date: 2020-01-02 09:50:00
 categories: blog
 excerpt_separator: <!--end_excerpt-->
-comments: true
 ---
 
 This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s [paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtaWRkZW5hbTQ2MHxneDo1NzJmMTMyNWZhZDZkNzgx) Autonomy of Affect, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
