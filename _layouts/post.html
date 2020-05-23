@@ -20,4 +20,12 @@ layout: default
     {{ page.content }}
   </div>
 
+  <br />
+  <hr />
+  <br />
+
+  {% if page.comments == true %}
+    {% include comments.html %}
+  {% endif %}
+
 </article>
