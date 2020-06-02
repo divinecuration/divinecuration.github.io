@@ -13,12 +13,12 @@
   type: documentary
   desc: WG Sebald documentary
 
-- name: Drum & Bass: The Movement - The D&B Documentary
+- name: "Drum & Bass: The Movement"
   url: https://www.youtube.com/watch?v=j8fu_TOKlg4
   type: documentary
   desc: d&b doc
 
-- name: Marshawn Lynch: A History
+- name: "Marshawn Lynch: A History"
   url: https://vimeo.com/ondemand/marshawnlynchahistory
   type: documentary
   desc: by David Shields
@@ -26,3 +26,4 @@
 - name: The Act of Killing
   url: https://www.youtube.com/watch?v=-349HTKhPno
   type: documentary
+  desc: Joshua Oppensheimer
