@@ -23,6 +23,7 @@ defaults:
       type: "posts"
     values:
       comments: true
+      author: "Sam"
 
 # Build settings
 plugins:
