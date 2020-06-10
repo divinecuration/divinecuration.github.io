@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Note on Virtue Signalling"
-date: 2020-05-10 14:02:00
+date: 2020-06-10 14:02:00
 categories: blog
 excerpt_separator: <!--end_excerpt-->
 ---
