@@ -3,8 +3,6 @@
   type: culture
   desc: forum for research into negative states
 
-
-
 - name: Jacobite Magazine
   url: https://jacobitemag.com/
   type: culture
@@ -89,3 +87,13 @@
   url: http://critical-art.net/category/printed-material/
   type: culture
   desc: critical media arts
+
+- name: The Public Domain Review
+  url: https://publicdomainreview.org/
+  type: culture
+  desc: journal in public domain culture
+
+- name: 3am Magazine
+  url: https://www.3ammagazine.com/3am/
+  type: culture
+  desc: philosphy and culture
