@@ -31,7 +31,7 @@ The deep reasons for this situation seem to me to stem not from some kind of mor
 <br />
 _Notes_
 
-1. <a name="r1"></a> Since writing this I've discovered the concept of a "grift", explained wonderfully in this twitter thread:
+1. <a name="r1"></a> Since writing this I've discovered the concept of a _grift_, explained nicely in this twitter thread:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Grifts are undertheorized, and too often conflated with long cons, scams, frauds and other more blatant soft crimes. Lemme offer a definition.<br><br>A grift is a scheme that profits from the existence of a real problem without actually addressing it.</p>&mdash; Venkatesh Rao (@vgr) <a href="https://twitter.com/vgr/status/1277996104915619841?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
