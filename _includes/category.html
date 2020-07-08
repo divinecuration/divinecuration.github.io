@@ -1,0 +1,32 @@
+{% for post in site.posts %}
+{% if post.categories contains include.cat %}
+
+<div class="post_title">
+  &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+</div>
+
+{% endif %}
+{% endfor %}
+
+{% for post in site.pieces %}
+{% if post.categories contains include.cat %}
+
+<div class="post_title">
+  &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+</div>
+
+{% endif %}
+{% endfor %}
+
+{% for post in site.writings %}
+{% if post.categories contains include.cat %}
+
+<div class="post_title">
+  &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+</div>
+
+{% endif %}
+{% endfor %}

@@ -2,7 +2,7 @@
 layout: post
 title:  "Note on Virtue Signalling"
 date: 2020-06-10 14:02:00
-categories: blog
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
 

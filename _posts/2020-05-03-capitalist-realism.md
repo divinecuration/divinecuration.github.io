@@ -2,7 +2,7 @@
 layout: post
 title:  "Capitalist Realism"
 date: 2020-05-02 10:43:00
-categories: blog
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
 

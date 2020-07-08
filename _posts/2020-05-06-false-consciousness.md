@@ -2,7 +2,7 @@
 layout: post
 title:  "Note on False Consciousness and the Displaced Subject"
 date: 2020-05-06 10:43:00
-categories: blog
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
 

@@ -9,7 +9,7 @@ title: archive
 
   <section class="archive_list">
 
-    <div class="category-name">
+    <!-- <div class="category-name">
       <h2>Writings</h2>
     </div>
     <br />
@@ -52,6 +52,19 @@ title: archive
 
     {% endfor %}
 
+    {% endfor %} -->
+
+    <div class="category-name">
+      <h2>Posts</h2>
+    </div>
+    <!-- <br /> -->
+    <br />
+
+    {% for post in site.posts %}
+    <div class="post_title">
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+      <!-- <span class="date">{{ post.date | date: "%d %B %Y" }}</span> -->
+    </div>
     {% endfor %}
 
   </section>

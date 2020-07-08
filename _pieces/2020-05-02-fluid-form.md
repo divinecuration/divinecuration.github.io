@@ -2,8 +2,8 @@
 layout: page
 title:  "Fluid Form"
 date: 2018-05-01 21:06:26 +0800
-categories: pieces
 date_text: April 2018
+categories: [objects, images]
 excerpt_separator: <!--end_excerpt-->
 meta: SLA resin. 2018.
 description: A series of speculative objects based on the propagation of waves through fluids.

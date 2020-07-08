@@ -7,7 +7,7 @@ title: divine curation
   <div class="post-list">
 
     {% for post in paginator.posts %}
-    <!-- {% if post.categories contains "blog" %} -->
+
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
@@ -17,51 +17,32 @@ title: divine curation
         <p>
           {% if post.description %}
           {{ post.description}}
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> [...] »  </a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> read more</a> »
           {% else %}
           {{ post.excerpt }}
           {% if post.excerpt_separator  %}
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> [...] »  </a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> read more</a> »
           {% else %}
           {% endif %}
           {% endif %}
         </p>
       </div>
+
       <footer class="post_meta">
-
-
-
-
-        <!-- {% if post.location %}
-        <span class="author-location">
-          <div data-icon="ei-location"></div>
-          <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
-        </span>
-        {% endif %} -->
-        <!--
-        {% for category in post.categories %}
-        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
-          <data data-icon="ei-archive"></data>
-          {{category}}</a>
-        {% endfor %}
-        -->
-
-        <!--
-        {% if post.author %}
-        <span class="author_meta">
-          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
-          <span>David Lin</span>
-        </span>
-        {% endif %}
-        -->
-
-        <!--p class="readmore">
-          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
-        </p-->
+        <div class="post-categories">
+          {% if post %}
+            {% assign categories = post.categories %}
+          {% else %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          {% for category in categories %}
+          <a href="{{site.baseurl}}/{{category}}/">#{{category}}</a>
+          <!-- {% unless forloop.last %}&nbsp;{% endunless %} -->
+          {% endfor %}
+        </div>
       </footer>
       <hr/>
     </article>
-    <!-- {% endif %} -->
     {% endfor %}
 
     {% if paginator.total_pages > 1 %}

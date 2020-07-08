@@ -2,7 +2,7 @@
 layout: post
 title:  "Accelerate"
 date: 2020-05-10 14:02:00
-categories: blog
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
 

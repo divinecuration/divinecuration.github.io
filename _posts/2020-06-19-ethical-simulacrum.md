@@ -2,7 +2,7 @@
 layout: post
 title:  "The Ethical Simulacrum"
 date: 2020-06-22 09:23:00
-categories: blog
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
 

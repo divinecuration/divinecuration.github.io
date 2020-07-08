@@ -2,8 +2,9 @@
 layout: page
 title:  "The Octopus and the Machine"
 date: 2019-05-01 21:06:26 +0800
-categories: writings
+categories: octopus
 date_text: October 2019
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 description: A Daily Telegraph article published in October 2008 describes the exploits of an octopus named Otto, who, acquiring a taste for chaos after learning how to short circuit the light above his tank by squirting jets of water at it, embarked on a rampage of escalating mischief. In addition to electrical tampering, by the end of the spree Otto’s misdemeanours included damaging his tank by throwing stones against the glass, juggling hermit crabs, rearranging the tank “much to the distress of his fellow occupants,” and squandering the resources of the aquarium staff, who took some time to get to the bottom of the matter.
 ---

@@ -2,8 +2,8 @@
 layout: page
 title:  "The Platopus"
 date: 2013-05-01 21:06:26 +0800
-categories: pieces
 date_text: September 2013 - June 2015
+categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 meta: Blog. 2013-2015.
 description: A blog about the philosophy of mind, language and science.

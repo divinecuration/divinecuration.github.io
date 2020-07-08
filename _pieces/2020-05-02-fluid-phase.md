@@ -2,8 +2,8 @@
 layout: page
 title:  "Fluid Phase"
 date: 2016-05-01 21:06:26 +0800
-categories: pieces
 date_text: August 2016
+categories: [films, sounds]
 excerpt_separator: <!--end_excerpt-->
 meta: Film. 2016.
 description: An audiovisual meditation on fluids and cycles.

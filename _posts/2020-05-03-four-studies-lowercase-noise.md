@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Four Studies in Lowercase"
+categories: [sounds, images]
 date: 2020-03-02 09:50:00
-categories: blog
 ---
 
 Lowercase is a term coined by Steve Roden, referring to a form of minimal ambient music that makes use of very quiet and usually unheard sounds.
