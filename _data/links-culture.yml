@@ -107,3 +107,8 @@
   url: https://foucault.info/
   type: culture
   desc: Michel Foucault archive
+
+- name: Gutenberg
+  url: https://www.gutenberg.org/
+  type: culture
+  desc: free eBooks
