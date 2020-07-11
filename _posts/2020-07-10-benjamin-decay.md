@@ -15,7 +15,7 @@ In 1935 Walter Benjamin [compared]({{ site.baseurl }}/assets/pdf/benjamin-mechan
 
 _>> mediations_
 
-Benjamin theorised that both are products of the intrusion of the camera as mediating interface between actor and audience. This new relationship between them involves a restructuring of the normative field at both ends<sup>[1](#r1)</sup>. One reciprocal relation is replaced by two unilateral relations, the mediation crystallising the division of labour between producer and consumer---fixing their difference as social roles.
+Benjamin theorised that both are products of the intrusion of the camera as mediating interface between actor and audience. This new relationship between them involves a restructuring of the normative field at both ends<sup>[1](#r1)</sup>. One reciprocal relation is replaced by two unilateral relations, the mediation crystallising the division of labour between producer and consumer, fixing their difference as social roles.
 
 The camera is surgical, dissecting the performance for critical inspection. At the same time it removes the audience from the performance space, denying the actor any source of immediate feedback and masking its own criteria. A new kind of performance anxiety arises for the film actor, likened by Benjamin to the feeling of standing before one’s image in the mirror. It is the product of a technical mediation which both produces a regime of testing and obscures its own criteria to those tested. On the side of the audience, the attitude changes from reciprocal involvement to unilateral scrutiny. The camera tests; the audience test with it<sup>[2](#r2)</sup>. The screen performance is tested for its authenticity, for its "realism", even though its production for reproduction is always an act of artifice.
 
