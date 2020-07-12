@@ -39,7 +39,7 @@ Benjamin’s analysis of ritual value yields a similar puzzle. The aura of the a
 
 _>> invisibilia_
 
-That which remains socially embedded is rendered invisible in a world that registers only what has been abstracted for reproduction, that which has been placed in a frame. The framing operation—always a technical operation—is just that which de-embeds an object, an event, a message, or a person. It is a violent foregrounding which translates particularity into the abstract universality of a media space. This is always a threefold process:
+That which remains socially embedded is rendered invisible in a world that registers only what has been abstracted for reproduction---that which has been placed in a frame. The framing operation is that which de-embeds an object, an event, a message, or a person. It is a violent foregrounding which translates particularity into the abstract universality of a media space. This is always a threefold process:
 
 1. The decomposition of a complex particular into heterogeneous parts.
 2. A selective and exclusionary mapping of parts into a new medium which homogenises them under a common characteristic.
