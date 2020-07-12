@@ -8,7 +8,7 @@ excerpt_separator: <!--end_excerpt-->
 
 In 1935 Walter Benjamin [compared]({{ site.baseurl }}/assets/pdf/benjamin-mechanical-reproduction.pdf) the performances of the stage actor and the film actor. He found two differences:
 
-1. The screen performance is less _unitary_ than the stage performance. It can be pieced together from different takes and repeat performances, incorporate "real" footage, be altered, spliced and restitched. Unlike the organic unity of a stage performance, it is a patchwork of fragments sewn together into synthetic unity.
+1. The screen performance is less _unitary_ than the stage performance. It can be pieced together from different takes and repeat performances, incorporate "real" footage, be altered, spliced and restitched. Unlike the organic unity of a stage performance, it is a patchwork of fragments sewn together into a synthetic unity.
 2. A screen performance is more readily susceptible to _critical_ engagement. It can be rewatched by an audience many times over, slowed down and reversed, examined in its minutiae.
 <br />
 <br />
