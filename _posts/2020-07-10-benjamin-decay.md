@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Auric Decay and Invisibilty (Benjamin to Berghain)"
+title:  "Auric Decay and Invisibility (Benjamin to Berghain)"
 date: 2020-07-10 10:00:00
 categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
