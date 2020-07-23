@@ -55,7 +55,10 @@ Meanwhile Berghain makes a policy of hiddenness. The ban on photography ostensib
 _{ original text from Sept 2019 }_
 
 <br />
-
+![]({{site.baseurl}}/assets/img/blog/berghain-mine.jpg)
+<br />
+<br />
+<br />
 _Notes_
 
 1. <a name="r1"></a> Technical mediation always implies normative restructuring. Artisanal poeisis is defined by its acknowledgement of an obligation to materials themselves; industrial technics recognises its obligations to the machines that operate on them. I've explored this idea in [The Octopus and the Machine]({{site.baseurl}}/writings/2020-05-02-the-octopus-and-the-machine.html).
