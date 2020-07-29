@@ -112,3 +112,8 @@
   url: https://www.gutenberg.org/
   type: culture
   desc: free eBooks
+
+- name: SciHub
+  url: https://sci-hub.tw/
+  type: culture
+  desc: ...to remove all barriers in the way of science
