@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sacrifice, Identification and Self-Constitution"
-date: 2020-07-14 09:23:00
+date: 2020-07-30 09:23:00
 categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
