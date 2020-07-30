@@ -34,7 +34,7 @@ What's exciting about Brandom's reading of Hegel is that it can potentially offe
 
 _Notes_
 
-1. It is interesting to compare this with Žižek's development of 'interpassivity' (in [The Interpassive Subject]({{site.baseurl}}/assets/pdf/zizek-interpassive.pdf))---when, for example, the canned laughter in the sitcom laughs so that you don't have to---which depends on a similar kind of deferral, or 'substitution' in Žižek's terminology.
+1. <a name="r1"></a>It is interesting to compare this with Žižek's development of 'interpassivity' (in [The Interpassive Subject]({{site.baseurl}}/assets/pdf/zizek-interpassive.pdf))---when, for example, the canned laughter in the sitcom laughs so that you don't have to---which depends on a similar kind of deferral, or 'substitution' in Žižek's terminology.
 
 2. <a name="r2"></a>Much hinges, then, on what it means to 'recognise' another as authoritative, and how such practices institute social obligations between recognisers. In a famous monograph Marcel Mauss' argued that gift exchange has historically been the primary social technology for establishing social bonds in human societies:
 
