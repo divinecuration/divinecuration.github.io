@@ -10,6 +10,8 @@ Brandom begins his exposition of the Self-Consciousness chapter of the Phenomeno
 
 Needless to say, Brandom reads Hegel as understanding ourselves to be such essentially self-conscious beings. If we are then we possess no essential features (other than our being essentially self-conscious), since what we are essentially is always subject to change in light of revisions to our self-conception. Accordingly, rather than understanding ourselves as creatures with _natures_, we should understand ourselves as having _histories_<sup>[2](#r2)</sup>.
 
+<!--end_excerpt-->
+
 Brandom has some interesting things to say about essential self-consciousness. The way he cashes it out  turns on the idea of _practical identification_. The link between identification and self-constitution arises from the thought that the features of a self-conception which are to _be_ essential must be those which one _takes to be_ essential (a point which should become clearer below).
 
 > So we should ask: What is it that one must _do_ in order properly to be understood as thereby _identifying oneself_ with some but perhaps not all elements of one's self-conception. The answer we are given in _Self-Consciousness_ is that one identifies with what one is willing to _risk_ and _sacrifice_ for. Hegel's metonymic image for this point concerns the important case of making the initial transition from being merely a living organism, belonging to the realm of Nature, to being a denizen of the normative realm of Spirit. The key element in this index case is willingness to risk one's biological life in the service of a commitment---something that goes beyond a mere desire.
