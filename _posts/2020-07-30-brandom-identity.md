@@ -39,4 +39,4 @@ _Notes_
 
 3. <a name="r3"></a> See e.g. the second section of Kant's Groundwork of the Metaphysics of Morals.
 
-4. <a name="r4"></a> We could say perhaps that identity constituted through solidarity, where both are understood at the level of normative pragmatics.
+4. <a name="r4"></a> We could say perhaps that identity is constituted through solidarity, where both are understood at the level of normative pragmatics.
