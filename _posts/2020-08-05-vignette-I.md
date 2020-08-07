@@ -32,6 +32,7 @@ A recent advert for Squarespace ran with the tagline “[a website makes it real
 <br />
 <br />
 
+_Amnesia Scanner - AS TRUTH_
 {% include soundcloud.html id="305745518"  %}
 
 
@@ -45,7 +46,7 @@ _Notes_
 
 3. <a name="r3"></a> Peter Sloterdijk, _Spheres III: Foams_.
 
-4. <a name="r4"></a> A point made most memorably by David Foster Wallace.
+4. <a name="r4"></a> A point made by David Foster Wallace.
 
 5. <a name="r5"></a> Jean Baudrillard, _Passwords_.
 
