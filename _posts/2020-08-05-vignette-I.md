@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vignette I (or, how to freeze a dialectic by locking affects onto a foamy loop)"
-date: 2020-08-05 09:23:00
+date: 2020-08-07 09:23:00
 categories: [thoughts]
 excerpt_separator: <!--end_excerpt-->
 ---
