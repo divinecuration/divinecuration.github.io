@@ -1,12 +1,11 @@
 ---
-layout: page
-title:  "Prima Materia"
-date: 2020-05-01 21:07:26 +0800
+layout: post
+title: "Study V"
+subtitle:  "Prima Materia"
+date: 2018-05-02 21:07:26 +0800
 date_text: April 2018
-categories: [objects]
-excerpt_separator: <!--end_excerpt-->
+categories: [objects, studies]
 meta: Ferrofluid, camera, electromagnets, custom software. 2018.
-description: A feedback loop for ferrofluid and computer vision.
 ---
 
 {% include vimeo.html id=266520281 %}

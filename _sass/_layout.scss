@@ -198,8 +198,14 @@ input#menu-toggle {
   border-bottom: 0px;
 }
 
-.post_date {
+.post_subtitle {
   color:#888;
+  font-size:1.4rem;
+}
+
+.post_date {
+  font-style: italic;
+  color:#000;
   font-size:1.4rem;
 }
 

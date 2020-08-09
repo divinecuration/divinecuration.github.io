@@ -11,7 +11,15 @@ title: divine curation
     <article class="post_card post">
       <header class="post_header">
         <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <!-- <h3 class="post_subtitle">{{ post.subtitle }}</h3> -->
+
+        <time class="post_subtitle">{{ post.subtitle }}</time>
+        <br />
         <time class="post_date">{{ post.date | date: "%d %B %Y" }}</time>
+        <br />
+        <br />
+        <!-- <br /> -->
+
       </header>
       <div class="post_excerpt">
         <p>
@@ -29,6 +37,7 @@ title: divine curation
       </div>
 
       <footer class="post_meta">
+        <!-- <time class="post_date">{{ post.date | date: "%d %B %Y" }}</time> -->
         <div class="post-categories">
           {% if post %}
             {% assign categories = post.categories %}

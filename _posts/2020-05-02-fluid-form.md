@@ -1,12 +1,11 @@
 ---
-layout: page
-title:  "Fluid Form"
+layout: post
+title: "Study IV"
+subtitle:  "Fluid Form"
 date: 2018-05-01 21:06:26 +0800
 date_text: April 2018
-categories: [objects, images]
-excerpt_separator: <!--end_excerpt-->
+categories: [objects, images, studies]
 meta: SLA resin. 2018.
-description: A series of speculative objects based on the propagation of waves through fluids.
 ---
 
 ![]({{site.baseurl}}/assets/img/fluid-form/im-group.jpg)

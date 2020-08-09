@@ -1,19 +1,17 @@
 ---
-layout: page
-title:  "The Octopus and the Machine"
+layout: post
+title: "Document I"
+subtitle:  "The Octopus and the Machine"
 date: 2019-05-01 21:06:26 +0800
-categories: octopus
-date_text: October 2019
-categories: [thoughts]
+categories: [thoughts, documents]
 excerpt_separator: <!--end_excerpt-->
-description: A Daily Telegraph article published in October 2008 describes the exploits of an octopus named Otto, who, acquiring a taste for chaos after learning how to short circuit the light above his tank by squirting jets of water at it, embarked on a rampage of escalating mischief. In addition to electrical tampering, by the end of the spree Otto’s misdemeanours included damaging his tank by throwing stones against the glass, juggling hermit crabs, rearranging the tank “much to the distress of his fellow occupants,” and squandering the resources of the aquarium staff, who took some time to get to the bottom of the matter.
 ---
 
 A Daily Telegraph [article](https://www.telegraph.co.uk/news/newstopics/howaboutthat/3328480/Otto-the-octopus-wrecks-havoc.html) published in October 2008 describes the exploits of an octopus named Otto, who, acquiring a taste for chaos after learning how to short circuit the light above his tank by squirting jets of water at it, embarked on a rampage of escalating mischief. In addition to electrical tampering, by the end of the spree Otto’s misdemeanours included damaging his tank by throwing stones against the glass, juggling hermit crabs, rearranging the tank “much to the distress of his fellow occupants,” and squandering the resources of the aquarium staff, who took some time to get to the bottom of the matter.
 
-<!--end_excerpt-->
-
 The director of the Sea Star aquarium was quick to discredit Otto’s character. “We’ve put the light a bit higher now so he shouldn’t be able to reach it. But Otto is constantly craving for attention and always comes up with new stunts.” Another spokesperson stressed the moral gravity of the issue: “It was a serious matter because it shorted the electricity supply to the whole aquarium that threatened the lives of the other animals when the water pumps ceased to work.” Bored Otto may have been, but in the eyes of the aquarium this was no excuse for placing his fellow sea critters in danger, not to mention the trauma endured by those hermit crabs.
+
+<!--end_excerpt-->
 
 The aquarium’s inhabitants depend for their continued existence on a technological bureaucracy comprised of both human and nonhuman components. These include cooling and heating systems, automatic spotlights, tanks with precise structural properties, animal specialists and security guards, timetables, routines, and so on. Unsatisfied with being merely maintained, Otto had other plans. His crime was to co-opt the apparatus of the bureaucracy for ends other than those intended by its human architects. The authoritarian clampdown that followed takes the smooth functioning of this regime as axiomatic, its moral probing either off-limits or unthinkable by those enforcing it. Nowhere is it considered that responsibility for the risk to animals living in an artificial environment highly sensitive to technological malfunction may lie with whoever put them there in the first place.
 

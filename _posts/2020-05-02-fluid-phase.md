@@ -1,12 +1,11 @@
 ---
-layout: page
-title:  "Fluid Phase"
+layout: post
+title: "Study II"
+subtitle:  "Fluid Phase"
 date: 2016-05-01 21:06:26 +0800
 date_text: August 2016
-categories: [films, sounds]
-excerpt_separator: <!--end_excerpt-->
+categories: [films, sounds, studies]
 meta: Film. 2016.
-description: An audiovisual meditation on fluids and cycles.
 ---
 
 {% include vimeo.html id=193515640 %}

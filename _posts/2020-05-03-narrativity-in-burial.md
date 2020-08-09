@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Still Thinking about Burial"
+title: "Meditation I"
+subtitle:  "Still Thinking about Burial"
 date: 2020-04-02 09:50:00
-categories: [thoughts, sounds, films]
+categories: [thoughts, sounds, films, meditations]
 excerpt_separator: <!--end_excerpt-->
 ---
 
@@ -21,7 +22,7 @@ Fisher emphasised the continuity of Burial with dub’s phono-centric sensibilit
 {% include youtube.html id="gY8-lC6g0q8" %}
 <br />
 
-For Fisher, the slow cancellation of the future represented a naturalisation of the dyschronia Frederic Jameson [saw](https://pdfs.semanticscholar.org/40d6/b702fa28fdd1802abfb1210e10f1fa36de42.pdf) as characteristic of the postmodern. No longer experienced as jarring or eerie, culture has seen a flattening of the ironic dimension in pastiche and its anachronistic remixing of past forms. The same tricks which were once offered as ironies are now presented with the full revolutionary earnest that modernism reserved for formal innovation. Irony gestures to the impossibility of an imaginable real; when the real is no longer imaginable anxiety for its absence disappears with it. It is the closure of Baudrillard’s simulatory envelope, final elimination and replacement of the real by its reproduction.
+For Fisher, the slow cancellation of the future represented a naturalisation of the dyschronia Frederic Jameson [saw]({{site.baseurl}}/assets/pdf/jameson-postmodernism.pdf) as characteristic of the postmodern. No longer experienced as jarring or eerie, culture has seen a flattening of the ironic dimension in pastiche and its anachronistic remixing of past forms. The same tricks which were once offered as ironies are now presented with the full revolutionary earnest that modernism reserved for formal innovation. Irony gestures to the impossibility of an imaginable real; when the real is no longer imaginable anxiety for its absence disappears with it. It is the closure of Baudrillard’s simulatory envelope, final elimination and replacement of the real by its reproduction.
 
 This closure, according to Baudrillard, is always a process of symbolic ambiguity resolving into semiotic transparency, a reduction of a symbol whose referent is hidden and contestable to a sign whose meaning is exhausted by its differential relations to other signs. This reduction can be understood as an exorcism of unknown potentialities and their replacement by a relational essence, of the substitution of opaque particulars by transparent universals. If there is any possibility of a materialism in Baudrillard it lies in the recovery of ambiguity and the antagonism of the hidden.
 

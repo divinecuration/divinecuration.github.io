@@ -1,9 +1,10 @@
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 {% if post.categories contains include.cat %}
 
 <div class="post_title">
   &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+  <!-- <span class="date">{{ post.date | date: "%d %B %Y" }}</span> -->
+  <span class="date">{{ post.subtitle }}</span>
 </div>
 
 {% endif %}
@@ -14,7 +15,8 @@
 
 <div class="post_title">
   &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+  <span class="date">{{ post.subtitle }}</span>
+  <!-- <span class="date">{{ post.date | date: "%d %B %Y" }}</span> -->
 </div>
 
 {% endif %}
@@ -25,7 +27,8 @@
 
 <div class="post_title">
   &raquo; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-  <span class="date">{{ post.date | date: "%d %B %Y" }}</span>
+  <span class="date">{{ post.subtitle }}</span>
+  <!-- <span class="date">{{ post.date | date: "%d %B %Y" }}</span> -->
 </div>
 
 {% endif %}

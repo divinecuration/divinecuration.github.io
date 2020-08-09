@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Capitalist Realism"
+title: "Note II"
+subtitle:  "Capitalist Realism"
 date: 2020-05-02 10:43:00
-categories: [thoughts]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 

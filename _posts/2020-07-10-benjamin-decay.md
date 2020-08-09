@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Auric Decay and Invisibility (Benjamin to Berghain)"
+title: "Meditation II"
+subtitle:  "Auric Decay and Invisibility (Benjamin to Berghain)"
 date: 2020-07-10 10:00:00
-categories: [thoughts]
+categories: [thoughts, meditations]
 excerpt_separator: <!--end_excerpt-->
 ---
 
@@ -39,7 +40,7 @@ Benjamin’s analysis of ritual value yields a similar puzzle. The aura of the a
 
 _>> invisibilia_
 
-That which remains socially embedded is rendered invisible in a world that registers only what has been abstracted for reproduction, that which has been placed within a frame ([a website makes it real]({{site.baseurl}}/thoughts/clippings/2020/05/10/the-public-real.html)). The framing operation de-embeds an object, an event, a message, or a person. It is a violent foregrounding which translates particularity into the abstract universality of a media space. This is always a threefold process:
+That which remains socially embedded is rendered invisible in a world that registers only what has been abstracted for reproduction, that which has been placed within a frame ([a website makes it real]({{site.baseurl}}/2020/05/10/the-public-real.html)). The framing operation de-embeds an object, an event, a message, or a person. It is a violent foregrounding which translates particularity into the abstract universality of a media space. This is always a threefold process:
 
 1. The decomposition of a complex particular into its (inevitably) heterogeneous parts.
 2. A selective and exclusionary mapping of parts into a new medium which homogenises them under a common characteristic.
@@ -64,10 +65,10 @@ _Notes_
 1. <a name="r1"></a> Technical mediation always implies normative restructuring. Artisanal poeisis is defined by its acknowledgement of an obligation to materials themselves; industrial technics recognises its obligations to the machines that operate on them. I've explored this idea in [The Octopus and the Machine]({{site.baseurl}}/writings/2020-05-02-the-octopus-and-the-machine.html).
 2. <a name="r2"></a> Benjamin's point about testing is later picked up by Baudrillard, who uses it as the basis of his model of consumption as labour. To consume, he says, is to be constantly performing for tests, in the sense that the media tests the celebrity on their performance of its idea of who they are, or the tourist tests the locals on their performance of the tourist's own idea of their authenticity. For the recipient of the test the labour is that of _reading implicit social codes_---of reading a room that does not believe in its own existence and so can never make its expectations explicit.
 
-3. <a name="r3"></a> See also [Note on False Consciousness and the Displaced Subject]({{site.baseurl}}/thoughts/2020/05/06/false-consciousness.html).
+3. <a name="r3"></a> See also [Note on False Consciousness and the Displaced Subject]({{site.baseurl}}/2020/05/06/false-consciousness.html).
 
 4. <a name="r4"></a> Just as you cannot wear someone else's wedding ring.
 
-5. <a name="r5"></a> See also [The Real as an Optics of Value]({{site.baseurl}}/thoughts/clippings/2020/05/10/the-public-real.html).
+5. <a name="r5"></a> See also [The Real as an Optics of Value]({{site.baseurl}}/2020/05/10/the-public-real.html).
 
 6. <a name="r6"></a> A subculture could perhaps be defined as an autonomous sphere of value.

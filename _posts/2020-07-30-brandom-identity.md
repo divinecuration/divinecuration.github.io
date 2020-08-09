@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Sacrifice, Identification and Self-Constitution"
+title: "Note V"
+subtitle:  "Sacrifice, Identification and Self-Constitution"
 date: 2020-07-30 09:23:00
-categories: [thoughts]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 

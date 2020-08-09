@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://divinecuration.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username:
+permalink: /:year/:month/:day/:title:output_ext
 paginate: 10
 paginate_path: "/page:num/"
 collections:

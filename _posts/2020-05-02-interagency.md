@@ -1,12 +1,11 @@
 ---
-layout: page
-title:  "Interagency"
+layout: post
+title: "Study III"
+subtitle:  "Interagency"
 date: 2017-05-01 21:06:26 +0800
 date_text: November 2017
-categories: [objects]
-excerpt_separator: <!--end_excerpt-->
+categories: [objects, studies]
 meta: 2 x Raspberry Pi Zero, acrylic, custom scripts, display. 2017.
-description: An installation investigating the notion of software agency via the causal links between virtual processes and physical hardware.
 ---
 
 ![]({{site.baseurl}}/assets/img/interagency/lead.jpg)

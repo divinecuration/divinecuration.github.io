@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Accelerate"
+title: "Reflection III"
+subtitle:  "Accelerate"
 date: 2020-05-10 14:02:00
-categories: [thoughts]
+categories: [thoughts, reflections]
 excerpt_separator: <!--end_excerpt-->
 ---
 

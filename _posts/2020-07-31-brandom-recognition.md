@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Self-Consciousness as Reciprocal Recognition"
+title: "Note VI"
+subtitle:  "Self-Consciousness as Reciprocal Recognition"
 date: 2020-07-31 09:23:00
-categories: [thoughts]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 
@@ -29,7 +30,7 @@ Back to transitivity. If to recognise someone were just to believe that they hav
 
 If an account of what one must be doing in practice to count as recognising another that satisfies both transitivity and symmetry conditions can be given, then reflexivity will follow as a consequence. This would imply that any self that has the capacity to recognise another thereby possesses the capacity to recognise themselves. If this picture is correct it would also imply that insofar as one recognises themselves, they are also implicitly recognising others and being recognised by them. This contrasts dramatically with the Cartesian picture. In that account recognition as practical attitude is not distinguished from recognition as belief. Reflexivity (self-consciousness) is then equated to the certainty that _I am_, as a direct consequence of the incorrigibility of the belief _I think_, and independently of any belief in other selves. This unmediated reflexivity then gives rise to the Cartesian problem of other minds, since there is no analytic reason to suppose that belief in other minds should be transitive or symmetric (as discussed above), and neither do these properties follow from reflexivity.
 
-From the Hegelian perspective, the very capacity of a subject to form the belief _I think_ indicates that they already recognise themselves in the practical sense (otherwise they would not be able to understand their own use of the first-person pronoun). To draw the conclusion _I am_ is then just to make a explicit what was already implicit in practice. But according to the Hegelian picture, if this is the case then there is already a lot more implicit in practice---in particular, the reciprocal recognition of other minds. The solipsist who believes in the existence of their own consciousness, but not that of others, therefore holds beliefs which are inconsistent with their practical attitudes. If their practical attitudes were to be brought into line with their beliefs they would recognise no-one (that is to say, they would objectify everyone). But in this case they would no longer be able to recognise themselves. The global causal stance of the sociopath (the practicing solipsist) must ultimately extend to themselves as well<sup>[2](#r2)</sup>.  
+From the Hegelian perspective, the very capacity of a subject to form the belief _I think_ indicates that they already recognise themselves in the practical sense (otherwise they would not be able to understand their own use of the first-person pronoun). To draw the conclusion _I am_ is then just to make explicit what was already implicit in practice. But according to the Hegelian picture, if this is the case then there is already a lot more implicit in practice---in particular, the reciprocal recognition of other minds. The solipsist who believes in the existence of their own consciousness, but not that of others, therefore holds beliefs which are inconsistent with their practical attitudes. If their practical attitudes were to be brought into line with their beliefs they would recognise no-one (that is to say, they would objectify everyone). But in this case they would no longer be able to recognise themselves. The global causal stance of the sociopath (the practicing solipsist) must ultimately extend to themselves as well<sup>[2](#r2)</sup>.  
 
 <br />
 

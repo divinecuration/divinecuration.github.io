@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Brian Massumi on Affect"
+title: "Note I"
+subtitle:  "Brian Massumi on Affect"
 date: 2020-01-02 09:50:00
-categories: [thoughts, clippings]
+categories: [thoughts, clippings, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 
-This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s [paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxtaWRkZW5hbTQ2MHxneDo1NzJmMTMyNWZhZDZkNzgx) Autonomy of Affect, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
+This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s [paper]({{site.baseurl}}/assets/pdf/massumi-affect.pdf) Autonomy of Affect, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
 
 > It could be noted that the primacy of the affective is marked by a gap between content and effect: it would appear that the strength or duration of an image’s effect is not logically connected to the content in any straightforward way. This is not to say that there is no connection and no logic. What is meant here by the content of the image is its indexing to conventional meanings in an intersubjective context, its socio-linguistic qualification. This indexing fixes the determinate qualities of the image; the strength or duration of the image’s effect could be called its intensity.
 
@@ -48,7 +49,7 @@ Then it’s Simondon’s turn (all these links to other thinkers and theories is
 
 > Emergence, once again, is a two-sided coin: one side in the virtual (the autonomy of relation), the other in the actual (functional limitation). What is being termed affect in this essay is precisely this two-sidedness, the simultaneous participation of the virtual in the actual and the actual in the virtual, as one arises from and returns to the other. Affect is this two-sideness as seen from the side of the actual thing, as couched in its perceptions and cognitions. Affect is the virtual as point of view, provided the visual metaphor is used guardedly.
 
-This last paragraph has brought some light to something that has always puzzled me about affect theory. Sometimes affect is described in a very general sense (usually with reference to people like Spinoza and Deleuze) in terms of concepts like potentiality, capacities and virtualities. At others it is described in the more easily grasped sense of feelings (i.e. conscious events) prior to their qualification (often Lauren Berlant's [Cruel Optimism](https://criticalconversation.files.wordpress.com/2014/12/chapter-one-cruel-optimism-with-endnotes.pdf) is invoked at this point). I never understood how potentialities were supposed to be identified with events. But Massumi provides some clarification: the Berlant variety of affect is a special case of the Deleuzian variety, the actualisation of potentialities in the perceiving organism from the perspective of that organism.
+This last paragraph has brought some light to something that has always puzzled me about affect theory. Sometimes affect is described in a very general sense (usually with reference to people like Spinoza and Deleuze) in terms of concepts like potentiality, capacities and virtualities. At others it is described in the more easily grasped sense of feelings (i.e. conscious events) prior to their qualification (often Lauren Berlant's [Cruel Optimism]({{site.baseurl}}/assets/pdf/berlant-cruel-optimism.pdf) is invoked at this point). I never understood how potentialities were supposed to be identified with events. But Massumi provides some clarification: the Berlant variety of affect is a special case of the Deleuzian variety, the actualisation of potentialities in the perceiving organism from the perspective of that organism.
 
 Elaborating on this:
 

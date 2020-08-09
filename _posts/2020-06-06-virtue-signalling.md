@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Note on Virtue Signalling"
+title: "Reflection V"
+subtitle:  "Virtue Signalling"
 date: 2020-06-10 14:02:00
-categories: [thoughts]
+categories: [thoughts, reflections]
 excerpt_separator: <!--end_excerpt-->
 ---
 

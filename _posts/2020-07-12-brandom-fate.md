@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Between Fate and Alienation (Brandom on Hegel)"
+title: "Note IV"
+subtitle:  "Between Fate and Alienation (Brandom on Hegel)"
 date: 2020-07-14 09:23:00
-categories: [thoughts]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "The Ethical Simulacrum"
+title: "Reflection VI"
+subtitle:  "The Ethical Simulacrum"
 date: 2020-06-22 09:23:00
-categories: [thoughts]
+categories: [thoughts, reflections]
 excerpt_separator: <!--end_excerpt-->
 ---
 

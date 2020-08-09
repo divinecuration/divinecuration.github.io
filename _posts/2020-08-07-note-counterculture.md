@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Counternotes on Subculture"
+title: "Note VII"
+subtitle:  "Counternotes on Subculture"
 date: 2020-08-07 09:23:00
-categories: [thoughts]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 
