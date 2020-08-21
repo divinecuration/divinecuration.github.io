@@ -19,6 +19,8 @@ Earlier I had come across this Twitter thread:
 
 Having once been a professional programmer myself, the thread touched familiar memories of the fear and loathing that comes with this kind of work. As the author points out, much of the alienation stems from the total absence of a social context in which the fruits of the work can live and acquire shared meaning. Social isolation is produced by the obscurity of particular technical problems, the extreme divisions of labour within particular projects or companies, and also the Balkanisation of codebases and technologies across the wider industry. Another consequence is that a huge slice of the work that many programmers actually do is ultimately redundant. As the person doing it you are well aware of this, an awareness that jars horribly with the overwhelming stress of pointlessly tight deadlines and spiralling accountability. The author writes, aptly, that as a programmer there is a sense that you are doing little more than "monetising loneliness".
 
+<!--end_excerpt-->
+
 The most insightful part of this thread, in my opinion---and the point that brings us to Debord---concerns the influence that the alienation experienced by programmers in their work can have on their attitudes to leisure-time and personal identity.
 
 <br />
