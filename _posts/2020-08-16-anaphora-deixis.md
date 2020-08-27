@@ -55,7 +55,7 @@ Without a retentional framework, the technical structures we use to communicate 
 
 _Notes_
 
-1. <a name="r1"></a> Anthony Wilden, _The Rules are Game: The Strategy of Communication_ (Introduction).
+1. <a name="r1"></a> Anthony Wilden, _The Rules are No Game: The Strategy of Communication_ (Introduction).
 
 2. <a name="r2"></a> Mark Fisher, _Ghosts of My Life_. Chapter 1, [The Slow Cancellation of the Future](https://thequietus.com/articles/13004-mark-fisher-ghosts-of-my-life-extract).
 
