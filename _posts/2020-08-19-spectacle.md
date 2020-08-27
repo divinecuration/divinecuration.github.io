@@ -7,7 +7,7 @@ categories: [thoughts, reflections]
 excerpt_separator: <!--end_excerpt-->
 ---
 
-Last night I encountered this passage, idly rereading the first chapter of Guy Debord's [Society of the Spectacle]({{site.baseurl}}/assets/pdf/debord-spectacle.pdf):
+Last night I encountered this passage while idly rereading the first chapter of Guy Debord's [Society of the Spectacle]({{site.baseurl}}/assets/pdf/debord-spectacle.pdf):
 
 > Though separated from what they produce, people nevertheless produce every detail of their world with ever-increasing power. They thus also find themselves increasingly separated from that world. The closer their life comes to being their own creation, the more they are excluded from that life.
 
@@ -17,7 +17,7 @@ Earlier I had come across this Twitter thread:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the intolerable aspect of professional programming, and some other white-collar labor, is that your work is utterly disconnected from production that other people understand.<br><br>when you get off work, there’s literally nothing you can express to other people about how your day went</p>&mdash; Chris Johnson (@spiderfoods) <a href="https://twitter.com/spiderfoods/status/1294827598506319874?ref_src=twsrc%5Etfw">August 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br />
 
-Having once been a professional programmer myself, the thread stirred uncomfortable memories of the fear and loathing that comes with this kind of work. As the author points out, much of the alienation stems from the complete absence of any shared social context in which the fruits of the labour can live and take on meaning. Social isolation is produced by the obscurity of particular technical problems, the extreme divisions of labour within particular projects or companies, and also the Balkanisation of codebases and technologies across the wider industry. Running parallel to this, another consequence of Balkanisation is that a huge slice of the work that many programmers do is repetitive and ultimately redundant. As the person doing it you are well aware of this, an awareness that jars horribly with the overwhelming stress of pointlessly tight deadlines and spiralling accountability. The author writes, aptly, that as a programmer there is a sense that you are doing little more than "monetising loneliness".
+Having once been a programmer myself, the thread stirred some uncomfortable memories of the fear and loathing that comes with this kind of work. As the author points out, much of the alienation stems from the complete absence of any shared social context in which the fruits of the labour can live and take on meaning. Social isolation is produced by the obscurity of particular technical problems, the extreme divisions of labour within particular projects or companies, and also the Balkanisation of codebases and technologies across the wider industry. Running parallel to this, and closely related, is the fact that a huge slice of the work that many programmers do is a repetition of something someone else has already done, and ultimately redundant (another consequence of Balkanisation). As the person doing it you are well aware of this, an awareness that jars horribly with the overwhelming stress of pointlessly tight deadlines and spiralling accountability. The author writes, aptly, that as a programmer there is a sense that you are doing little more than "monetising loneliness".
 
 <!--end_excerpt-->
 
