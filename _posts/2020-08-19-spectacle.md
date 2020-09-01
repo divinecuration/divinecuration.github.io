@@ -3,7 +3,7 @@ layout: post
 title:  "Note VII"
 subtitle: "Spectacular Tech Bros"
 date: 2020-08-19 09:23:00
-categories: [thoughts, reflections]
+categories: [thoughts, notes]
 excerpt_separator: <!--end_excerpt-->
 ---
 
