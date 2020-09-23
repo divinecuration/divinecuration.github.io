@@ -14,13 +14,13 @@ This essay represents my own attempt to untangle this ambiguity, motivated by my
 
 The suggestion I will make is that everything hinges on the difference between strategies of resistance that aim to _subvert_ and those which aim to _appropriate_. Roughly, this is the difference between trying to beat someone at their own game, and hijacking the deck to start playing something else. These two strategies correspond, respectively, to two readings of Lorde's maxim---a media-theoretic reading, under which I believe it to be true, and a materialist reading, under which I believe it to be false. My recommendation will be that we abandon all attempts at subversion and channel all energies into appropriation. This recommendation is aimed primarily at myself, though, in the hope that it is still possible for something to be at stake in these matters, I hope also to persuade some of my friends.
 
+<!--end_excerpt-->
+
 <br />
 
 _>> a problematic: tools, codes, and carnivals_
 
 The maxim's ambiguity appears to derive from a deeper ambiguity built into the very concept of a tool. A tool is something with both material and social aspects: on the one hand it is an object, on the other a set of conventions establishing the object’s function as a tool. The same object can be a different tool in different contexts; a rock may be a table one day and a brick the next. If by "tool" we are referring specifically to the material object, then Lorde’s warning takes on its false sense. The master’s mallet can indeed break down the master’s door—why couldn’t it? But if it does so, then there is another sense in which the master’s mallet is no longer the master’s mallet---it has become the villager’s weapon. It is in this sense, in which "tool" is held to refer to the object in its socially determined function, that the omen acquires its charge. On this interpretation the contention is that the master’s own practices, institutions, norms, or codes, cannot be used to undermine the master’s power.
-
-<!--end_excerpt-->
 
 <!-- If certain practices play _constitutive_ roles in power relations, then the point becomes clear: participation in such practices can never result in anything other than the consolidation of power. -->
 
