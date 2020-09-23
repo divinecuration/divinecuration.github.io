@@ -2,7 +2,7 @@
 layout: post
 title:  "Document II"
 subtitle: "Remixing the Master's Tools"
-date: 2020-09-05 05:23:00
+date: 2020-09-23 05:23:00
 categories: [thoughts, documents]
 excerpt_separator: <!--end_excerpt-->
 mathjax: true
