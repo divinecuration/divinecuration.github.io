@@ -20,7 +20,7 @@ It was ideation when God Adam was a mere concept in God's mind, an idealisation 
 
 > My reasoning on the relation between geometry, time, and technics can be summarised as follows: (1) geometry demands and allows the spatialisation of time, which involves (2) exteriorisation and idealisation through technical means, (3) geometrical apodicticity allows logical inferences as well as the mechanisation of causal relations, and (4) the technical objects and technical systems made possible on the basis of such mechanisms in turn participate in the constitution of temporality: experience, history, historicity.
 
-Hui's suggestion here is that the geometrical diagramming of time makes possible the thinking of time in spatial categories. In addition the development of the concept of natural law which is made possible by geometry underpins the mechanisation of nature which fuels technological developments which themselves come to constitute our experience of cultural time.
+Hui's suggestion here is that the geometrical diagramming of time makes possible the thinking of time in spatial categories. In addition the development of the concept of natural law made possible by geometry underpins the mechanisation of nature fueling technological developments, which themselves come to constitute our collective experience of time.
 
 To explain these connections Hui turns to Stiegler, who understands technics as the externalisation of memory.
 
