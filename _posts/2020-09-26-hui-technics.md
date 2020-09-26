@@ -16,7 +16,7 @@ Idealisation is the externalisation of an idea, its inscription in matter.
 
 > Idealisation has to be distinguished from ideation, which still concerns theoretical abstraction in thought---for example, we can think of a triangle (e.g. ideation), but the apodictic nature of the triangle becomes common to all when it is externalised (e.g. drawn). Idealisation in this sense thus involves exteriorisation, whether through writing or drawing.
 
-It was ideation when God brought the concept of Adam to mind, an idealisation to actually shape him out of clay.
+It was ideation when God Adam was a mere concept in God's mind, an idealisation when he was actually formed from clay.
 
 > My reasoning on the relation between geometry, time, and technics can be summarised as follows: (1) geometry demands and allows the spatialisation of time, which involves (2) exteriorisation and idealisation through technical means, (3) geometrical apodicticity allows logical inferences as well as the mechanisation of causal relations, and (4) the technical objects and technical systems made possible on the basis of such mechanisms in turn participate in the constitution of temporality: experience, history, historicity.
 
