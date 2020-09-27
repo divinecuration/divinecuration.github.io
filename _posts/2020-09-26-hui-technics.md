@@ -3,7 +3,7 @@ layout: post
 title:  "Note VIII"
 subtitle: "Yuk Hui on Technics, Time and Geometry"
 date: 2020-09-26 05:23:00
-categories: [thoughts, notes]
+categories: [thoughts, notes, clippings]
 excerpt_separator: <!--end_excerpt-->
 mathjax: true
 ---
