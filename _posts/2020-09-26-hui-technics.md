@@ -32,6 +32,6 @@ The challenge Meno presents to Socrates is a sceptical paradox: if you know what
 
 > Socrates replies to this challenge with a ruse: he says that he once knew what virtue is, but has forgotten, and hence will need help to remember. Socrates demonstrates this process of remembering or _anamnesis_ by asking a young uneducated slave to solve a geometrical problem by drawing it in the sand. For Stiegler, this operation exemplifies the technical exteriorisation of memory: it is only the markings on the sand---a form of _technē_---that allow the slave to trace the lines of the problem and to 'remember' the forgotten truth.
 
-The ideation of geometry is here seen as dependent on the idealisation of figure drawing, a craft which, by placing the representation of the idea in a publicly accessible space creates a retentional structure which forms the basis of a kind of collective memory.
+The ideation of geometry is here seen as dependent on the idealisation of figure drawing, a craft which, by placing the representation of the idea in a publicly accessible space, creates a retentional structure which forms the basis of a kind of collective memory.
 
 > Technical objects, for Stiegler, constitute an epiphylogenetic memory, a 'past that I never lived but which was nevertheless my past, without which I would never have had a past of my own'.
