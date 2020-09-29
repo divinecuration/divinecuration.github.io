@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Note VIII"
+title:  "Note IX"
 subtitle: "A Mechanism of Subjectivation"
 date: 2020-08-26 09:23:00
 categories: [thoughts, notes]

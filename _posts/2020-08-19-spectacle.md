@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Note VII"
+title:  "Note VIII"
 subtitle: "Spectacular Tech Bros"
 date: 2020-08-19 09:23:00
 categories: [thoughts, notes]

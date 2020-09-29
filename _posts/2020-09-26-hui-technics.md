@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Note VIII"
+title:  "Note X"
 subtitle: "Yuk Hui on Technics, Time and Geometry"
 date: 2020-09-26 05:23:00
 categories: [thoughts, notes, clippings]
