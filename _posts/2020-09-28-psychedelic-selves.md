@@ -2,7 +2,7 @@
 layout: post
 title: "Psychedelic Selves"
 date: 2020-09-26 05:23:00
-categories: [thoughts, psychedelics, agency, displacement]
+categories: [thoughts, psychedelics, brecht, agency, displacement]
 ---
 
 Recently I've been on the hunt for philosophical work engaging with the phenomenology of psychedelic experience. This has proved oddly difficult, despite the resurgence in public enthusiasm for psychedelics. The conversation seems mostly to be dominated by a combination of neuroscientists, psychotherapists, wellness practitioners and Silicon Valley types, all of whose primary concerns lie in instrumentalising psychedelic experience for some other end, be it psychological health, self-development, or productivity (or often some weird blend of them all). Amongst all this it has been pleasant to discover the work of [Peter Sjöstedt-H](http://www.philosopher.eu/), who stands apart from this crowd in his adoption of a purely philosophical approach.
