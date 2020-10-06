@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "The Octopus and the Machine"
-date: 2029-05-01 21:06:26 +0800
+date: 2020-05-01 21:06:26 +0800
+published: false
 categories: [thoughts, science, tech, agency]
 ---
 
