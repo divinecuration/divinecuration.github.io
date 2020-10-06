@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Note VI"
-subtitle:  "Self-Consciousness as Reciprocal Recognition"
+title:  "Self-Consciousness as Reciprocal Recognition"
 date: 2020-07-31 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, brandom, agency, mediation]
 ---
 
 At the heart of Hegel's philosophy of mind is the idea that self-consciousness is essentially mediated: that a self's recognition of its own selfhood is metaphysically dependent on its recognition of others and the reciprocation of such recognitive attitudes. This is a rejection of the foundational Cartesian doctrine of _given_ self-consciousness. Brandom's approach to this mediation structure is to consider the logic of the _recognition_ relation itself. We say that _x recognises y_ if x takes y to be a self. To say that x is _self-conscious_ is then just to say that x recognises themselves.
@@ -17,8 +15,6 @@ Brandom's gloss of this derivation is rather neat. He notes that the reflexivity
 - _transitivity_: whenever x recognises y and y recognises z, it is also the case that x recognises z.
 
 If both of these conditions are met then reflexivity follows by substituting "x recognises y" and "y recognises x" into the antecedent of the transitivity condition.
-
-<!--end_excerpt-->
 
 Developing an account of recognition that establishes both of these conditions is how Brandom reads Hegel as establishing that self-consciousness arises from consciousness. Symmetry will be a particular focus, with Brandom reading the master-slave dialectic as Hegel's argument that asymmetric forms of "recognition" are defective in various critical ways. I will no doubt write something about that when I get there. But for the purposes of this post I want sketch out a few intuitions about the transitivity condition.
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Meditation II"
-subtitle:  "Auric Decay and Invisibility (Benjamin to Berghain)"
+title:  "Auric Decay and Invisibility (Benjamin to Berghain)"
 date: 2020-07-10 10:00:00
-categories: [thoughts, meditations]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, benjamin, mediation, tech, displacement, invisibilia]
 ---
 
 In 1935 Walter Benjamin [compared]({{ site.baseurl }}/assets/pdf/benjamin-mechanical-reproduction.pdf) the performances of the stage actor and the film actor. He found two differences:
@@ -19,8 +17,6 @@ _>> mediations_
 Benjamin theorised that both differences are produced by the intrusion of the camera as mediating interface between actor and audience. It changes the relationship between them, restructuring the norms of performing and receiving<sup>[1](#r1)</sup>. A single reciprocal relation between performer and audience is replaced by two unilateral relations---between performer and camera and between camera and audience. The breakdown of reciprocity fixes the difference between producer and consumer, polarising their division of labour.
 
 The camera's role is surgical, dissecting the performance for inspection. Removing the audience from the performance space it removes the actor from their source of immediate feedback. Benjamin described a new kind of performance anxiety that arises for the film actor, likening it to the feeling of standing before one’s image in the mirror. The attitude of the audience shifts from reciprocal involvement to unilateral scrutiny. The camera tests; the audience test with it (there is nothing else they can do). The screen performance is tested for its "realism" even though its production for reproduction is always an act of artifice<sup>[2](#r2)</sup>.
-
-<!--end_excerpt-->
 
 The screen performance is reproducible and transmittable. What was once the stage performance---an organic unity of heterogeneous components tied to particular presence and audience, to accidents of circumstance, to local intensities and feedbacks, wholly untransmittable---is multiplied, dissected and resynthesised into a new, transmittable unity—which is then scrutinised for _exactly those particularities destroyed in its creation_. The public gaze is forensic, an interrogation of a scene for the fading traces of what is always-already gone (telescoped through its mediation, it can't not be).
 

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Note VII"
-subtitle:  "Counternotes on Subculture"
+title:  "Counternotes on Subculture"
 date: 2020-08-07 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, subculture, inertia]
 ---
 
 _Originally posted on Medium as a response to Will Franks post [Notes on Counterculture](https://medium.com/the-phoenix-project/notes-on-counterculture-1926a121f775)_
@@ -14,8 +12,6 @@ _Originally posted on Medium as a response to Will Franks post [Notes on Counter
 One potential pitfall I can see in making comparisons between present and 60’s counterculture is that not only are the mainstreams they react against very different, but the present mainstream is in many ways a product of the ideas of selfhood that emerged from the 60’s (or an appropriation of them, depending on where your allegiances lie). If the 60’s counterculture can be seen as reacting against the regimented blandness stereotyped in modern portrayals of the 50’s, then a modern day counterculture must surely be a reaction against the norms of neoliberal individualism and its promise of self-realisation in consumption.
 
 If there is a common thread in these projects it is that they attempt to resist commodification, understood as an inertial force that stifles human potential. In the 60’s this took the form of an injunction to authenticity, accompanied by some fairly clear ideas about what that might involve: lose the suburban aspirations, don’t become the housewife in the home environment with its matrix of consumer objects — go take acid and run naked in fields instead, you’ll discover who you truly are. What’s different about the present situation is that the circuits of capital accumulation have long since diversified and learned to integrate these kind of experiences and practices. Taking acid and running around in a field can easily be packaged up as a commodity and sold as a form of neoliberal self-realisation. Surrealist techniques once thought to be revolutionary can now be effortlessly mobilised in advertising campaigns. Anti-consumerist messages are rendered consumable in the plot lines of Hollywood films. In many ways, the story of how the destabilising energies released in the original counterculture were neutralised is the story of how capital learned to appropriate its own subversions.
-
-<!--end_excerpt-->
 
 Rather than taking this as a pessimistic reading, I think we can use it to diagnose some of the more naïve aspects of the 60’s counterculture and strategically orient a new one. Regarding psychedelics, for example, there was often this idea that simply getting them into people’s nervous systems would be enough to stimulate social change. One lesson we should have learned since then is that this is wrong — while many of the new technologies or practices associated with the 60’s may have the potential to increase or create capacities, these capacities can and will be assimilated by the system through their conversion into exchange value (i.e. through commodification) if this process is not actively resisted. Any modern counterculture will have to be tightly meshed with an attempt to describe and resist the circuits of capital accumulation, not just focused on practices (public absurdism, creative exploration, guerrilla ontology, etc) and technologies (psychedelics, the internet, etc) themselves, but also — critically — on the social relations that situate them within various systems of value.
 

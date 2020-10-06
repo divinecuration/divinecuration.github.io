@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Reflection V"
-subtitle:  "Virtue Signalling"
+title:  "Note on Virtue Signalling"
 date: 2020-06-10 14:02:00
-categories: [thoughts, reflections]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, tech, mediation, inertia, agency]
 ---
 
 The term "virtue-signalling" first appeared as a way of mocking the perceived insincerity of those who vocally advocate for social justice causes without making any real effort to effect them in practice, or doing so only insofar as they complement their own lifestyle choices. The anti-leftist sentiment baked into the concept is no doubt one reason why it was not initially taken seriously as a critique by its targets. Another might be that those whose sincerity is in question simply do not experience themselves as insincere. There are, after all, reasons other than self-interest to vocally espouse a cause---for example to persuade, to compel, or to mobilise. If the goal is collective action then mobilisation through discourse is its precondition, not its afterthought, and to criticise individual espousers on their lack of current individual action would seem to miss the issue.
@@ -12,8 +10,6 @@ The term "virtue-signalling" first appeared as a way of mocking the perceived in
 Nevertheless, the suspicion that there is a cynical disarticulation of reasons from actions at work has not gone away, and while virtue-signalling may never have become a familiar expression in left-wing discourse terms like "performative ally" have arisen within it to describe something similar. So-called "woke capital" is guilty of this as well, with brands often producing the signs of diversity as little more than a marketing strategy. The underlying concern is that virtue-signalling does not merely mask a pre-existing absence of virtue, but actively corrodes virtue by replacing it with its performance; not just a deflection from the absence of resistance to power, but an active functional component in the auto-regulation of power relations.
 
 This point about motive insincerity is one I've been chewing on a lot recently. On the one hand it seems pretty clear that virtue-signalling names a real phenomenon, and not a marginal one. On the other hand the typically left-critical explanation of it---that it stems from insincerity at the level of individuals, i.e. ostensibly selfless political or ethical expressions are actually in the service of cynical and calculated self-interest---just does not seem right at all. It seems equally clear that most people advocating for social justice are doing so from broadly sincere motives, at least in the first instance. If virtue-signalling is to be understood without appeal to motive insincerity on the part of individuals, then the puzzle is how to understand it as something more like a network effect.
-
-<!--end_excerpt-->
 
 An idea I've found useful in thinking about this is Wilfrid Sellars' distinction between I-intentions and we-intentions. I-intentions represent self-interested goals underwritten by individual desires (e.g. I shall open the umbrella because I want to stay dry) while we-intentions represent collective goals, which may conflict with the desires of the individuals that have them (moral and political goals would fall in this category). Put in these terms, the left-critical account understands virtue-signalling as the false representation of I-intentions as we-intentions, where the expression of selfless virtue is a disingenuous cover for self-interested social power play. The premise I want to work from, in contrast, is that the public representation of we-intentions are mostly genuine expressions of we-intentions. The question, then, is how the sincere expressions of we-intentions can be systematically distorted to give the appearance of being insincere expressions of I-intentions, and what implications this has for the ability of we-intentions to be realised in we-actions.
 

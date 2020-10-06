@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Note VIII"
-subtitle: "Spectacular Tech Bros"
+title: "Spectacular Tech Bros"
 date: 2020-08-19 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, tech, displacement, temporality]
 ---
 
 Last night I encountered this passage while idly rereading the first chapter of Guy Debord's [Society of the Spectacle]({{site.baseurl}}/assets/pdf/debord-spectacle.pdf):
@@ -18,8 +16,6 @@ Earlier I had come across this Twitter thread:
 <br />
 
 Having once been a programmer myself, the thread touched some memories of the fear and loathing that comes with this kind of work. As the author points out, much of the alienation stems from the complete absence of any shared social context in which the fruits of the labour can live and take on meaning. Social isolation is produced by the obscurity of particular technical problems, the extreme divisions of labour within particular projects or companies, and also the Balkanisation of codebases and technologies across the wider industry. Running parallel to this---and closely related---is the fact that a huge slice of the work that many programmers do is a repetition of something someone else has already done, and ultimately redundant. As the person doing it you are well aware of this, an awareness that jars horribly with the overwhelming stress of pointlessly tight deadlines and spiralling accountability. The author writes, aptly, that as a programmer there is a sense that you are doing little more than "monetising loneliness".
-
-<!--end_excerpt-->
 
 The most insightful part of this thread, in my opinion---and the point that links with Debord---concerns the influence that the alienation experienced by programmers in their work can have on their attitudes to leisure-time and personal identity.
 

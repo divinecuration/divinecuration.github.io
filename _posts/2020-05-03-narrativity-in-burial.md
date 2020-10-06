@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Meditation I"
-subtitle:  "Still Thinking about Burial"
+title:  "Still Thinking about Burial"
 date: 2020-04-02 09:50:00
-categories: [thoughts, sounds, films, meditations]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, fisher, difference, agency, baudrillard]
 ---
 
 A sound system could be understood as a technology for producing space, operating by consolidating and autonomising local time, neutralising it through the cancellation of metronomic difference. Rhythm both dissolves temporality and resolves narrative interiority: a becoming-time of space at its edges. Time is the becoming-extensive of intensive space, the crust that contains and defines it. Leaving the club is always an encounter with hostile temporality experienced as a loss of shared space.  

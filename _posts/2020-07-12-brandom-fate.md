@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Note IV"
-subtitle:  "Between Fate and Alienation (Brandom on Hegel)"
+title:  "Between Fate and Alienation"
 date: 2020-07-14 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, brandom, agency]
 ---
 
 Writing in the introduction to his recent book on Hegel's Phenomenology of Spirit, Robert Brandom has this to say about the contrast between the modern and premodern experiences of normativity:
@@ -14,8 +12,6 @@ Writing in the introduction to his recent book on Hegel's Phenomenology of Spiri
 This difference shows up in the historical transition from Aristotelean to modern science, during which teleology was drained from the scientific image of the natural world and replaced by law-governed efficient causality. The disappearance of natural _telos_ corresponds to the loss of objective normative statuses---that is, natural facts about how things _should_ be---which could provide objective reasons for judgements of correctness with regard to conduct or function. Among other things, the premodern recognition of objective normative statuses underpinned forms of social determinism, with individuals understood as bound to roles and duties fixed within an objective social order indifferent to preference. Governed by this picture, the tragic dimension of premodern life is characterised by the concept of _fate_.
 
 In modernity norms are understood as products of subjective normative attitudes. The latent tendency hovering over this conception is the collapse of normative judgement into arbitrariness. If what is right is reducible to what one takes to be right, then in what sense can a judgement of rightness ever be binding? If a moral principle conflicts with desire, then on what basis should the moral principle be taken to be overriding, if its own authority is ultimately also licensed by subjective attitudes? If one has the authority to choose one's own set of values, then one can also authorise oneself to swap them for another set at some later date. But if this is the case, then it seems that no-one can ever be unconditionally committed to anything. The tragic dimension of modernity is correspondingly characterised by _alienation_, as the attitude-dependence of normative statuses undercuts the stability of spaces of shared value, purpose, and meaning.
-
-<!--end_excerpt-->
 
 Brandom uses this contrast to frame what he takes to be Hegel's overarching aim in the Phenomenology: to trace a middle path between the premodern and modern understanding of normativity, integrating the benefits of both at the same time as bridging their tensions. What this requires is the development of a relevant account of "dependency" such that normative statuses can be understood as dependent on normative attitudes without this entailing a collapse into arbitrary subjectivism. This would provide an escape from the frying pan of fate which does not lead into the fire of alienation. Reading Hegel as a philosopher of normativity allows Brandom to convey the developmental account of the "shapes of consciousness" in the Phenomenology as a movement through various _structures of authority_, one that gradually converges on a synthesis. According to Brandom, this culmination is the postmodern form of _Geist_ defined by dyadic reciprocal recognition (or _trust_) along its social axis and recollective rationality (or _forgiveness_) along its historical axis.
 

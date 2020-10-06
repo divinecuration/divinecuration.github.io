@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Study III"
-subtitle:  "Interagency"
+title:  "Interagency"
 date: 2017-05-01 21:06:26 +0800
 date_text: November 2017
-categories: [objects, studies]
+categories: [objects, agency, tech, difference]
 meta: 2 x Raspberry Pi Zero, acrylic, custom scripts, display. 2017.
 ---
 

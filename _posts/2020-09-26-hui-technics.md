@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Note X"
-subtitle: "Yuk Hui on Technics, Time and Geometry"
+title: "Yuk Hui on Technics, Time and Geometry"
 date: 2020-09-26 05:23:00
-categories: [thoughts, notes, clippings]
-excerpt_separator: <!--end_excerpt-->
-mathjax: true
+categories: [thoughts, tech, temporality]
 ---
 
 Here's a few snippets pulled from Yuk Hui's essay _The Question Concerning Technology In China_. These come from a later section about geometry and temporalisation that I found interesting in relation to some [recent avenues](2020/08/25/anaphora-deixis.html) I've been exploring on time, and which also elaborates on some of Bernard Stiegler's ideas about technology.
@@ -19,8 +16,6 @@ Idealisation is the externalisation of an idea, its inscription in matter.
 It was ideation when Adam was a mere concept in God's mind, an idealisation when he was formed from clay.
 
 > My reasoning on the relation between geometry, time, and technics can be summarised as follows: (1) geometry demands and allows the spatialisation of time, which involves (2) exteriorisation and idealisation through technical means, (3) geometrical apodicticity allows logical inferences as well as the mechanisation of causal relations, and (4) the technical objects and technical systems made possible on the basis of such mechanisms in turn participate in the constitution of temporality: experience, history, historicity.
-
-<!--end_excerpt-->
 
 Hui's suggestion here is that the geometrical diagramming of time makes possible the thinking of time in spatial categories. In addition the development of the concept of natural law made possible by geometry underpins the mechanisation of nature fueling technological developments, which themselves come to constitute our collective experience of time.
 

@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome to my personal site.
 
-This is where I collect various bits and pieces of creative output that have been accumulating over the years. The blog is a place for ongoing practice, works-in-progress and other sketches and spells---sounds, image, readings and thoughts. Pieces is a dumping ground for old projects, and writings is where I'll host longer-form texts.
+This is where I collect various bits and pieces of creative output that have been accumulating over the years. The blog is a place for ongoing practice, works-in-progress and other sketches and spells---sounds, image, readings and thoughts.
 
 I'm also on [twitter](https://twitter.com/divinecuration) which is probably the best place to get hold of me should you wish. Also email exists: _divinecurationsite_ [at] _gmail.com_.
 

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Reflection II"
-subtitle:  "The Real as an Optics of Value"
+title:  "The Real as an Optics of Value"
 date: 2020-05-10 14:02:00
-categories: [thoughts, clippings, reflections]
+categories: [thoughts, baudrillard, difference]
 ---
 
 In recent months Squarespace has been running an ad campaign riffing off the tagline "a website makes it real":

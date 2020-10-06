@@ -6,9 +6,9 @@ layout: default
 
   <header class="artilce_header">
     <h2 class="artilce_title" itemprop="name headline">{{ page.title }}</h2>
-    <time class="post_subtitle">{{ page.subtitle }}</time>
+    <time class="post_page_date">{{ page.date | date: "%d %B %Y" }}</time>
+    <!-- <time class="post_subtitle">{{ page.subtitle }}</time> -->
     <br />
-    <time class="post_date">{{ page.date | date: "%d %B %Y" }}</time>
     <br />
     <br />
     <!-- {% if page.meta %}

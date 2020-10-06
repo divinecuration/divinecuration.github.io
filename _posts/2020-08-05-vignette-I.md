@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Meditation III
-subtitle:  "for Amnesia Scanner (or, how to freeze history by locking affects onto a foamy loop)"
+title:  "How to Freeze History"
 date: 2020-08-07 09:23:00
-categories: [thoughts, meditations]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, affect, displacement, baudrillard, sloterdijk]
 ---
 
 Anger is socially heavy, and so morally unthinkable. Anger must be muted and contained, suspended as contempt. It is required of all affects that they be substituted for their lightest operational equivalent, a least energy principle with minimisation of social noise as its boundary constraint. Relations of interiority are folded into exteriorities, lighter because interiority implies weight of involvement. Interiority _is_ involvement, and involvement is nothing other than concrete social labour, inseparable from risk. Risk and labour are heavy, and therefore condemned. There is a fractal decomposition of social space into distinct micropods, the residue of this exothermic mitosis gathering in salvageable droplets across the growing surface of the membrane<sup>[1](#r1)</sup>. At last everyone can relax: nowhere is lighter than outer space.
 
 A synthesising dialectic of anger and guilt is switched for a non-synthesising dialectic of contempt and shame, a closed and self-stabilising circuit constrained to the plane of affect. The link between thought and action is severed at its centre, belief rendered impossible as thought becomes mandatory<sup>[2](#r2)</sup>. Thought persists, but only as epiphenomenon. What is no longer possible is to _participate_ in thought, since participation is made possible only by affective substructures always-already immobilised. What remains is an aesthetisisation of thought: the Idea receives its gilded frame, encircled and beautiful, liberated from risk. Ouroboric thought short-circuits motive outputs, all categoricals diffracting into non-completing series of hypotheticals. A critical theory approved by capital impresses itself with its capacity to create space for the last word, always doing so faster than the space can be filled. Discourse is free to proliferate without the _faux pas_ of judgement. Careers are made this way.
-
-<!--end_excerpt-->
 
 Contempt is light, and thus morally permissible. Anger is only possible between those who share social space, which is to say those who cohabit an interior. Cohabitation is the precondition of anger’s generative function as affective motor in the synthetic and reconciliatory process traversing guilt and empathy. The immanence of the series—the conjunct of both its interiority and its intensity—constitutes both its reconciliatory potential and its heaviness. Contempt, its simulated double, is seductive in its lightness. But in seduction it is forgotten that where there is no risk there can be no opportunity, just as where there is no difference [there can be no change](https://leplatopus.wordpress.com/2014/09/24/karl-popper-on-the-cosmology-of-anaximander/). Affective economies are grounded on a principle of dynamic equilibrium, spinning forever without resolution.
 

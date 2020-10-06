@@ -191,6 +191,7 @@ input#menu-toggle {
 }
 
 .post_title {
+  font-size: 1.8rem;
   margin-bottom:0.2rem;
 }
 
@@ -198,7 +199,23 @@ input#menu-toggle {
   border-bottom: 0px;
 }
 
+.list_tag {
+  font-size: 1.2rem;
+  color:#888;
+}
+
+.icon {
+  color: #888;
+}
+
 .post_subtitle {
+  color:#888;
+  font-size:1.2rem;
+  vertical-align: center;
+}
+
+.post_page_date {
+  font-style: italic;
   color:#888;
   font-size:1.4rem;
 }
@@ -207,6 +224,7 @@ input#menu-toggle {
   font-style: italic;
   color:#000;
   font-size:1.4rem;
+  float: right;
 }
 
 p.readmore {

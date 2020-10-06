@@ -17,9 +17,7 @@ permalink: /:year/:month/:day/:title:output_ext
 paginate: 10
 paginate_path: "/page:num/"
 collections:
-  pieces:
-    output: true
-  writings:
+  tags:
     output: true
 
 defaults:

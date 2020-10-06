@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Reflection I"
-subtitle:  "False Consciousness and the Displaced Subject"
+title:  "False Consciousness and the Displaced Subject"
 date: 2020-05-06 10:43:00
-categories: [thoughts, reflections]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, agency, fisher, baudrillard, inertia, displacement]
 ---
 
 There's a point Mark Fisher made that has stuck with me (I believe it was in his [Anti-Vital](https://www.youtube.com/watch?v=LrKiScp_gog) lecture). He remarks that one of the biggest challenges faced historically by anti-capitalism is that it has often had difficulty persuading people that their economic system oppresses them. Orthodox Marxism has typically explained this by appealing to "false consciousness": the idea that the system itself distorts people's perception of their own economic conditions, blinding them to their own oppression. What Fisher points out is that this explanation has not been persuasive. Any effective critique of the system we currently inhabit, he argues, must _not_ assume that we are all suffering from some kind of mass illusion. Instead it must begin with a recognition of our own complicity in creating and sustaining the situation we are in.

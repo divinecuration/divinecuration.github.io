@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Document II"
-subtitle: "Remixing the Master's Tools"
+title: "Remixing the Master's Tools"
 date: 2020-09-23 05:23:00
-categories: [thoughts, documents]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, tech, mediation, baudrillard, semiotics]
 mathjax: true
 ---
 
@@ -15,8 +13,6 @@ This essay represents my own attempt to untangle this ambiguity, motivated by my
 While originally targeted at an academic platform---the NYU humanities conference on feminism at which Lorde gave her original address---the ideas underlying the MT have much to offer these questions. They form a way of thinking about a wide class of problems unique to projects of emancipation that work within a system so totalising it has always already dictated the terms of action. Beyond critical arts and humanities conferences, the MT speaks to some of the definitive paradoxes of ethical and political action in contemporary life, from the extent to which ethical consumerism can achieve ethical goals to whether protest movements should leverage marketing techniques. The MT summons the pessimistic spectre that hovers above all these questions: if all tools are now under the master's control, does this mean that resistance is impossible?
 
 The argument I will make is that everything hinges on the difference between two forms of resistance: those with a strategy of _subversion_, and those with a strategy of _appropriation_. Roughly, this is the difference between trying to beat someone at their own game, and hijacking the deck to play something else. These two strategies correspond, respectively, to two different interpretations of the MT. The first reads it as a media theoretic claim, under which I shall argue that it is robustly true, therefore providing strong guidance as to which strategies should be discarded as hopeless. The second reading is materialist. Under this reading the MT is seen to be false---a realisation which points the way to positive forms of resistance. My recommendation will be that we abandon all attempts to subvert existing tools and channel all energies into appropriating the materials that constitute them. This recommendation is aimed primarily at myself, though I hope in the process I might also persuade some of my friends.
-
-<!--end_excerpt-->
 
 <br />
 

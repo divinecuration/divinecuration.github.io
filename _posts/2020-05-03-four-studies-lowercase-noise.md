@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Study VIII"
-subtitle:  "Four Studies in Lowercase"
-categories: [sounds, images, studies]
+title:  "Four Studies in Lowercase"
+categories: [sounds, tech]
 date: 2020-03-02 09:50:00
 ---
 

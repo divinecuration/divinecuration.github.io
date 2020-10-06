@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Reflection VIII"
-subtitle: "Anaphora precedes Deixis"
+title: "The Technical Mediation of Public Memory"
 date: 2020-08-25 09:23:00
-categories: [thoughts, reflections]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, subculture, temporality, tech, mediation, fisher]
 ---
 
 The aim of this post is to pull together a few distinct threads that have been converging for me recently on the topics of media, authority and temporality. I'll start where I mean to end---with a quote from Anthony Wilden, writing of George Orwell's portrayal of the perils of mass media<sup>[1](#r1)</sup>:
@@ -16,8 +14,6 @@ The aim of this post is to pull together a few distinct threads that have been c
 > _The Media Rule:_ Those who control the present control the past. Those who control the past control the future.
 
 Since the mid 2000's I've been a member of a forum called [psymusic UK](https://www.psymusic.co.uk/forum/). This is the primary forum of the UK's psychedelic trance community, a place where people trade info about free parties, share technical music production know-how, give feedback on each other's tunes, argue about conspiracy theories and hallucinogens, and moan about how the scene is not as good as it used to be. When I first starting lurking the forum was vibrant, the virtual focal point of a real world community and hotbed of scene drama.
-
-<!--end_excerpt-->
 
 A few years later the rise of Facebook saw a mass emigration from the forum, with many of the discussions in the old subforums moving into specialist FB groups. At the time there were many who said this was bad news, for a sober technical reason: Facebook has no memory. Its timeline is unsearchable; content fades rapidly into an indeterminate past. Rather than conversations developing over time, their first acts repeat. Instead of collaborating on a public repository of technical knowledge, individuals compete for clout by racing to answer the same endlessly recurring questions. Even when people explicitly try to avoid these behaviours the platform mechanics don't support much else, and systemically amplify the voices of those that don't.
 

@@ -1,18 +1,14 @@
 ---
 layout: post
-title:  "Reflection VII"
-subtitle: "The Rule Following Paradox"
+title: "Note on the Rule Following Paradox"
 date: 2020-08-18 09:23:00
-categories: [thoughts, reflections]
+categories: [thoughts, temporality, wittgenstein, agency]
 mathjax: true
-excerpt_separator: <!--end_excerpt-->
 ---
 
 Here's a few thoughts about Wittgenstein's private language argument, or more specifically Saul Kripke's development of it into a generalised rule-following paradox. This paradox emerges against the background of Wittgenstein's later philosophy of language, at the heart of which is a pragmatic treatment of meaning. According to this treatment meaning is not (in the first instance) about the truth-conditions of propositions, but about the assertability conditions of sentences within given language-games. The central idea that, roughly, to understand a concept is to know how to use a word, provided an alternative to the then dominant representationalist understanding of meaning as _picturing_, replacing it with a normative understanding of meaning as _rule-following_<sup>[1](#r1)</sup>. The impossibility of private language---a language that is used and understood by only one person---then arises from the further argument that rule-following is an essentially communal activity. While the implications for linguistic meaning in general have been elaborated by Kripke and others, it seems to me that this paradox has implications for a broader concept of meaning that touches on shared narratives, collective desire, and their conditions of possibility<sup>[2](#r2)</sup>.
 
 Kripke relates the paradox<sup>[3](#r3)</sup> by considering a person who is adding two numbers they have not applied the addition function to before, let's say to 51 and 1300. The question is: how do they know what function to apply? They have applied what they take to be the '\\(+\\)' function many times before, let's assume only to numbers less than 1300. But since they have done so only finitely many times there are infinitely many distinct functions consistent with the previous applications. One of them is _quaddition_, whose output is defined as \\( x + y \\) for all \\(y \lt 1300\\), and \\(0\\) for \\(y \ge 1300\\). Previous applications of the function underdetermine the present application, since they are all consistent with both addition and quaddition. On what grounds should addition rather than quaddition be applied in this new case? It seems there is none.
-
-<!--end_excerpt-->
 
 One response to this apparent paradox invokes behavioural dispositions, contending that what settles the choice between addition and quaddition is whether the person applying the function has a disposition (presumably a learned one) to apply one or the other---a disposition that would account for past, present and future applications. Kripke replies that this line of thought misfires by providing an account of what function the person _will_ apply, when what is actually at issue (i.e. what would settle the question of what they _mean_) is what function they _should_ apply, given previous applications. An account based on causal dispositions fails to address the normative dimension of the paradox. A calculating machine that takes two numbers as inputs and returns their sum may be said to have a disposition that accords with adding, but this seems insufficient to establish that its function is addition, since any finite set of calculations are consistent with infinitely many distinct functions. To establish its function as addition seems to require the further possibility of subjecting its calculations to normative assessment, such that any possible output can be judged as a correct or incorrect application of addition.
 

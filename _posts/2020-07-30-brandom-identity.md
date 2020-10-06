@@ -1,17 +1,13 @@
 ---
 layout: post
-title: "Note V"
-subtitle:  "Sacrifice, Identification and Self-Constitution"
+title:  "Sacrifice, Identification and Self-Constitution"
 date: 2020-07-30 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, brandom, agency, temporality]
 ---
 
 Brandom begins his exposition of the Self-Consciousness chapter of the Phenomenology by considering "essentially self-conscious beings." These are beings whose self-conception forms an essential part of what they are in themselves<sup>[1](#r1)</sup>. Since for them a change in their self-conception can bring about a change in what they are, they are capable of "_making_ themselves different by _taking_ themselves to be different." If they do so, and the change then provokes a further update to their self-conception, this will begin a cascading developmental process moving through sequential alternating modifications of what they for themselves and what they are in themselves.
 
 Needless to say, Brandom reads Hegel as understanding _us_ to be such essentially self-conscious beings. If we are then we possess no essential features (other than our being essentially self-conscious), since what we are essentially is always subject to change as our self-conception is revised. Accordingly, rather than understanding ourselves as creatures with _natures_, we should understand ourselves as having _histories_<sup>[2](#r2)</sup>.
-
-<!--end_excerpt-->
 
 Brandom has some interesting things to say about essential self-consciousness. The way he cashes it out  turns on the idea of _practical identification_. The link between identification and self-constitution arises from the thought that the features of a self-conception which are to _be_ essential must be those which one _takes to be_ essential (a point which should become clearer below).
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Study IV"
-subtitle:  "Fluid Form"
+title:  "Fluid Form"
 date: 2018-05-01 21:06:26 +0800
 date_text: April 2018
-categories: [objects, images, studies]
+categories: [objects, morphogenesis, tech]
 meta: SLA resin. 2018.
 ---
 

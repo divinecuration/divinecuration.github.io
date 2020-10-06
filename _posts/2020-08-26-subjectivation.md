@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Note IX"
-subtitle: "A Mechanism of Subjectivation"
+title: "Sketch of a Mechanism of Subjectivation"
 date: 2020-08-26 09:23:00
-categories: [thoughts, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, brandom, zizek, mediation, agency]
 ---
 
 Here's a brief of sketch of a mechanism of subjectivation (the engineering or production of subjectivity itself). It was brought on by an admittedly odd mix of Brandom's reading of Hegel on [self-consciousness]({{site.baseurl}}/2020/07/31/brandom-recognition.html), Žižek's analysis of what he calls "[interpassivity]({{site.baseurl}}/assets/pdf/zizek-interpassive.pdf)", and some intersecting thoughts about game theory. This post also relates to a previous reflection on [virtue-signalling]({{site.baseurl}}/2020/06/10/virtue-signalling.html), which takes up this theme in a specific context.
@@ -14,8 +12,6 @@ Supposedly advertising manipulates our desire. While there seems to be a kind of
 The liberal mindset of course balks at the implicit suggestion here, countering that if your desire is dependent on your perception of the desire of others, then this speaks to a deficiency on your part: you are simply not in touch with your authentic desires, and you should do some work on yourself (and by the way, here's a bunch of expensive workshops that will help you do just that). Žižek replies that this is the voice of ideology, a tacital shifting of responsibilty onto the individual which masks the very truth that advertising relies on: that our desires are essentially mediated. There is no authentic unmediated desire that the individual can gain access to by stripping away all their social conditioning and achieving consumerist nirvana.
 
 Žižek's take on this mediation structure appeals to a decentering of subjectivity found in Lacan's notion of the "subject supposed to know". It has occurred to me that a similar point can be made by appeal to the kind of reasoning loops underlying game theoretic dilemmas like the Prisoner's Dilemma and the Tragedy of the Commons. In addition to throwing light on the engineering of desire, I believe this points to a way about thinking about a more general question of subjectivation, namely the production of self-interested subjectivity itself.
-
-<!--end_excerpt-->
 
 What is self-interested subjectivity? It is, surely, no more than taking oneself in practice to be a self-interested agent, i.e. it is to (in practice) reason from self-interest. Call an agent who acts from self-interest an _I-actor_. In contrast, call a _we-actor_ anyone who acts from self-disinterest, for example from altruistic, political, or moral motives that may actively conflict with their self-interest. A person may take another to be an I-actor or a we-actor in a given context. A question then arises about how, given a context, should an actor take themselves? This is a question of deciding which form of practical reasoning to employ, whether to base action on whether it maximises benefits to oneself, or to engage in forms of group reasoning that may require putting one's own preferences on hold.
 

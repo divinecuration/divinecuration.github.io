@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Study V"
-subtitle:  "Prima Materia"
+title:  "Prima Materia"
 date: 2018-05-02 21:07:26 +0800
 date_text: April 2018
-categories: [objects, studies]
+categories: [objects, science, tech, morphogenesis, feedback]
 meta: Ferrofluid, camera, electromagnets, custom software. 2018.
 ---
 

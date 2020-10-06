@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Reflection VI"
-subtitle:  "The Ethical Simulacrum"
+title:  "The Ethical Simulacrum"
 date: 2020-06-22 09:23:00
-categories: [thoughts, reflections]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, baudrillard, agency, mediation, semiotics]
 ---
 
 One aspect of Baudrillard's thought rarely emphasised is its empirical content. I find this odd, given that his whole oeuvre is devoted to describing processes that give predictions and explanations of concrete social structures and events. (Where it has received attention, as with his claim that the Gulf War "never happened," he has tended to be interpreted without much charity, in my opinion.) It is, after all, this empirical content that forms the bridge between the abstract core of his theory---revolving around the idea of "semiological reduction" (more on this later)---with his familiar proclamations that "events are on strike", that "history is frozen", or that the postmodern experience is at root a boring one, in which all the stakes of life have been abandoned and nothing ever really happens.
@@ -16,8 +14,6 @@ The peculiar thing about this collapse of will was that it did not seem to arise
 1. Isn't it up to you whether an ethical commitment functions as an identity marker in your case or not? If you act with ethical reasons, how can the ethical content be stripped away by the fact that others appear to act from non-ethical reasons (virtue signalling, identity mongering, brand loyalty, etc.)?
 
 2. Even if it does, why should this matter? If the ethical content of the act ultimately lies in the extent to which it achieves ethical goals, then what does it matter how it gets there?
-
-<!--end_excerpt-->
 
 <br />
 _>> the corrective unconscious_

@@ -1,17 +1,13 @@
 ---
 layout: post
-title: "Note I"
-subtitle:  "Brian Massumi on Affect"
+title:  "Brian Massumi on Affect"
 date: 2020-01-02 09:50:00
-categories: [thoughts, clippings, notes]
-excerpt_separator: <!--end_excerpt-->
+categories: [thoughts, affect, difference]
 ---
 
 This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s [paper]({{site.baseurl}}/assets/pdf/massumi-affect.pdf) Autonomy of Affect, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
 
 > It could be noted that the primacy of the affective is marked by a gap between content and effect: it would appear that the strength or duration of an image’s effect is not logically connected to the content in any straightforward way. This is not to say that there is no connection and no logic. What is meant here by the content of the image is its indexing to conventional meanings in an intersubjective context, its socio-linguistic qualification. This indexing fixes the determinate qualities of the image; the strength or duration of the image’s effect could be called its intensity.
-
-<!--end_excerpt-->
 
 Intensity, Massumi says elsewhere, is being treated as synonymous with affect in this context.
 
