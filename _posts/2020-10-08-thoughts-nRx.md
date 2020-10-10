@@ -5,7 +5,7 @@ date: 2020-10-09 05:23:00
 categories: [thoughts, fisher]
 ---
 
-Some loose thoughts on similarities and differences in the Curtis Yarvin, Mark Fisher, and Hanzi Freinacht.
+Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fisher, and Hanzi Freinacht.
 
 <p style="text-align: center;">1.</p>
 
