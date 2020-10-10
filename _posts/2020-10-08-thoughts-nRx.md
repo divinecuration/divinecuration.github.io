@@ -39,7 +39,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">7.</p>
 
-<p markdown="1" style="text-align: center;">Answer 2 (Moldbug's): Progressivism exists in concrete lineage of bourgeois thought that has its origins in Quakerism. (Similar points have been made by leftwing commenters, for example David Graeber recently speculated about the links between cancel culture and Puritanism.)</p>
+<p markdown="1" style="text-align: center;">Answer 2 (Yarvin's): Progressivism exists in concrete lineage of bourgeois thought that has its origins in Quakerism. (Similar points have been made by leftwing commenters, for example David Graeber recently speculated about the links between cancel culture and Puritanism.)</p>
 
 <br />
 <p style="text-align: center;">8.</p>
