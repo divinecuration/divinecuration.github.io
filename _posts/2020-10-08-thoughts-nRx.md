@@ -14,7 +14,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">2.</p>
 
-<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a very real social structure, the same as what Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that places strict boundary conditions on public discourse. But they have different opinions about what it is and where it came from.</p>
+<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a real entity, the same one that Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that places strict boundary conditions on public discourse. But they have different opinions about what it is and where it came from.</p>
 
 <br />
 <p style="text-align: center;">3.</p>
