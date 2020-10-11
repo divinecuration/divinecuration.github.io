@@ -44,17 +44,17 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">8.</p>
 
-<p markdown="1" style="text-align: center;">Answer 3 (Fisher's): It is a dialectically inevitable response to contradictions inherent to capitalism. It is true that capitalism has produced widespread alienation and social injustice, and progressive politics arises as a legitimate response to those concrete realities. It is therefore _these_ real forces of resistance that capitalism must neutralise by reducing them to tokens of bourgeois chic.</p>
+<p markdown="1" style="text-align: center;">Answer 3 (Fisher's): It is an inevitable response to contradictions inherent in capitalism. It is true that capitalism has produced widespread alienation and social injustice, and progressive politics arises as a legitimate response to those concrete realities. It is therefore _these_ real forces of resistance that capitalism must neutralise by reducing them to tokens of bourgeois chic.</p>
 
 <br />
 <p style="text-align: center;">9.</p>
 
-<p markdown="1" style="text-align: center;">For Yarvin the existence of this structure is a bad thing because it produces constant arbirary change. (Change for the sake of change is required to provide endless new stakes to be played in the bourgeois prestige game.) For Fisher its existence is bad because it suppresses the change required for emancipation.</p>
+<p markdown="1" style="text-align: center;">For Yarvin the existence of this structure is a bad thing because it produces constant arbirary change. (Change for the sake of change is required to provide endless new stakes to be played in the bourgeois prestige game.) For Fisher its existence is bad because it _suppresses_ the change required for emancipation.</p>
 
 <br />
 <p style="text-align: center;">10.</p>
 
-<p markdown="1" style="text-align: center;">Others seem to think it is a good thing. Hanzi Freinacht argues that change being driven by competition for social capital is a positive when social capital accrues to artists and visionaries. Competition for social capital is theorised as a means of getting beyond the competition for money ultimately bottoming out in the consumption of material resources.</p>
+<p markdown="1" style="text-align: center;">Others seem to think it is a good thing. Hanzi Freinacht [argues](https://metamoderna.org/how-to-outcompete-capitalism/) that change being driven by competition for social capital is a positive when social capital accrues to e.g. artists and visionaries. Competition for social capital is theorised as a means of getting beyond the competition for money capital that requires endless consumption of material resources.</p>
 
 <br />
 <p style="text-align: center;">11.</p>
@@ -64,7 +64,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">12.</p>
 
-<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian criticism of this is that their decoupling is an illusion. Precisely because it is a prestige game, access to the marketplace of social capital is limited: its entry fee is money capital. The market exchange of social value is therefore conditioned indirectly by money value---Freinacht's model ultimately cannot work, for the same reasons that trickle-down economics cannot work.</p>
+<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian critique is that the decoupling is an illusion. Precisely because it is a prestige game, access to the marketplace of social capital is limited, and its entry fee is none other than money capital. The market exchange of social value is therefore conditioned indirectly by money value---Freinacht's model ultimately cannot work, for the same reasons that trickle-down economics cannot work.</p>
 
 <br />
 <p style="text-align: center;">13.</p>
