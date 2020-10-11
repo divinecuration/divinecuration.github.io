@@ -64,7 +64,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">12.</p>
 
-<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian critique is that the required decoupling is impossible. Precisely because it is a prestige game, access to the marketplace of social capital is limited, and its entry fee is none other than money capital. The market exchange of social value is therefore conditioned indirectly by money value. According to this critique Freinacht's model cannot work, for roughly the same reasons that trickle-down economics cannot work.</p>
+<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian critique is that the required decoupling is impossible. Precisely because it is a prestige game, access to the marketplace of social capital is limited, and its entry fee is paid in none other than money capital. The market exchange of social value is therefore conditioned indirectly by money value. According to this critique Freinacht's model cannot work, for roughly the same reasons that trickle-down economics cannot work.</p>
 
 <br />
 <p style="text-align: center;">13.</p>
