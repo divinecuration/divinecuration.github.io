@@ -19,7 +19,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">3.</p>
 
-<p markdown="1" style="text-align: center;">For Yarvin the Cathedral is a product of the success of progressivism (understood as an impersonal memetic force). For the Fisher the Vampire Castle is not a reflection of progressive politics, but rather an appropriation of them by bourgeois interests---a product of the gentrification of the left.</p>
+<p markdown="1" style="text-align: center;">For Yarvin the Cathedral is a product of the success of progressivism (understood as an impersonal memetic force). For Fisher the Vampire Castle is not a reflection of progressive politics, but rather an appropriation of them by bourgeois interests---a product of the gentrification of the left.</p>
 
 <br />
 <p style="text-align: center;">4.</p>
