@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-If divine creation refers to a world produced from nothing, then "divine curation" must signify a world that has been _reproduced_ from the same primordial emptiness. An act of curation involves the transferral of an object from its context of creation to a medium of observation or contemplation: its placement within a frame. Accordingly, an act of divine curation is one in which the frame precedes its content, which is to say when the mode of observation becomes an immutable prior constraint on all processes of creation.
+If divine creation refers to a world produced from nothing, then "divine curation" must signify a world that has been _reproduced_ from the same primordial void. An act of curation involves the transferral of an object from its context of creation to a medium of observation or contemplation: its placement within a frame. Accordingly, an act of divine curation is one in which the frame precedes its content, which is to say when the mode of observation becomes an immutable prior constraint on all processes of creation.
 
 Divine curation was observed by Walter Benjamin in [The Work of Art in the Age of Mechanical Reproduction]({{site.baseurl}}/assets/pdf/benjamin-mechanical-reproduction.pdf), in which he saw the introduction of photography and film into culture in the early 20th century to effect a transition from pure production to _production for reproduction_—for the transportable image of the artwork rather than for its particular audience. This is the same shift in cultural logic that was demonstrated by Marcel Duchamp in the readymade, in which the value of the artwork is shown to be located not in the act of its creation, but in the very fact of its placement in the gallery.
 
