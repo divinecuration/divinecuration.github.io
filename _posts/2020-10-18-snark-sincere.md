@@ -2,7 +2,7 @@
 layout: post
 title: "Some Snarks at Postmodern Sincerity"
 date: 2020-10-18 05:23:00
-categories: [thoughts]
+categories: [thoughts, agency, mediation]
 ---
 
 <p style="text-align: center;">1.</p>
