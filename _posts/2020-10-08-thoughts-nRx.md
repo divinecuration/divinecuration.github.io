@@ -14,7 +14,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">2.</p>
 
-<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a real entity, the same one that Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that places strict boundary conditions on public discourse. But they have different opinions about what it is, where it came from, and how it functions in relation to the contemporary status quo.</p>
+<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a real entity, the same one that Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that places strict boundary conditions on public discourse. But they have different opinions about what it is, where it came from, and how it functions in relation to the status quo.</p>
 
 <br />
 <p style="text-align: center;">3.</p>
@@ -64,7 +64,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">12.</p>
 
-<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian critique is that the required decoupling is impossible. Precisely because it is a prestige game, access to the marketplace of social capital is limited, and its entry fee is paid in none other than money capital. The market exchange of social value is therefore conditioned indirectly by money value. According to this critique Freinacht's model cannot work, for roughly the same reasons that trickle-down economics cannot work.</p>
+<p markdown="1" style="text-align: center;">In Freinacht's model the transition from money capital to social capital represents such a virtualisation. The Fisherian response is that the required decoupling is impossible. Precisely because it is a prestige game, access to the marketplace of social capital is limited, and its entry fee is paid in none other than money capital. The market exchange of social value is therefore conditioned indirectly by money value. According to this critique Freinacht's model cannot work, for roughly the same reasons that trickle-down economics cannot work.</p>
 
 <br />
 <p style="text-align: center;">13.</p>
