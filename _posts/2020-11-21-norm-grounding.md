@@ -7,7 +7,7 @@ categories: [thoughts, brandom]
 
 I recently came across a post by David Roden called [Robert Brandom and the Posthuman](https://enemyindustry.wordpress.com/2014/08/23/robert-brandom-and-posthumanism/) which gives, among other things, an excellent introduction to a criticism that can be levelled against Brandom's philosophical project. In this post I want to consider the nature of the threat this problem poses to Brandom, and suggest that aspects of his recent exposition of Hegel can be read as an attempt to respond to it<sup>[1](#r1)</sup>.
 
-The dizzyingly intricate edifice built by Brandom in his earlier work, in particular the 800 page tome Making It Explicit, purports to explain intentional content in terms of normative attitudes. If successful, this would show how talk of objective representational content of linguistic (or mental) items can be reduced to talk of the subjective attitudes of language users. The potential cash value of this is huge: it promises no less than to give a fully naturalised account of intentional content.
+The dizzyingly intricate edifice built by Brandom in his earlier work, in particular the 800 page tome Making It Explicit, provides a framework within which (semantic) intentional content is ultimately understood in terms of (pragmatic) normative attitudes. If successful, this would reduce talk of the objective representational content of linguistic (or mental) items to talk of the subjective attitudes of language users. The potential cash value of this is huge: it promises no less than to give a fully naturalised account of intentional content.
 
 Brandom himself has pointed out that the success of this project depends critically on the ontological status of normative attitudes. In particular, if normative attitudes can themselves be individuated only by appeal to their _intentional_ content, then the chain of explanation will implode in circularity. The task for Brandom, then, is to convince us that normative attitudes can be individuated without making a tacit appeal to their intentional content. This is the problem of how social practices specified in purely behavioural or dispositional terms can be properly spoken of as materialising implicit norms.
 
@@ -36,7 +36,7 @@ The semi-determinacy of norms plays out in the symmetry of the authority structu
 
 _Notes_
 
-1. <a name="r1"></a>This post belongs to a wider train of thought I've been following concerning the productive role of indeterminacy in systems of meaning, as encountered in e.g. Derrida's trace, Baudrillard's symbolic exchange, or even Badiou's deployment of formal undecidability in mathematical structures.
+1. <a name="r1"></a>This post belongs to a wider train of thought I've been following concerning the productive role of indeterminacy in systems of meaning, as encountered in e.g. Derrida's trace, Baudrillard's symbolic exchange, or even Badiou's appeal to formal undecidability in mathematical structures.
 
 2. <a name="r2"></a>See e.g. Jerry Fodor's [mobilisation of the disjunction problem against Darwinism]({{site.baseurl}}/assets/pdf/fodor-darwin.pdf).
 
