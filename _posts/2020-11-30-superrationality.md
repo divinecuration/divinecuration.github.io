@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Note on Superrationality"
-date: 2020-11-08 05:23:00
+date: 2020-11-30 05:23:00
 categories: [thoughts, agency, tech, mediation]
 ---
 
