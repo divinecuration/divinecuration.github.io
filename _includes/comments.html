@@ -9,7 +9,7 @@
     <h2>Comments</h2>
     <br />
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == ''" %}
-    {% assign comments_by_date = comments | sort: 'date' | reverse %}
+    {% assign comments_by_date = comments | sort: 'date' %}
     <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
     {% for comment in comments_by_date %}
     {% assign index       = forloop.length | plus: 1 | minus: forloop.index %}
