@@ -3,8 +3,8 @@ layout: post
 title: "Note on Consciousness and Private Ostension"
 date: 2020-12-09 05:23:00
 categories: [thoughts]
-published: true
 mathjax: true
+published: true
 ---
 
 I've not been thinking about the philosophy of mind so much these days, but recent forays into Hegel and normativity have brought me back into touch with some of those concerns. While my last attempt to get clear on what I thought about consciousness was several years ago, I found I have not changed my mind on any key issues, and that while not currently in the foreground they are still form a foundational support in my philosophical outlook. So I thought it might worth getting some of those down.
@@ -28,11 +28,11 @@ Together these imply that there are some non-physical states (and some non-menta
 
 Less attention tends to be given to the second premise. This is perhaps because everyone thinks Kripke has already dealt with it, as it is the focus of his version of the argument. Kripke considers the conditions under which it would be true that conceivable non-identity entails actual non-identity, i.e. under what conditions is this true:
 
-<p align="center" markdown="1">\\( \Diamond x \neq y \Rightarrow x \neq y )</p>
+<p align="center" markdown="1">\\( \Diamond x \neq y \Rightarrow x \neq y \\)</p>
 
 Which is logically equivalent to:
 
-<p align="center" markdown="1">\\( x = y \Rightarrow \Box x = y )</p>
+<p align="center" markdown="1">\\( x = y \Rightarrow \Box x = y \\)</p>
 
 Kripke points out that this entailment is true if and only if \\(x\\) and \\(y\\) designate _rigidly_, that is when they refer to the same thing in every possible world in which they refer at all. Rigid designators are terms whose reference is fixed by stipulation---either by exhaustive definition (intension) or by pointing and naming (ostension). Rigid designators include proper nouns, mathematical terms like "differential operator", or names of natural kinds or stuffs, like "water". Examples of terms that designate non-rigidly are definite description like "the last word of Julius Caesar" (whose reference depends on historically contingent particularities), and terms naming unobservable entities that do explanatory work in scientific theories (like "gravity", which was once believed to refer to a force and now to spacetime curvature).
 
