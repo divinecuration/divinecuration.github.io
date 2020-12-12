@@ -7,7 +7,7 @@ mathjax: true
 published: true
 ---
 
-I've not been thinking about the philosophy of mind so much these days, but recent forays into Hegel and normativity have brought me back into contact with it. While my last attempt to get clear on consciousness was some time ago, I have found I have not changed my mind on any key issues in the interim. I thought it might be worth getting some of those down.
+While philosophy of mind has not been in the foreground for me recently, some forays into Hegel and normativity have brought me back into contact with it. My last attempt to get clear on consciousness was several years ago, but I have found that I have not changed my mind on any key issues in the interim. I thought it might be worth getting some of those down.
 
 My position on the hard problem of consciousness is deflationary: I don't believe there is one. While it is not always crystal clear what it means to "believe in the hard problem", I take it to be the belief that there are good _prima facie_ reasons to believe that phenomenal consciousness is not ontologically reducible to its physical substrate, and so there is a considerable burden of proof on anyone claiming that it is. (From here on I'll just use 'consciousness' as shorthand for specifically phenomenal consciousness.)
 
