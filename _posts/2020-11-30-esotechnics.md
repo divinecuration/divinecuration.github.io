@@ -12,6 +12,20 @@ This is the paradox of the unconscious: if its contents are made explicit, then 
 
 This picture jars with many contemporary Jung inspired practices. The "shadow work" that has become popular in circles ranging from activism to corporate wellness purports to work consciously with archetypal contents.  
 
+_Points_
+
+The dawning of science was not a story about reason emerging from superstition, but of an empirical rationality developing in opposition to a speculative rationality. This aligns science with the _occult_ (the hidden), since it seeks the mechanisms that lie latent behind the manifest world. The Aristotelian tradition, however, is rather concerned with understanding God's decree (the way things should be) - the causal mechanisms of the world are His business, and to seek them out is to display a Promethean hubris.
+
+Put differently, Christian piety advises against background explication. It wants leave the background conditions of God's order alone, and understand it on its own terms (i.e. reasoning from first principles delivered by the tradition), rather than reverse engineer it.
+
+The new empirical attitude is also a technical one. To interrogate the occult mechanisms of the world one must experiment on it, with prods, knocks, and incisions. By doing so (counterfactual variation) one can make the occult mechanisms behind appearances _explicit_, and thereby master them.
+
+This role of the technical is apparent in the role the telescope played in adjudicating between Copernican heliocentric model and geocentric models.
+
+The opposite of latency breaking is black-boxing.
+
+Occult power is the power of background-manipulation. Both the promise and danger of technology lie in its capacity to black box: to make norms binding by sending them into the background. In this capacity it has the capacity both to the alienation of modernity (deriving from the making-explicit of all background norms in the name of providing the individual with agency), but also to black-box norms that serve the interests of power.
+
 _Quotes_
 
 # Sloterdijk
@@ -56,7 +70,7 @@ On surrealism:
 
 # Baudrillard
 
-> In a society under the sway of ancestral law, it is impossible for the individual to kill the father, since, according to the customs of the Ancients, the father is always already dead and always still living. . . . To toke the father's death upon oneself or to individualise the moral consciousness by reducing paternal authority to that of a mortal, a substitutable person separable from the ancestral altar and from 'custom', _would be to leave the group, to remove oneself from the basis of tribal society. [p135, quoting Edmond Ortigues]
+> In a society under the sway of ancestral law, it is impossible for the individual to kill the father, since, according to the customs of the Ancients, the father is always already dead and always still living. . . . To take the father's death upon oneself or to individualise the moral consciousness by reducing paternal authority to that of a mortal, a substitutable person separable from the ancestral altar and from 'custom', _would be to leave the group, to remove oneself from the basis of tribal society. [p135, quoting Edmond Ortigues]
 
 > Therefore, the 'symbolic function' in primitive societies is articulated not through the law of the Father and the individual psychical reality principle, but from the outset through a collective principle, through the collective movement of exchanges. In the initiation, we have seen how, by means of a social process, the biological figures of filiation break up in order to make way for the initiatory parents. These parents are symbolic figures who refer to the socius, that is, to all the fathers and mothers of the clan, and ultimately to the dead fathers, to ancestors, and to the clan's earth mother. The instance of the Father does not appear, it is broken down into the collectivity of rival brothers (initiates). 'Aggressivity will be displaced along a horizontal line, into fraternal rivalry, overcompensated by an extremely powerful solidarity' [p135]
 
@@ -81,6 +95,62 @@ On both sides there is the same misrecognition of this apparently miniscule diff
 
 If one must explicitly grasp the rules in order to play language game, then this implies one already grasps a metalanguage - a regress ensues.
 
+# Philip Ball
+
+> One could easily get the impression from historical accounts that the thinking of these men [Copernicus, William Harvey, etc] was qualitatively different from that of others who went before, so that science emerged like a miraculous tree growing in a medieval wasteland. Set against this context, Paracelsus is the scientific positivist's worst nightmare. His work begins and ends in magic. Everything he writes is coloured by his religious beliefs, which create a purposeful universe full of secret signs and symbols. He claims to have made the Philosopher's Stone, that mnost fantastical unicorn of early chemistry. He believes in nymphs and giants and ghosts, he tells us that men can live without food if they are planted in the soil, he interprets comets as portents, he wades in the numerological mire of the Cabbala, he claims to cure every disease. Was his not the world from which science eventually rescued us? [p5-6]
+
+> If we really want to see where science came from, it is no use starting from today's perspective. Today we have the luxury of being able to regard astrology and magic as forms of foolishness. There was very little luxury in the sixteenth century, when ideas like this were all that was on offer. Science resulted not from efforts to get rid of them, but from attempts to make sense of them. [p6]
+
+> Magic was undoubtedly bound up with superstition, but it was also the precondition for science. [p6]
+
+> 'The Renaissance magus', says the historian Francis Yates, 'is the immediate ancestor of the seventeenth-century scientist.' [p6]
+
+> Thus science did not emerge as a rational flight from medeival superstition; after all, the medeival scholastics were second to none in their pedantic rationality. What was needed for modern science to take shape was a renunciation of their bookish _a priorism_, with its Aristotelian notion that all things can be deduced by logical, abstract argument from (ultimately arbitrary) first principles. Before the fertile logic of a genuinely scientific rationalism could assert itself, the sterile ground of classical dogma had to give way to a form of empiricism that accepted the reality of certain unknowns and inexplicables such as the operation of occult forces. [p6]
+
+> Paracelsus sought to embed this 'new' medicine within a comprehensive system of (devoutly Christian) natural philosophy, from which the doctor's art emerged naturally. In this much at least, his aim was no different from that of contemporary science: it all has to fit together. We insist that the atoms that make up genes and viruses are identical to those that make up mountains and oceans, and that they are governed by the same physical forces. The laws of physics apply to everything equally, to stars as well as flowers. Botany and astronomy are separate sciences, but if they are somehow fundamentally inconsistent then there is something wrong with our theories. The need for such an all-encompassing vision was not really felt in the classical past. [p8]
+
+> That magic was an _occult_ art leaves many scientists uncomfortable with its role in the history of their discipline. Today 'occult' is equated with supersition, irrationality, charlatanism. But much of contemporary science is itself occult _in the Renaissance sense_, insofar as it is 'hidden' from our senses---that, of course, being the literal meaning of the word. [p9]
+
+> As modern science emerged, it did not banish the concept of occult forces; rather, it accommodated and formalised those that seemed useful, such as magnetism and gravity, relegating others---ghosts, telepathy, telekinesis and so on---to a ragbag of outmoded notions that, in retaining the label 'occult', gradually rendered the word disreputable. But without this belief in the occult, science would have been stymied. [p9]
+
+> Mining forged a link between speculative science and practical technology, and it encouraged the kind of close empirical study of nature and engagement with experimentation that distinguishes the work of the later seventeenth-century scientific pioneers like Francis Bacon, Robert Hooke and Robert Boyle. It was in the crucibles of artisans and industrialists attempting to separate and purify metals that alchemy was transmuted into chemistry. [p27]
+
+> [I]sn't there something Faustian about the entire enterprise of printing, which traps ancient secrets and divine wisdom on the page and scatters it across the world for all and sundry to see? In an age when machinery was allied to magic, there was something disreputable, even heretical, about printing. [p90]
+
+# Jung
+
+> As he says in his “Philosophia sagax”: “There are, therefore, two kinds of knowledge in this world: an eternal and a temporal. The eternal springs directly from the light of the Holy Spirit, but the other directly from the Light of Nature.” In his view the latter kind is ambivalent: both good and bad. This knowledge, he says, “is not from flesh and blood, but from the stars in the flesh and blood. That is the treasure, the natural Summum Bonum.” Man is twofold, “one part temporal, the other part eternal, and each part takes its light from God, both the temporal and the eternal, and there is nothing that does not have its origin in God. Why, then, should the Father’s light be considered pagan, and I be recognized and condemned as a pagan?” God the Father created man “from below upwards,” but God the Son “from above downwards.” Therefore Paracelsus asks: “If Father and Son are one, how then can I honour two lights? I would be condemned as an idolater: but the number one preserves me. And if I love two and accord to each its light, as God has ordained for everyone, how then can[…]” [p174]
+
+> Regardless of our conscious convictions, we are all without exception, in so far as we are particles in the mass, gnawed at and undermined by the spirit that runs through the masses. Our freedom extends only as far as our consciousness reaches. Beyond that, we succumb to the unconscious influences of our environment. Though we may not be clear in a logical sense about the deepest meanings of our words and actions, these meanings nevertheless exist and they have a psychological effect. Whether we know it or not, there remains in each of us the tremendous tension between the man who serves God and the man who commands God to do his bidding. [p175]
+
+> Paracelsus shared with Angelus Silesius his inner piety and the touching but dangerous simplicity of his relationship to God. But alongside this spirituality a countervailing chthonic spirit made itself felt to an almost frightening degree: there was no form of manticism and magic that Paracelsus did not practise himself or recommend to others. Dabbling in these arts—no matter how enlightened one thinks one is—is not without its psychological dangers. Magic always was and still is a source of fascination. At the time of Paracelsus, certainly, the world teemed with marvels: everyone was conscious of the immediate presence of the dark forces of nature. Astronomy and astrology were not yet separated. Kepler still cast horoscopes. Instead of chemistry there was only alchemy. Amulets, talismans, spells for healing wounds and diseases were taken as a matter of course. A man so avid for knowledge as Paracelsus could not avoid a thorough investigation of all these things, only to discover that strange and remarkable effects resulted from their use. [p176]
+
+> Paracelsus shared with Angelus Silesius his inner piety and the touching but dangerous simplicity of his relationship to God. But alongside this spirituality a countervailing chthonic spirit made itself felt to an almost frightening degree: there was no form of manticism and magic that Paracelsus did not practise himself or recommend to others. Dabbling in these arts—no matter how enlightened one thinks one is—is not without its psychological dangers. Magic always was and still is a source of fascination. At the time of Paracelsus, certainly, the world teemed with marvels: everyone was conscious of the immediate presence of the dark forces of nature. Astronomy and astrology were not yet separated. Kepler still cast horoscopes. Instead of chemistry there was only alchemy. Amulets, talismans, spells for healing wounds and diseases were taken as a matter of course. A man so avid for knowledge as Paracelsus could not avoid a thorough investigation of all these things, only to discover that strange and remarkable effects resulted from their use. [p178]
+
+> Magic is insidious, and therein lies its danger. At one point, where Paracelsus is discussing witchcraft, he actually falls into using a magical witch-language without giving the least explanation. For instance, instead of “Zwirnfaden” (twine) he says “Swindafnerz,” instead of “Nadel” (needle) “Dallen,” instead of “Leiche” (corpse) “Chely,” instead of “Faden” (thread) “Daphne,” and so on.24 In magical rites the inversion of letters serves the diabolical purpose of turning the divine order into an infernal disorder. It is remarkable how casually and unthinkingly Paracelsus takes over these magically distorted words and simply leaves the reader to make what he can of them. This shows that Paracelsus must have been thoroughly steeped in the lowest folk beliefs and popular superstitions, and one looks in vain for any trace of disgust at such squalid things, though in his case its absence was certainly not due to lack of feeling but rather to a kind of natural innocence and naïveté. [p180]
+
+> With the triumph of Christianity under Constantine the old pagan ideas did not vanish but lived on in the strange arcane terminology of philosophical alchemy. Its chief figure was Hermes or Mercurius, in his dual significance as quicksilver and the world soul, with his companion figures Sol (= gold) and Luna (= silver). The alchemical operation consisted essentially in separating the prima materia, the so-called chaos, into the active principle, the soul, and the passive principle, the body, which were then reunited in personified form in the coniunctio or “chymical marriage.” In other words, the coniunctio was allegorized as the hierosgamos, the ritual cohabitation of Sol and Luna. From this union sprang the filius sapientiae or filius philosophorum, the transformed Mercurius, who was thought of as hermaphroditic in token of his rounded perfection.  [p181-2]
+
+> To me it seems certain that Paracelsus was just as unconscious of the full implications of these teachings as Khunrath was, who also believed he was speaking “without blasphemy.” But in spite of this unconsciousness they were of the essence of philosophical alchemy,44 and anyone who practised it thought, lived, and acted in the atmosphere of these teachings, which perhaps had an all the more insidious effect the more naïvely and uncritically one succumbed to them. The “natural light of man” or the “star in man” sounds harmless enough, so that none of the authors had any notion of the possibilities of conflict that lurked within it. And yet that light or filius philosophorum was openly named the greatest and most victorious of all lights, and set alongside Christ as the Saviour and Preserver of the world! Whereas in Christ God himself became man, the filius philosophorum was extracted from matter by human art and, by means of the opus, made into a new light-bringer. In the former case the miracle of man’s salvation is accomplished by God; in the latter, the salvation or transfiguration of the universe is brought about by the mind of man—“Deo concedente[…]" [p186-7]
+
+> Paracelsus’s preoccupation with alchemy exposed him to an influence that left its mark on his spiritual development. The inner driving-force behind the aspirations of alchemy was a presumption whose daemonic grandeur on the one hand and psychic danger46 on the other should not be underestimated. [187-8]
+
+> Apropos the works of a pupil of Paracelsus, Alexander à Suchten,47 he writes to Crato: “But look who it is whom he reveals to us as the son of God, namely none other than the spirit of the world and of nature, and the same who dwells in our bodies (it is a wonder that he does not add the spirit of the ox and the ass!). This spirit can be separated from matter or from the body of the elements by the technical procedures of the Theophrastus school.” [p189]
+
+# Du Bois
+
+If the microscope allows you to see the small near, and the telescope the great far, the megascope is a device that allows you see the great near.  
+
+> You know we can see the great that is far by means of the telescope and the small that is near by means of the microscope. We can see the Far Great and the Near Small but not the Great Near.
+
+# Manovich
+
+> When the generations of young architects and architectural students started to work systematically with with 3D software such as Alias in the mid-1990s, the ability to directly manipulate a 3D shape (rather than dealing only with its projections as in traditional drafting) quickly led to a whole new language of complex non-rectangular shapes. In other words, designers working with the medium of 3D computer graphics started to imagine different things.
+
+# Popper
+
+[Back to the Presocratics - The Platopus](https://leplatopus.wordpress.com/2014/09/24/karl-popper-on-the-cosmology-of-anaximander/)
+
 _Notes_
 
 1. Peter Sloterdijk, _Spheres III: Foams_
@@ -96,3 +166,13 @@ _Notes_
 6. Paul Feyerabend, _Against Method_
 
 7. Wilfrid Sellars, _Some Reflections on Language Games_
+
+8. Philip Ball, _The Devil's Doctor_
+
+9. Jung, _Paracelsus as a Spiritual Phenomenon_
+
+10. W E Dubois, [_The Princess Steel_]({{site.baseurl}}/assets/pdf/du-bois-princess-steel.pdf)
+
+11. Len Manovich, [_Deep Remixability_]({{site.baseurl}}/assets/pdf/manovich-deep-remix.pdf)
+
+12. Karl Popper, _Back to the Presocratics_
