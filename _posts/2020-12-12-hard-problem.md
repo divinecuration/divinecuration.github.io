@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Note on Consciousness and Private Ostension"
+title: "Consciousness and Private Ostension"
 date: 2020-12-09 05:23:00
 categories: [thoughts]
 mathjax: true
