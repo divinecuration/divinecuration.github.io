@@ -48,6 +48,6 @@ Without stopping to dig into the details of this strategy, let us simply note th
 
 _Notes_
 
-1. <a name="r1"></a>To put it more bluntly, I think most of the hard problem agitators simply assume that the reference fixing problem is trivial, or just don't see it at all.
+1. <a name="r1"></a>To put it more bluntly, I think most of the hard problem agitators simply assume that the reference-fixing problem is irrelevant, trivial, or just don't see it at all.
 
 2. <a name="r2"></a>Of course, if one does contend that having conscious experience does not imply epistemic access to its contents, there remains the puzzle of the epistemic gap: why it is that we seem to have a first-person authority with regard to our own mental states? Why is it that if it seems to me that I am in pain, then it is true I am in pain? However, once this epistemic question has been disentangled from the ontological question other doors are opened. Richard Rorty, for example, argued that this first-person authority can be understood as a social-linguistic convention, just part of the rules of the mental language-game, like the authority a tennis umpire has with regard to calling shots in or out.
