@@ -32,7 +32,7 @@ Less attention tends to be given to the second premise. This is perhaps because 
 
 <p align="center" markdown="1">\\( \Diamond x \neq y \Rightarrow x \neq y \\)</p>
 
-If it is possible that x and y are non-identical, then they are non-identical. This is logically equivalent to saying if x and y are identical, then they are necessarily identical:
+If it is possible that \\(x\\) and \\(y\\) are non-identical, then they are non-identical. This is logically equivalent to saying if \\(x\\) and \\(y\\) are identical, then they are necessarily identical:
 
 <p align="center" markdown="1">\\( x = y \Rightarrow \Box x = y \\)</p>
 
