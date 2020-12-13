@@ -51,8 +51,8 @@ Sam
 
 <br />
 <hr />
-
+<!-- 
 ### Subscribe
 <br />
 
-{% include mc_subscribe.html %}
+{% include mc_subscribe.html %} -->
