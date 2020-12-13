@@ -51,8 +51,3 @@ Sam
 
 <br />
 <hr />
-<!-- 
-### Subscribe
-<br />
-
-{% include mc_subscribe.html %} -->
