@@ -24,7 +24,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">4.</p>
 
-<p markdown="1" style="text-align: center;">Both see the existence of this social structure as a systemic rather than moral issue---it's existence depends on no intentional conspiracy. As Jo Freeman [argued]({{site.baseurl}}/assets/pdf/freeman-tyranny.pdf), elites function best when their members do not recognise that they belong to them.</p>
+<p markdown="1" style="text-align: center;">Both see the existence of this social structure as a systemic rather than moral issue---its existence depends on no intentional conspiracy. As Jo Freeman [argued]({{site.baseurl}}/assets/pdf/freeman-tyranny.pdf), elites function best when their members do not recognise that they belong to them.</p>
 
 <br />
 <p style="text-align: center;">5.</p>
