@@ -26,7 +26,7 @@ The general form of a conceivability argument is something like this:
 3. conscious states exist
 4. physical states exist
 
-Together these imply that there are some non-physical states (and some non-conscious states---this argument presents a problem not just for physicalists, but for monists of all stripes). To resist this conclusion the physicalist obviously cannot reject 4, so they will have to dispute one of the others. Denying 3 tends to cause people to wig out. Much of the discussion has revolved around 1, with the literature on p-zombies, brains in vats and inverted spectrums intended to provide it with support. Physicalists' attempts to resist the conclusion have often revolved around picking holes in these thought experiments.
+Together these imply that there are some non-physical states (and some non-conscious states---this argument presents a problem not just for physicalists, but for monists of all stripes). To resist this conclusion the physicalist obviously cannot reject 4, so they will have to dispute one of the others. Denying 3 tends to cause people to wig out. Much of the discussion has revolved around 1, with the literature on p-zombies, brains in vats and inverted spectrums intended to provide it with support. In many cases, defence of physicalism has revolved around trying to pick holes in these thought experiments.
 
 Less attention tends to be given to the second premise. This is perhaps because everyone thinks Kripke has already dealt with it, as it is the main point of focus in his version of the argument. Kripke considers the conditions under which conceivable non-identity does entail actual non-identity, i.e. under what conditions this statement is true:
 
