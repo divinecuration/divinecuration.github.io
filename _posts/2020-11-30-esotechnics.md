@@ -117,7 +117,9 @@ If one must explicitly grasp the rules in order to play language game, then this
 
 > [I]sn't there something Faustian about the entire enterprise of printing, which traps ancient secrets and divine wisdom on the page and scatters it across the world for all and sundry to see? In an age when machinery was allied to magic, there was something disreputable, even heretical, about printing. [p90]
 
-# Jung
+> [T]his belief in cosmic correspondences was by no means necessarily incongruent with science. For Isaac Newton, who had no doubts about the existence of a Creator, it suggested that the gravitational force that he perceived to be acting in the celestial sphere operated also in the human realm, drawing an apple to the ground. Indeed, he even speculated that this force governs the interactions between invisible atoms. Looked at this way, 'as above, so below' is not a magical formula but an expression of one science's fundamental tenets: knowledge is generalizable, so that by looking in one place we can find out about phenomena in other places too. [p145]
+
+# Jung - Paracelsus
 
 > As he says in his “Philosophia sagax”: “There are, therefore, two kinds of knowledge in this world: an eternal and a temporal. The eternal springs directly from the light of the Holy Spirit, but the other directly from the Light of Nature.” In his view the latter kind is ambivalent: both good and bad. This knowledge, he says, “is not from flesh and blood, but from the stars in the flesh and blood. That is the treasure, the natural Summum Bonum.” Man is twofold, “one part temporal, the other part eternal, and each part takes its light from God, both the temporal and the eternal, and there is nothing that does not have its origin in God. Why, then, should the Father’s light be considered pagan, and I be recognized and condemned as a pagan?” God the Father created man “from below upwards,” but God the Son “from above downwards.” Therefore Paracelsus asks: “If Father and Son are one, how then can I honour two lights? I would be condemned as an idolater: but the number one preserves me. And if I love two and accord to each its light, as God has ordained for everyone, how then can[…]” [p174]
 
@@ -136,6 +138,13 @@ If one must explicitly grasp the rules in order to play language game, then this
 > Paracelsus’s preoccupation with alchemy exposed him to an influence that left its mark on his spiritual development. The inner driving-force behind the aspirations of alchemy was a presumption whose daemonic grandeur on the one hand and psychic danger46 on the other should not be underestimated. [187-8]
 
 > Apropos the works of a pupil of Paracelsus, Alexander à Suchten,47 he writes to Crato: “But look who it is whom he reveals to us as the son of God, namely none other than the spirit of the world and of nature, and the same who dwells in our bodies (it is a wonder that he does not add the spirit of the ox and the ass!). This spirit can be separated from matter or from the body of the elements by the technical procedures of the Theophrastus school.” [p189]
+
+# Jung - Psychology and alchemy
+
+> Every archetype is capable of endless development and dif­ferentiation. It is therefore possible for it to be more developed or less. In an outward form of religion where all the emphasis is on the outward figure (hence where we are dealing with a more or less complete projection), the archetype is identical with ex­ternalized ideas but remains unconscious as a psychic factor.
+When an unconscious content is replaced by a projected image to that extent, it is cut off from all participation in and influ­ence on the conscious mind. Hence it largely forfeits its own life, because prevented from exerting the formative influence on consciousness natural to it; what is more, it remains in its orig­inal form—unchanged, for nothing changes in the unconscious. [p11]
+
+
 
 # Du Bois
 
@@ -169,10 +178,12 @@ _Notes_
 
 8. Philip Ball, _The Devil's Doctor_
 
-9. Jung, _Paracelsus as a Spiritual Phenomenon_
+9. C.G. Jung, _Paracelsus as a Spiritual Phenomenon_
 
-10. W E Dubois, [_The Princess Steel_]({{site.baseurl}}/assets/pdf/du-bois-princess-steel.pdf)
+10. C.G. Jung, _Psychology and Alchemy_
 
-11. Len Manovich, [_Deep Remixability_]({{site.baseurl}}/assets/pdf/manovich-deep-remix.pdf)
+11. W E Dubois, [_The Princess Steel_]({{site.baseurl}}/assets/pdf/du-bois-princess-steel.pdf)
 
-12. Karl Popper, _Back to the Presocratics_
+12. Len Manovich, [_Deep Remixability_]({{site.baseurl}}/assets/pdf/manovich-deep-remix.pdf)
+
+13. Karl Popper, _Back to the Presocratics_
