@@ -14,7 +14,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">2.</p>
 
-<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a real entity, the same one that Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that places strict boundary conditions on public discourse. But they have different opinions about what it is, where it came from, and how it functions in relation to the status quo.</p>
+<p markdown="1" style="text-align: center;">What Yarvin calls the [Cathedral](https://www.unqualified-reservations.org/2008/05/ol4-dr-johnsons-hypothesis/) names a concrete entity, the same that Mark Fisher calls the [Vampire Castle](https://www.opendemocracy.net/en/opendemocracyuk/exiting-vampire-castle/). These both identify a bourgeois social structure that shapes the boundaries of public discourse to serve its interests. But they have different opinions about what it is, where it came from, and how it functions in relation to the status quo.</p>
 
 <br />
 <p style="text-align: center;">3.</p>
@@ -24,7 +24,7 @@ Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fishe
 <br />
 <p style="text-align: center;">4.</p>
 
-<p markdown="1" style="text-align: center;">Both see the existence of this social structure as a systemic rather than moral issue---it's existence depends on no intentional conspiracy. As Jo Freeman [argued]({{site.baseurl}}/assets/pdf/freeman-tyranny.pdf), elites function best when their members do not recognise that they belong to them.</p>
+<p markdown="1" style="text-align: center;">Both see the existence of this social structure as a systemic rather than moral issue---its existence depends on no intentional conspiracy. As Jo Freeman [argued]({{site.baseurl}}/assets/pdf/freeman-tyranny.pdf), elites function best when their members do not recognise that they belong to them.</p>
 
 <br />
 <p style="text-align: center;">5.</p>
