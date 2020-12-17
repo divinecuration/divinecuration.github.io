@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Property Dualism"
+title: "Phenomenal Properties"
 date: 2020-12-16 05:23:00
 categories: [thoughts]
 published: true
@@ -8,6 +8,7 @@ published: true
 
 Here's some follow up thoughts to [my last post]({{site.baseurl}}/2020/12/09/hard-problem.html) on private ostension and its relation to the hard problem of consciousness. An exchange on Twitter has had me thinking through this issue more carefully, and where it fits within the broader conservation. First I want to talk about the historical shift from framing consciousness in terms of _sense impressions_ to framing it in terms of _phenomenal properties_, then reconsider how the intension/ostension ambiguity plays out in relation to illusionism and its critics, and finally to say something about how Ned Block's distinction between phenomenal consciousness and access consciousness can help clarify what is at stake in these disagreements.
 
+<br />
 _>> from sense impressions to phenomenal properties_
 
 That the debate is now framed in terms of phenomenal _properties_ reflects an attempt to respond to issues raised by the broadly Cartesian picture of consciousness. According to this picture our conscious access to the world is mediated by sense impressions: we don't see the tree directly, what we see is our sense impression _of_ the tree. These special entities accessible to consciousness---sense impressions---are then seen to have an idiosyncratic ontology (they exist if and only if they are experienced) which seems to mark them off as intrinsically non-physical. This leads to a kind of substance dualism, and the problem of mental causation that hounds it.
@@ -22,12 +23,13 @@ Davidson held that the mind-body problem arises from the apparent contradiction 
 - events related as cause and effect fall under strict laws
 - there are no strict laws on the basis of which mental events can be predicted and explained
 
-Davidson argues that the contradiction dissolves if we understand that mental events _are_ physical events (i.e. if we adopt a token-identity theory---something that every substance monist is committed to). The point being that events picked out by mental predicates can be identical to those picked out by physical predicates, even though events described with physical predicates fall under causal laws while the same events described with mental predicates do not. Whether related events fall under strict causal laws is relative to the vocabulary they are described with.
+Davidson argues that the contradiction dissolves if we understand that mental events _are_ physical events (i.e. if we adopt a token-identity theory---something that every substance monist is committed to). The point being that events picked out by mental predicates can be identical to those picked out by physical predicates, even though events described with physical predicates fall under causal laws while the same events described with mental predicates do not. Whether or not related events fall under strict causal laws is relative to the vocabulary in which they are described.
 
 Critics of anomalous monism have responded that this effectively annuls the causal role of mental properties. Mental events may cause physical events, strictly speaking, but if the above line of thought is right then they do not cause them _in virtue of_ those mental properties. Insofar as one understands mental predicates to be attributing mental properties, Davidson's argument seems to make clear that the problem of mental causation is as much a problem for property dualism as it was for substance dualism.
 
 Davidson himself, however, did not necessarily envisage mental predicates as attributing mental properties (in any ontologically committed sense). To pick out an event with a mental predicate could be to do something other to attribute a property to it, for example to express an attitude towards it. On such an understanding, whether or not mental events cause physical events "in virtue of their mental properties" ceases to be a meaningful question, since the language-game that involves picking out events with mental vocabulary may simply have nothing to do with causal-explanatory practice. (The common alternative is that mental predicates perform roles in rational-justificatory practice. On this view, if I say that I moved my arm because I was in pain, I am not _describing the cause of_ my behaviour but _providing a justification for_ it.)
 
+<br />
 _>> illusionism_
 
 This point seems to mark a significant fault line in the contemporary debate. This rift emanates from the question of how reasonable it is to deny the existence of phenomenal properties, _once_ everyone is on more or less the same page about substance monism/token-identity. Illusionists like Frankish and Dennett say that phenomenal properties are not real. Others take this as being a falsehood so obvious as to be ridiculous, [as demonstrated by](https://www.theguardian.com/books/2019/dec/27/galileos-error-by-philip-goff-review) Galen Strawson:
@@ -40,6 +42,8 @@ But this doesn't seem to be the illusionist's claim. What they are denying is th
 
 As such, the reframing of the issue in terms of phenomenal properties (rather than entities or events) does not seem to amount to any significant progress with respect on this issue. The intensional/ostensive ambiguity surrounding phenomenal particulars persists with phenomenal properties, albeit in a more mystified form.
 
+
+<br />
 _>> dark phenomenology_
 
 There have been attempts to clarify these issues, such as the distinction Ned Block makes between access consciousness (A-consciousness) and phenomenal consciousness (P-consciousness). A state belongs to A-consciousness if its representation is epistemically available for reasoning, linguistic control, etc ('inferentially promiscuous', in Block's terms). When it comes to defining P-conscious states, however, things are more tricky:
