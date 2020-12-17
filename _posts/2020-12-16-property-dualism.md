@@ -46,7 +46,7 @@ Reframing of the issue in terms of phenomenal properties (rather than entities o
 <br />
 _>> dark phenomenology_
 
-There have been attempts to clarify these issues, such as the distinction Ned Block makes between access consciousness (A-consciousness) and phenomenal consciousness (P-consciousness). A state belongs to A-consciousness if its representation is epistemically available for reasoning, linguistic control, etc ('inferentially promiscuous', in Block's terms). When it comes to defining P-conscious states, however, things are more tricky:
+There have been attempts to clarify these issues, such as [the distinction Ned Block makes]({{site.baseurl}}/assets/pdf/block-confusion.pdf) between access consciousness (A-consciousness) and phenomenal consciousness (P-consciousness). A state belongs to A-consciousness if its representation is epistemically available for reasoning, linguistic control, etc ('inferentially promiscuous', in Block's terms). When it comes to defining P-conscious states, however, things are more tricky:
 
 > Let me acknowledge at the outset that I cannot define P-consciousness in any remotely noncircular way. I don't consider this an embarrassment. The history of reductive definitions in philosophy should lead one not to expect a reductive definition of anything. The best one can do for P-consciousness is in some respects worse than for many other concepts, though, because really all one can do is _point_ to the phenomenon.
 
