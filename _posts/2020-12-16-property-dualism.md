@@ -54,7 +54,7 @@ Block rejects John Searle's version of 'pointing' to P-consciousness (which is b
 
 (My core point about reference fixing can also be reframed in these terms. One can define P-consciousness ostensively or intensionally---this is a matter of choice. However, if it is defined ostensively then reference is secured but logical independence from A-consciousness is not; if it is defined intensionally then logical independence is secured but reference is not. Many confusions seem to arise from equivocating on these two different senses of 'phenomenal' to give the appearance that P-consciousness can be defined in a way which secures both reference and logical independence from A-consciousness.)
 
-Against the claim that A-consciousness exhausts consciousness Block offers several arguments, examples and thought experiments. For example:
+Against the claim that A-consciousness exhausts consciousness Block offers several arguments, examples, and thought experiments. For example:
 
 > Here is another reason to believe in P-consciousness without A-consciousness: suppose you are engaged in intense conversation when suddenly at noon you realize that right outside your window there is---and has been for some time---a deafening pneumatic drill digging up the street. You were aware of the noise all along, but only at noon are you consciously aware of it. That is, you were P-conscious of the noise all along, but at noon you are both P-conscious and A-conscious of it.
 
