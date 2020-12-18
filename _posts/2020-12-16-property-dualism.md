@@ -44,7 +44,7 @@ Reframing the issue in terms of phenomenal properties (rather than entities or e
 
 
 <br />
-_>> dark phenomena_
+_>> overflow_
 
 A useful clarification of this issue is provided by [the distinction Ned Block makes]({{site.baseurl}}/assets/pdf/block-confusion.pdf) between access consciousness (A-consciousness) and phenomenal consciousness (P-consciousness). A state belongs to A-consciousness if its representation is epistemically available for reasoning, linguistic control, etc ('inferentially promiscuous', in Block's terms). When it comes to defining P-conscious states, however, things are more tricky:
 
