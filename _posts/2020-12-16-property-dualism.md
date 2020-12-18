@@ -67,4 +67,4 @@ _Notes_
 
 2. The [Stanford entry on mental causation](https://plato.stanford.edu/entries/mental-causation/) also has a good account of this.
 
-2. See also David Roden's post on [pandemonism](https://enemyindustry.wordpress.com/2020/09/25/dark-panpsychism-philip-goff-and-pandemonism/))
+2. See also David Roden's post on [pandemonism](https://enemyindustry.wordpress.com/2020/09/25/dark-panpsychism-philip-goff-and-pandemonism/).
