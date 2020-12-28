@@ -28,7 +28,7 @@ This approach involves making inferences from phenomena to their conditions of p
 
 That the transcendental approach is supposed to yield invariants actually struck me as quite surprising, though I realise this has to do with my own perhaps idiosyncratic route into Kant and Hegel via philosophical naturalism---a position that Roden sets in direct opposition to transcendental ambition. Naturalism holds that there is no domain of philosophical enquiry that can deliver results impervious to developments in empirical science. In terms of the outline of transcendental method sketched above, pressure from developments in science could manifest in two ways:
 
-1. What we thought was an empirical reality turns out to be an illusion: our behaviours are not "actions" at all, rather we are shunted around aimlessly by blind causal laws (or whatever)
+1. What we thought was an empirical reality turns out to be an illusion: our behaviours are not "actions" at all, rather we are shunted around aimlessly by blind causal laws (or whatever).
 
 2. We learn something new about a phenomenon that forces us to revise what we mean by the concept we apply to it: we still agree that we act, but our understanding of what "action" involves has changed, a revision with knock-on effects that may change the content of the transcendental conclusion or invalidate the deduction in some other way.
 
