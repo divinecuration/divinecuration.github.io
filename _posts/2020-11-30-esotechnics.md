@@ -12,6 +12,10 @@ This is the paradox of the unconscious: if its contents are made explicit, then 
 
 This picture jars with many contemporary Jung inspired practices. The "shadow work" that has become popular in circles ranging from activism to corporate wellness purports to work consciously with archetypal contents.  
 
+_Fiction_
+
+Paracelsus summons Azazel by accident, understandably wigged out by the presence of the Duke of Hell when he was only expecting a run-of-the-mill demon. Only a casual summoning but then this thing starts pouring out of the shadows, needily making demands with a voice like loads of bees.
+
 _Points_
 
 The dawning of science was not a story about reason emerging from superstition, but of an empirical rationality developing in opposition to a speculative rationality. This aligns science with the _occult_ (the hidden), since it seeks the mechanisms that lie latent behind the manifest world. The Aristotelian tradition, however, is rather concerned with understanding God's decree (the way things should be) - the causal mechanisms of the world are His business, and to seek them out is to display a Promethean hubris.
@@ -143,6 +147,15 @@ If one must explicitly grasp the rules in order to play language game, then this
 
 > Every archetype is capable of endless development and dif­ferentiation. It is therefore possible for it to be more developed or less. In an outward form of religion where all the emphasis is on the outward figure (hence where we are dealing with a more or less complete projection), the archetype is identical with ex­ternalized ideas but remains unconscious as a psychic factor.
 When an unconscious content is replaced by a projected image to that extent, it is cut off from all participation in and influ­ence on the conscious mind. Hence it largely forfeits its own life, because prevented from exerting the formative influence on consciousness natural to it; what is more, it remains in its orig­inal form—unchanged, for nothing changes in the unconscious. [p11]
+
+> If, for ex­ample, the _typos_ agreed in every detail with the dogmatic figure of Christ, and if it contained no determinant that went beyond that figure, we would be bound to regard the _typos_ as at least a faithful copy of the dogmatic figure, and to name it accordingly. The _typos_ would then coincide with Christ. But as experience shows, this is not the case, seeing that the unconscious, like the allegories employed by the Church Fathers, produces countless other determinants that are not explicitly contained in the dog­matic formula; that is to say, non-Christian figures such as those mentioned above are included in the typos. But neither do these figures comply with the indeterminate nature of the archetype. It is altogether inconceivable that there could be any definite figure capable of expressing archetypal indefiniteness. [p17-18]
+
+> In certain pre-Christian religions the differentia­ tion of the masculine principle had taken the form of the father-son specification, a change which was to be of the utmost importance for Christianity. W ere the unconscious merely com­ plementary, this shift of consciousness would have been accom­ panied by the production of a mother and daughter, for which the necessary material lay ready to hand in the myth of Demeter and Persephone. But, as alchemy shows, the unconscious chose rather the Cybele-Attis type in the form of the prima materia and the filius macrocosmi, thus proving that it is not complemen­ tary but compensatory. This goes to show that the unconscious does not simply act contrary to the conscious mind but modifies it more in the manner of an opponent or partner. [p24]
+
+> It is true that alchemy always stood on the verge of heresy and that certain decrees leave no doubt as to the Church's atti­tude towards it, but on the other hand it was effectively pro­tected by the obscurity of its symbolism, which could always be explained as harmless allegory. For many alchemists the allegori­cal aspect undoubtedly occupied the foreground to such an extent that they were firmly convinced that their sole concern was with chemical substances. But there were always a few for whom laboratory work was primarily a matter of symbols and their psychic effect. As the texts show, they were quite conscious of
+this, to the point of condemning the naive goldmakers as liars, frauds, and dupes. Their own standpoint they proclaimed with propositions like "Aurum nostrum non est aurum vulgi." Al­ though their labours over the retort were a serious effort to elicit the secrets of chemical transformation, it was at the same time —and often in overwhelming degree—the reflection of a parallel psychic process which could be projected all the more easily into the unknown chemistry of matter since that process is an unconscious phenomenon of nature, just like the mysterious alteration of substances. W hat the symbolism of alchemy expresses is the whole problem of the evolution of personality described above, the so-called individuation process. [p34-5]
+
+
 
 
 
