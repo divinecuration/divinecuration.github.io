@@ -15,7 +15,7 @@ I was reminded of this discussion (which appears in Rorty's _Solidarity, Conting
 In the name of clarification Roden untangles several distinct threads in posthuman thought. Namely:
 
 1. _Transhumanism_---a normative stance holding that technological enhancements are desirable on humanist grounds (technology can make us better humans).
-2. _Critical Posthumanism_---a critical stance which aims to problematise the category of the human (and therefore humanism with it), by, for example, suggesting that we are always-already posthuman.
+2. _Critical Posthumanism_---a critical stance which aims to problematise the category of the human (and therefore humanism with it), by, for example, suggesting that we were always already posthuman.
 3. _Speculative Posthumanism_---an ontological stance that suggests simply that there could one day be posthumans.
 
 Roden is particularly concerned with the third of these, and with something he calls Disconnection: the idea that future posthumans might be so radically different from us that we have no way, even in principle, of understanding what they might be like. Disconnection raises some conceptual issues: if they were really so different, then what would qualify them as 'posthuman' at all? If there are no boundaries on this concept other than that they are a product of human activities, then all human artefacts would qualify as posthumans---toasters, for example. But if there are such limits, then why can't we know them?
