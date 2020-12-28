@@ -12,13 +12,13 @@ Rorty has a response to this too, however, which depends on drawing a distinctio
 
 I was reminded of this discussion (which appears in Rorty's _Solidarity, Contingency, and Irony_) after reading the first couple of chapters of David Roden's Posthuman Life. This book is centrally concerned with what we can and cannot expect from any future successors to humanity that may arise as a result of our technological activity. Roden takes a dim view of attempts to place _a priori_ limits on posthuman weirdness, largely on the grounds that such limits depend on unjustifiably anthropocentric understandings of notions like 'value' and 'agency'.
 
-In the name of clarification Roden untangles several distinct threads in posthuman thought. Namely:
+In the name of clarification Roden untangles several distinct threads in posthuman thought.
 
 1. _Transhumanism_---a normative stance holding that technological enhancements are desirable on humanist grounds (technology can make us better humans).
 2. _Critical Posthumanism_---a critical stance which aims to problematise the category of the human (and therefore humanism with it), by, for example, suggesting that we were always already posthuman.
 3. _Speculative Posthumanism_---an ontological stance that suggests simply that there could one day be posthumans.
 
-Roden is particularly concerned with the third of these, and with something he calls Disconnection: the idea that future posthumans might be so radically different from us that we have no way, even in principle, of understanding what they might be like. Disconnection raises some conceptual issues: if they were really so different, then what would qualify them as 'posthuman' at all? If there are no boundaries on this concept other than that they are a product of human activities, then all human artefacts would qualify as posthumans---toasters, for example. But if there are such limits, then why can't we know them?
+Roden is particularly concerned with the third of these, and with something he calls Disconnection: the idea that future posthumans might be so radically different from us that we have no way, even in principle, of understanding what they might be like. Disconnection raises some conceptual issues: if they were really so different, then what would qualify them as 'posthuman' at all? If there are no boundaries on this concept other than that they are a product of human activities, then all human artefacts would qualify as posthumans---toasters, for example. But if there are boundaries then why can't we know them?
 
 > Conceptually, [speculative posthumanism] requires us to justify our use of a term "posthuman," whose circumstances of application are unknown to us. Does this mean that talk of "posthumans" is just self-vitiating nonsense? Does speaking of "weird" worlds or values commit one to a conceptual relativism that is incompatible with the commitment to realism?
 
