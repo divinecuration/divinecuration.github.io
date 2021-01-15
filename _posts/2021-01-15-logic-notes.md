@@ -7,7 +7,7 @@ published: true
 mathjax: true
 ---
 
-This is a note to summarise a few points I found striking in a quick dive into category theory. I first encountered category theory several years ago while studying its nemesis: set theory. At the time I struggled to see what conceptual resources it could offer (in either the foundations of mathematics or philosophy) that weren't already present in set theory. Recently there's been several strings tugging at me to take another look at it---relationships drawn between Kant's logic and type theory, for example, or Badiou's appeal to topos theory in the Logics of Worlds (which I have not read).
+This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first encountered category theory several years ago while studying its nemesis: set theory. At the time I struggled to see what conceptual resources it could offer (in either the foundations of mathematics or philosophy) that weren't already present in set theory. Recently there's been several strings tugging at me to take another look at it---relationships drawn between Kant's logic and type theory, for example, or Badiou's appeal to topos theory in the Logics of Worlds (which I have not read).
 
 A cursory dig around some of the material has been to enough to answer some of the questions I didn't quite manage to ask all those years ago. One really great resource has been Tom Leinster's [Basic Category Theory](https://arxiv.org/pdf/1612.09375.pdf), which gives (among other things) a good account of what is missing from the standard set theoretical foundations of mathematics.
 
