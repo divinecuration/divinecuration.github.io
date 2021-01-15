@@ -17,7 +17,7 @@ Using a categorical approach to sets avoids this trap (or so I'm told). In set t
 
 Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterised this set via the membership relation:
 
-<p align="center" markdown="1"> \\( \existsx\forally(y\notinx)\\)</p>
+<p align="center" markdown="1"> \\( \existsx\forally\lefty\notinx\right\\)</p>
 
 The emptyset is the unique set with no elements (it is unique because there's only one way to have no elements). The categorical way of doing this is really rather neat. Intuitively, a function between sets maps the elements of one onto elements of the other. Since the emptyset has no elements, a function from the emptyset to another set has nothing to do. And since there is only one way to do nothing, there is one and only one function from the emptyset to any given set.
 
