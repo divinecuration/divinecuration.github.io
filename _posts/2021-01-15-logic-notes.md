@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Note on Logic"
-date: 2020-01-27 05:23:00
+date: 2020-01-15 05:23:00
 categories: [thoughts]
 published: true
 mathjax: true
@@ -15,7 +15,7 @@ One major problem with set theory is that it has no type system. In set theory, 
 
 Using a categorical approach to sets avoids this trap (or so I'm told). In set theory, a set is characterised by the elements it contains (which are themselves always sets)---the _membership_ relation is the primitive relation that set theory uses to define everything else, including functions between sets. (According to set theory, a function \\( f:X \to Y \\) is just a subset of \\( X \times Y \\) which satisfies certain criteria.) The penny-drop moment came for me when Leinster shows how to reverse this order of definition, instead taking functions to be primitive and using functions to characterise the elements of sets.
 
-Take the emptyyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterised this set via the membership relation:
+Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterised this set via the membership relation:
 
 <p align="center" markdown="1"> \\( \existsx\forally(y\notinx)\\)</p>
 
