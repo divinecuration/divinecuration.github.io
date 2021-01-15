@@ -15,9 +15,9 @@ One major problem with set theory is that it has no type system. In set theory, 
 
 Using a categorical approach to sets avoids this trap (or so I'm told). In set theory, a set is characterised by the elements it contains (which are themselves always sets)---the _membership_ relation is the primitive relation that set theory uses to define everything else, including functions between sets. (According to set theory, a function \\( f:X \to Y \\) is just a subset of \\( X \times Y \\) which satisfies certain criteria.) The penny-drop moment came for me when Leinster shows how to reverse this order of definition, instead taking functions to be primitive and using functions to characterise the elements of sets.
 
-Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterised this set via the membership relation:
+Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterises this set with the membership relation:
 
-<p align="center" markdown="1"> \\( \exists x \forall y y \notin x \\)</p>
+<p align="center" markdown="1"> \\( \exists x \forall y (y \notin x) \\)</p>
 
 The emptyset is the unique set with no elements (it is unique because there's only one way to have no elements). The categorical way of doing this is really rather neat. Intuitively, a function between sets maps the elements of one onto elements of the other. Since the emptyset has no elements, a function from the emptyset to another set has nothing to do. And since there is only one way to do nothing, there is one and only one function from the emptyset to any given set.
 
