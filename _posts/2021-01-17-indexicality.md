@@ -2,7 +2,7 @@
 layout: post
 title: "On Indexicality"
 date: 2021-01-17 05:23:00
-categories: [thoughts, baudrillard]
+categories: [thoughts, semiotics, difference, baudrillard]
 published: true
 ---
 
