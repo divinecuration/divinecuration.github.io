@@ -13,9 +13,9 @@ A cursory dig around some of the material has been to enough to answer some of t
 
 One major problem with set theory is that it has no type system. In set theory, _everything_ is a set: integers, reals, functions, relations, tensors, etc. What this means is that a load of statements that ought be nonsensical end up making perfect sense. For example, \\( \mathbb{N}\in\leq \\) is a perfectly meaningful statement in the set theoretic context. Worse: not only does a meaningless statement like this have a truth value, but this value depends on arbitrary implementation details---in how one chooses, for example, to define one's ordinals (as one does).
 
-A categorical approach to sets apparently avoids this flaw. In set theory, what characterises a set is the elements it contains, i.e. the membership relations it stands in to other sets. "Membership" is the primitive relation that set theory uses to define everything else, including functions. (In set theory, a function \\( f:X \to Y \\) is just a subset of the Cartesian product \\( X \times Y \\).) The penny-drop moment for me came when Leinster shows how category theory allows us to reverse this order of definition, instead taking functions as primitive and using them to characterise the elements of sets.
+A categorical approach to sets apparently avoids this flaw. In set theory, what characterises a set is the elements it contains, i.e. the membership relations it stands in to other sets. "Membership" is the primitive relation that set theory uses to define everything else, including functions. (In set theory, a function \\( f:X \to Y \\) is just a subset of the Cartesian product \\( X \times Y \\).)
 
-Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterises this set with the membership relation:
+The penny-drop moment for me came when Leinster shows how category theory allows us to reverse this order of definition, instead taking functions as primitive and using them to characterise the elements of sets. Take the emptyset \\(\emptyset\\), for example. The emptyset axiom of ZFC characterises this set with the membership relation:
 
 <p align="center" markdown="1"> \\( \exists x \forall y (y \notin x) \\)</p>
 
