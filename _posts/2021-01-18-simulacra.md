@@ -7,7 +7,7 @@ published: false
 mathjax: true
 ---
 
-Why is it that Baudrillard, despite the debt he explicitly acknowledges to Saussure, talks always about simulacra rather than signifiers? I think it is for roughly the same reasons that judgements come before concepts for Kant, or sentences before terms for the later Wittgenstein: because a simulacra is the smallest _functional_ unit in a semiotic system, the smallest thing you can _do_ something with. Unlike signifiers---which have only a semantic dimension, a question of reference---simulacra have both semantic and pragmatic dimensions.
+Why is it that Baudrillard talks about simulacra rather than signifiers? I believe it is for roughly the same reasons that judgements come before concepts for Kant, or sentences before terms for the later Wittgenstein, i.e. because a simulacra is the smallest _functional_ unit in a semiotic system---the smallest thing you can _do_ something with. Unlike signifiers---which have only the semantic dimensions of reference and definition---with simulacra we can also talk about their pragmatics.
 
 An image, we might say, is more like a sentence than a word. The simulacra does not just refer or fail to refer: it can assert, deny, flirt, joke, deflect, or allude. Only against this dual articulation of proposition and speech act does Baudrillard's "successive phases of the image" make sense:
 
