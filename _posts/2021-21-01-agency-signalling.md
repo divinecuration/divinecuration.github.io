@@ -6,7 +6,7 @@ categories: [thoughts]
 published: true
 ---
 
-According to the Kantian line of thought, to be an agent is to act with reasons. This is to understand agency as a question of being subject to certain kinds of normative assessment, of being the kind of creature that can undertake commitments and possess entitlements. Within Kant's framework, this is envisaged in terms of autonomy: the capacity to apply normative criterion to _oneself_.
+According to Kant, to be an agent is to act with reasons. This is to understand agency as a question of being subject to certain kinds of normative assessment, of being the kind of creature that can undertake commitments and possess entitlements. Within Kant's framework, this is envisaged in terms of autonomy: the capacity to apply normative criterion to _oneself_.
 
 If the conditions of being an agent require that one has the capacity to bind oneself to a norm, then this seems to lead to a paradox. If one has the authority to apply a norm to oneself, then one also has the authority to retract it. But if this is so, then in what sense can one ever bound by a norm at all<sup>[1](#r1)</sup>? If the content of the normative statuses to which one's will is subject are determined by that very will, then this content is inherently unstable. Autonomy---this special kind of authority with which one is able to bind oneself to a determinate norm---is left metaphysically dangling in Kant's system, and is complemented, on the other side of the equation, by the equivalently dangling responsibility to treat others as as ends in themselves.
 
