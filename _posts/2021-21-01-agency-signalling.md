@@ -33,8 +33,8 @@ The general point can be summarised like so. If we follow the Kantian account of
 <br />
 _Notes_
 
-1. c.f. [Note on the Rule-Following Paradox]({{site.baseurl}}/2020/08/18/rule-following.html).
+1. <a name="r1"></a>c.f. [Note on the Rule-Following Paradox]({{site.baseurl}}/2020/08/18/rule-following.html).
 
-2. c.f. Robert Brandom, _A Spirit of Trust_, Chapter 9: The Fine Structure of Autonomy and Recognition.
+2. <a name="r2"></a>c.f. Robert Brandom, _A Spirit of Trust_, Chapter 9: The Fine Structure of Autonomy and Recognition.
 
-3. c.f. [Note on Virtue Signalling]({{site.baseurl}}/2020/06/10/virtue-signalling.html).
+3. <a name="r3"></a>c.f. [Note on Virtue Signalling]({{site.baseurl}}/2020/06/10/virtue-signalling.html).
