@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recognition and Costly Signalling"
+title: "Mutual Recognition and Costly Signalling"
 date: 2021-01-21 05:23:00
 categories: [thoughts]
 published: true
