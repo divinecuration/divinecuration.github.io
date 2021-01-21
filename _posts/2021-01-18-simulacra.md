@@ -1,21 +1,21 @@
----
+`---
 layout: post
 title: "Orders of Simulacra"
 date: 2021-01-18 05:23:00
 categories: [thoughts, semiotics, difference, baudrillard]
 published: false
----
+---`
 
 Why is it that Baudrillard talks about simulacra rather than signifiers? I believe it is for roughly the same reasons that judgements come before concepts for Kant, or sentences before terms for the later Wittgenstein, i.e. because a simulacra is the smallest _functional_ unit in a semiotic system---the smallest thing you can _do_ something with. Unlike signifiers---which have only the semantic dimensions of reference and definition---with simulacra we can also talk about their pragmatics.
 
-An image, we might say, is more like a sentence than a word. The simulacra does not just refer or fail to refer: it can assert, deny, flirt, joke, deflect, or allude. Only against this dual articulation of proposition and speech act does Baudrillard's "successive phases of the image" make sense:
+An image, we might say, is more like a sentence than a word. The simulacra does not just refer or fail to refer: it can assert, deny, flirt, joke, deflect, or allude. This distinction between proposition and speech act helps to render Baudrillard's successive phases of the image intelligible:
 
 - it is the reflection of a basic reality
 - it masks and perverts a basic reality
 - it masks the _absence_ of a basic reality
 - it bears no relation to any reality whatever: it is its own pure simulacrum
 
-These phases correspond to various mutations of the _relationship_ between content and act, between semantics and pragmatics. As he writes,
+Wwe can think of these phases as corresponding to various _relationships_ between content and act---between semantics and pragmatics. As he writes,
 
 > [t]he transition from signs which dissimulate something to signs which dissimulate that there is nothing, marks the decisive turning point. The first implies a theology of truth and secrecy (to which the notion of ideology still belongs). The second inaugurates an age of simulacra and simulation, in which there is no longer any God to recognise his own, nor any last judgement to separate true from false, the real from its artificial resurrection, since everything is already dead and risen in advance.
 
@@ -32,7 +32,7 @@ A 1st order simulacra is a sentence that _asserts_. It purports to represent a b
 
 This schema does not provide a definition of truth, but (as Davidson noted) it can be understood as representing our best intuition about how the truth predicate is used. It expresses the social shape of truth-practice: the normative background against which claims are exchanged and assessed.
 
-In the Tarski schema we find a special case of what Baudrillard generalises as "the natural law of value". That this schema provides no _definition_ of truth is mirrored in Baudrillard's insistence that "law" is, strictly speaking, a convenient misnomer in this case. The natural law of value does not possess the generality of a law, but acts as a generative schema for producing rules for particular exchanges. It tells us how any _given_ sentence exchanges against the real (and here the equivalence is logical) without providing any explicit concept of the real---in the end, one can only _point_. As such there is no general equivalence: the real as such is unrepresented, the horizon of the language-game rather than a symbol within it.
+In the Tarski schema we find a special case of what Baudrillard generalises as "the natural law of value". That this schema provides no _definition_ of truth is mirrored in Baudrillard's insistence that "law" is, strictly speaking, a convenient misnomer in this case. The natural law of vaxlue does not possess the generality of a law, but acts as a generative schema for producing rules for particular exchanges. It tells us how any _given_ sentence exchanges against the real (and here the equivalence is logical) without providing any explicit concept of the real---in the end, one can only _point_. As such there is no general equivalence: the real as such is unrepresented, the horizon of the language-game rather than a symbol within it.
 
 Baudrillard's natural law of value generalises the normative form of exchange exhibited by the Tarskian language-game to political economy as a whole. A domain of exchange conforms to this pattern when there is no universal exchange, only specific exchange between particular types of goods or between unique things. (The _Kula_ does not exchange with _Gimwali_, and the crown cannot be bought---it makes no sense to talk of a universal pricing system under the natural law of value.)
 <br />
