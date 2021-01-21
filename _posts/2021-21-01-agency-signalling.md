@@ -39,6 +39,6 @@ _Notes_
 
 3. <a name="r3"></a>c.f. [Note on Virtue Signalling]({{site.baseurl}}/2020/06/10/virtue-signalling.html).
 
-4. <a name="r4"></a>Baudrillard quotes Marshall McLuhan in The Political Destiny of Seduction (_Seduction, 1979_) (or perhaps its Jean Querzola---the citation is ambiguous):
+4. <a name="r4"></a>Baudrillard quotes Marshall McLuhan in The Political Destiny of Seduction (_Seduction, 1979_) (or perhaps it is Jean Querzola---the citation is ambiguous):
 
 > Electronic narcosis: it is the ultimate risk of digital simulation... We would slip from Oedipus to Narcissus... At the end of the self-management of our bodies and pleasures there would be a slow narcissistic narcosis. In a word, with silicon, what happens to the reality principle? I am not saying that the world's digitalization will soon put an end to Oedipus. I am noting that the development of biology and information technology is accompanied by the dissolution of the personality structure we call Oedipal. The dissolution of these structures uncovers another region, where the father is absent: it has to do with the maternal, the oceanic feeling and the death drive. It is not a neurosis that threatens, but something of the order of a psychosis. A pathological narcissism... We believe that we understand the forms of the social bond built on Oedipus. But when the latter no longer functions, what will power do? After authority, seduction?
