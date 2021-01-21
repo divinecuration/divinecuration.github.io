@@ -1,10 +1,10 @@
-`---
+---
 layout: post
 title: "Orders of Simulacra"
 date: 2021-01-18 05:23:00
 categories: [thoughts, semiotics, difference, baudrillard]
 published: false
----`
+---
 
 Why is it that Baudrillard talks about simulacra rather than signifiers? I believe it is for roughly the same reasons that judgements come before concepts for Kant, or sentences before terms for the later Wittgenstein, i.e. because a simulacra is the smallest _functional_ unit in a semiotic system---the smallest thing you can _do_ something with. Unlike signifiers---which have only the semantic dimensions of reference and definition---with simulacra we can also talk about their pragmatics.
 

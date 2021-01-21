@@ -3,7 +3,7 @@ layout: post
 title: "Recognition, Media, and Costly Signalling"
 date: 2021-01-21 05:23:00
 categories: [thoughts]
-published: false
+published: true
 ---
 
 According to the Kantian line of thought, to be an agent is to have reasons for one's actions. This is to understand agency as a question of being subject to certain kinds of normative assessment, of being the kind of being that can undertake commitments and possess entitlements. To act with reasons is to be subject to assessments of correctness. Within Kant's framework, this is envisaged in terms of autonomy: the capacity to apply normative criterion to _oneself_.
