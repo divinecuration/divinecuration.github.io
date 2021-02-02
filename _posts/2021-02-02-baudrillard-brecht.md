@@ -22,7 +22,7 @@ But this is to undermine the effect of the real, which was predicated on the sep
 
 > The arbitrariness of the sign begins when, instead of bonding two persons in an inescapable reciprocity, the signifier starts to refer to the disenchanted world of the signified, the common denominator of the real world, towards which no-one any longer has the least obligation.<sup>[2](#r2)</sup>
 
-If the comparison with Brecht is right, then the generalised realism of our times (natural world as referent of scientific theory, the belief in use-value as finality of exchange shared by both classical and Marxist economics) is the product of a technical operation of narrative displacement. The sign is arbitrary not because it refers, but because it no longer refers to an _obligation_---that is, it no longer mediates a social relation. But this is just to say that signs now pretend to represent a world to those who float about outside it, rather than communicate between those inhabiting it.
+If the comparison with Brecht is right, then the baseline realism of our times (natural world as referent of scientific theory, the belief in use-value as finality of exchange shared by both classical and Marxist economics) is the product of a technical operation of narrative displacement. The sign is arbitrary not because it refers, but because it no longer refers to an _obligation_---that is, it no longer mediates a social relation. But this is just to say that signs now pretend to represent a world to those who float about outside it, rather than communicate between those inhabiting it.
 
 If symbolic exchange aims to destroy the real, its strategy in doing so is to suck us back inside it.
 
