@@ -1,18 +1,20 @@
 ---
 layout: post
-title: "Baudrillard's Real and Brechtian interruption"
+title: "Baudrillard's Real and Brechtian Interruption"
 date: 2021-02-02 05:23:00
 categories: [thoughts, baudrillard, brecht, displacement]
 published: true
 ---
 
+Baudrillard:
+
 > The symbolic is neither a concept, an agency, a category, nor a 'structure', but an act of symbolic exchange and _a social relation which puts an end to the real_, which resolves the real, and, at the same time, puts an end to the opposition between the real and the imaginary.<sup>[1](#r1)</sup>
 
-This passage of Baudrillard's is often quoted in the secondary literature, likely because it's the closest he ever seems to get to offering anything like a 'definition' of symbolic exchange. That said, it is still somewhat baffling. How can a social relation put an end to the real?
+This passage is quoted pretty often in the secondary literature, no doubt because it's the closest he ever seems to get to offering anything like a 'definition' of symbolic exchange. That said, it is still somewhat baffling. How can a social relation put an end to the real?
 
-I think that what Baudrillard is getting at here is something very similar to Brechtian interruption. For Brecht, the 'real' of European realist theatre is primarily a technical effect, product of a staging apparatus. The staging separates the narrative space of the performance from the observation space of the audience.
+I think that what Baudrillard is getting at here is something very similar to Brecht's idea of 'interruption' in his theory of epic theatre. Brecht emphasised the 'real' of European realist theatre is primarily a _technical_ effect, the product of a staging apparatus. The staging techniques are what separate the narrative space of the performance from the observation space of the audience.
 
-The audience has no social relation to the characters, which is to say they do not recognise them as social actors within _their_ narrative space, but as creatures under observation in some other world. It is only once displaced to an Archimedean point outside narrative space that the audience are able to perceive it as imaginary, as distinguished from the real it portrays, and thereby to judge it on its success _as_ realism: on the accuracy of its representation.
+In the European theatre the audience does not stand in social relation to the characters, which is to say they do not recognise them as social actors within _their_ narrative space, but as creatures under observation in some other world. It is only once displaced to an Archimedean point outside narrative space that the audience are able to perceive its space as an imaginary as distinguished from what it portrays, and thereby to judge its value on the accuracy of its representation.
 
 An interruption undermines the separation between the participatory space of the narrative and the Archimedean observational space of the audience. A character makes eye-contact with the audience; addresses them directly as if they shared social space. This act produces a social relation between audience and character where previously there was only an object relation: they now mutually recognise one another as sharing the _same_ space of social participation.
 
