@@ -12,7 +12,7 @@ Baudrillard:
 
 This passage is quoted pretty often in the secondary literature, no doubt because it's the closest he ever seems to get to offering anything like a 'definition' of symbolic exchange. That said, it is still somewhat baffling. How can an act which is a social relation put an end to the real?
 
-I think that what Baudrillard is getting at here is something very similar to Brecht's idea of 'interruption' in the theory of epic theatre. Brecht emphasised the 'real' of European realist theatre is primarily a _technical_ effect, the product of a staging apparatus whose function is to separate the narrative space of the performance from the observational space of the audience.
+I think that what Baudrillard is getting at here is something very similar to Brecht's idea of 'interruption' in the theory of epic theatre. Brecht emphasised that the 'real' of European realist theatre is primarily a _technical_ effect, the product of a staging apparatus whose function is to separate the narrative space of the performance from the observational space of the audience.
 
 In European theatre the audience does not stand in social relation to the characters, which is to say they do not recognise them as social actors within _their_ narrative space, but as creatures under observation in some other world (in contrast to, for example, [Chinese opera]({{site.baseurl}}/2020/07/07/brecht.html)). It is only once displaced to an Archimedean point outside narrative space that the audience are able to perceive it as an imaginary distinguished from the real world it portrays, and thereby to judge its value on the accuracy of its representation.
 
