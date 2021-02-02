@@ -3,7 +3,7 @@ layout: post
 title: "Baudrillard's Real and Brechtian interruption"
 date: 2021-02-02 05:23:00
 categories: [thoughts, baudrillard, brecht, displacement]
-published: false
+published: true
 ---
 
 > The symbolic is neither a concept, an agency, a category, nor a 'structure', but an act of symbolic exchange and _a social relation which puts an end to the real_, which resolves the real, and, at the same time, puts an end to the opposition between the real and the imaginary.<sup>[1](#r1)</sup>
