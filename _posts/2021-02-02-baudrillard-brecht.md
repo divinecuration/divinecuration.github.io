@@ -10,9 +10,9 @@ Baudrillard:
 
 > The symbolic is neither a concept, an agency, a category, nor a 'structure', but an act of symbolic exchange and _a social relation which puts an end to the real_, which resolves the real, and, at the same time, puts an end to the opposition between the real and the imaginary.<sup>[1](#r1)</sup>
 
-This passage is quoted pretty often in the secondary literature, no doubt because it's the closest he ever seems to get to offering anything like a 'definition' of symbolic exchange. That said, it is still somewhat baffling. How can a social relation put an end to the real?
+This passage is quoted pretty often in the secondary literature, no doubt because it's the closest he ever seems to get to offering anything like a 'definition' of symbolic exchange. That said, it is still somewhat baffling. How can an act which is a social relation put an end to the real?
 
-I think that what Baudrillard is getting at here is something very similar to Brecht's idea of 'interruption' in his theory of epic theatre. Brecht emphasised the 'real' of European realist theatre is primarily a _technical_ effect, the product of a staging apparatus. The staging techniques are what separate the narrative space of the performance from the observation space of the audience.
+I think that what Baudrillard is getting at here is something very similar to Brecht's idea of 'interruption' in his theory of epic theatre. Brecht emphasised the 'real' of European realist theatre is primarily a _technical_ effect, the product of a staging apparatus whose function is to separate the narrative space of the performance from the observational space of the audience.
 
 In the European theatre the audience does not stand in social relation to the characters, which is to say they do not recognise them as social actors within _their_ narrative space, but as creatures under observation in some other world. It is only once displaced to an Archimedean point outside narrative space that the audience are able to perceive its space as an imaginary as distinguished from what it portrays, and thereby to judge its value on the accuracy of its representation.
 
