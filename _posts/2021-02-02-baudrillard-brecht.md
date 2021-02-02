@@ -24,7 +24,7 @@ But this is to undermine the effect of the real, which was predicated on the sep
 
 If the comparison with Brecht is right, then the baseline realism of our times (natural world as referent of scientific theory, use-value as finality of exchange-value, etc) is the product of a technical operation of narrative displacement. The sign is arbitrary not because it refers, but because it no longer refers to an _obligation_---that is, it no longer mediates a social relation. But this is just to say that signs now pretend to represent a world to those who float about outside it, rather than communicate between those inhabiting it.
 
-If symbolic exchange aims to destroy the real, its strategy in doing so is to suck us back inside it.
+If symbolic exchange aims to destroy the real, its strategy in doing so is to suck us back inside it (which is why it is seductive, fatal).
 
 
 <br />
