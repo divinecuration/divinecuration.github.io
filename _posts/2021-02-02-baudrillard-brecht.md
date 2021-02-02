@@ -18,7 +18,7 @@ In the European theatre the audience does not stand in social relation to the ch
 
 An interruption undermines the separation between the participatory space of the narrative and the Archimedean observational space of the audience. A character makes eye-contact with the audience; addresses them directly as if they shared social space. This act produces a social relation between audience and character where previously there was only an object relation: they now mutually recognise one another as sharing the _same_ space of social participation.
 
-But this is to undermine the effect of the real, which was predicated on the separation. The representation relation between imaginary and its referent is only graspable from a position outside it. Once the audience is plunged inside the social space of the imaginary the real is no longer available as a referent, but only as the horizon of a social world which is no longer distinguishable _as_ imaginary.
+But this is to undermine the real as effect, which was predicated on the separation. The representation relation between imaginary and its referent is only graspable from a position outside it. Once the audience is plunged inside the social space of the imaginary the real is no longer available as a referent, but only as the horizon of a social world which is no longer distinguishable _as_ imaginary.
 
 > The arbitrariness of the sign begins when, instead of bonding two persons in an inescapable reciprocity, the signifier starts to refer to the disenchanted world of the signified, the common denominator of the real world, towards which no-one any longer has the least obligation.<sup>[2](#r2)</sup>
 
