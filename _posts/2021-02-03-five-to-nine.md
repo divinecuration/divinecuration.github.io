@@ -45,7 +45,7 @@ Take this Apple commercial from the 1984 Super Bowl:
 {% include youtube.html id="VtvjbmoDx-I" %}
 <br />
 
-It's all very well to watch this as a youtube video embedded in some obscure blog post, but to see it at the Super Bowl is different, in a straightforward objective way---you know that millions of others are also seeing it at the same moment. This makes a _rational_ difference to the choices you might make. This gives some concrete shape to McLuhan's idea that the medium is the message. This has nothing to do with some mysterious pull that the medium exerts over the content of its messages but because formal qualities---like publicity---affect their objective significance for concrete social reasons.
+It's all very well to watch this as a youtube video embedded in some obscure blog post, but to see it at the Super Bowl is different, in a straightforwardly objective way---you know that millions of others are also seeing it at the same moment. This makes a _rational_ difference to the choices you might make. This gives some concrete shape to McLuhan's idea that the medium is the message. This has nothing to do with some mysterious pull that the medium exerts over the content of its messages but because formal qualities---like publicity---affect their objective significance for social reasoning.
 
 This would explain why it doesn't really matter if individuals are directly responsive to the messaging in adverts. Their success is not based on whether they are persuasive at an individual level, but on whether they establish a point of shared reference within common knowledge, because this is the significant factor for decision coordination.
 
