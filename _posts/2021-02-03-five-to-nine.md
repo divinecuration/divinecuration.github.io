@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Knowledge, the Symbolic, and the Imaginary"
-date: 2021-02-02 05:23:00
+date: 2021-02-04 05:23:00
 categories: [thoughts]
 published: true
 ---
