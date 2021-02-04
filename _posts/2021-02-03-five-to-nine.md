@@ -3,7 +3,7 @@ layout: post
 title: "Common Knowledge and the Imaginary"
 date: 2021-02-02 05:23:00
 categories: [thoughts]
-published: true
+published: false
 ---
 
 It seems that Squarespace have upped their cynical advertising game yet again, perhaps surpassing last year's [A Website Makes it Real]({{site.baseurl}}/2020/05/10/the-public-real.html) campaign with a new Super Bowl commercial that overlays a reworked version of Dolly Parton's 9 to 5 on a horrorshow romanticisation of boundless productivity and eternal work (sorry. . . _side hustle_):
