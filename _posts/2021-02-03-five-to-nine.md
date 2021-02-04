@@ -67,7 +67,7 @@ So you need to play the game a bit, because that's the least bad option. Playing
 
 This is where Squarespace come in. Because packaging your content in a way that speaks this language is not about _being_ the kind of person who believes in the spiritual power of the side-hustle, it is about _appearing to be_ the kind of person who does. Squarespace is selling you the means of _appearing_ to care about side-hustling, and this is why common knowledge is operating at an extra level of removal in this case. What is important is not that the advert convinces you that side-hustling is good, or even convinces you that other people believe it is good, but that it convince you that _this_ is the common symbolic vocabulary that everyone is using to convey self-realisation.
 
-Its success depends on its ability to coordinate our pretences.
+Its success depends on its ability to coordinate our pretences. The horrible irony is that the better equipped you are to see the bleak reality behind the messaging, the more likely it is to achieve its effect.
 
 <br />
 <br />
