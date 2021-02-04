@@ -12,7 +12,7 @@ Squarespace have upped their cynical advertising game yet again, perhaps surpass
 {% include youtube.html id="v4FYL8twE6Q" %}
 <br />
 
-What's striking about these adverts is not so much the bleak messaging as the fact that the bleakness is so self-aware. They are deliberately cynical, and it is this feature that makes critiquing their content so utterly pointless. Critique brings agency only if it pierces an illusion to discover a hidden truth. But these adverts are not simply presenting the illusion that something bleak is empowering. They do not merely pretend, they _pretend to pretend_. To launch into an earnest critique of their content would be to implicitly treat them as straightforward pretence---but to do this is just to become complicit in the 2nd-order pretence.
+What's striking about these adverts is not so much the bleak messaging as the fact that the bleakness is so self-aware. They are deliberately cynical, and it is this feature that makes forensically dissecting their content so utterly pointless. Critique brings agency only if it pierces an illusion to discover a hidden truth. But these adverts are not simply presenting the illusion that something bleak is empowering. They do not merely pretend, they _pretend to pretend_. To launch into an earnest critique of their content would be to implicitly treat them as straightforward pretence---but to do this is just to become complicit in the 2nd-order pretence.
 
 This is similar to what Mark Fisher called [reflexive impotence](http://k-punk.abstractdynamics.org/archives/007656.html):
 
