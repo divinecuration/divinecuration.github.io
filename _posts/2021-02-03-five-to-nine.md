@@ -67,7 +67,7 @@ So you need to play the game a bit, because that's the least bad option. Playing
 
 This is where Squarespace come in. Because packaging your content in a way that speaks this language is not about _being_ the kind of person who believes in the spiritual power of the side-hustle, it is about _appearing to be_ the kind of person who does. Squarespace is selling you the means of appearing to care about side-hustling, and this is why common knowledge is operating at an extra level of removal in this case. What is important is not that the advert convinces you that side-hustling is good, or even convinces you that other people believe it is good, but that it convince you that _this_ is the common symbolic vocabulary that everyone is using to convey self-realisation, even if no-one believes it.
 
-Its success depends on its ability to coordinate our pretences. The horrible irony is that the better equipped you are to see the bleak reality behind the messaging, the more likely it is to achieve this effect---_you_ are its implied audience. 
+Its success depends on its ability to coordinate our pretences. The horrible irony is that the better equipped you are to see the bleak reality behind the messaging, the more likely it is to achieve this effect---_you_ are its implied audience.
 
 <br />
 <br />
@@ -79,7 +79,7 @@ Here is David Lewis, cited by Chwe:
 
 > If yesterday I told you a story about people who got separated in the subway and happened to meet again at Charles Street, and today we get separated in the same way, we might independently decide to go and wait at Charles Street. It makes no difference whether the story I told you was true, or whether you thought it was, or whether I thought it was, or even whether I claimed it was. A fictive precedent would be as effective as an actual one.<sup>[3](#r3)</sup>
 
-This thought puts me in mind of something that has been bugging me about VR for a while.
+The use of common knowledge to coordinate action doesn't necessarily depend on there being a base-layer of truth. This thought puts me in mind of something that has been bugging me about VR for a while.
 
 A while ago I was at a friend's house and they had a VR set with a trippy meditation app. Everyone was adamant that it was "just like DMT." But it was nothing like a DMT experience. There were some superficial similarities in its vague kaleidoscopic visual effects, but these felt more like a quotation of a psychedelic experience than a serious attempt to simulate one. All of the distinctive characteristics of DMT experiences---radical auditory distortion, loss of bodily awareness, fear---were of course completely absent.
 
