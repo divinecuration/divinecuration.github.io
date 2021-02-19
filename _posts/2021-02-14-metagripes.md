@@ -3,7 +3,7 @@ layout: post
 title: "Against Metamodernism"
 date: 2021-02-14 05:23:00
 categories: [thoughts]
-published: true
+published: false
 ---
 
 The original title of this post was _Against Oscillation_. In one sense this would have been more accurate---the goal here is certainly not to take aim at everything that has ever rallied under the banner of metamodernism, which would be ridiculous, but to offer a few criticisms of its central motif: the oscillation between modernism and postmodernism which is said to define the metamodern sensibility.
