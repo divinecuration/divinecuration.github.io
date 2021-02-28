@@ -22,7 +22,6 @@ permalink: /:year/:month/:day/:title:output_ext
 collections:
   tags:
     output: true
-
 defaults:
   -
     scope:
