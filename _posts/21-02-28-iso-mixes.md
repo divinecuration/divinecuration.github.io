@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Isolation Fest DJ Mixes"
-date: 2021-02-21 05:23:00
+date: 2021-02-28 05:23:00
 categories: [sounds]
 published: true
 ---
