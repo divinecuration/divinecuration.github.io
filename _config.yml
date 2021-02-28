@@ -11,6 +11,7 @@ email:
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://divinecuration.github.io" # the base hostname & protocol for your site
+logo: /assets/logo/logo.png
 twitter:
   username: divinecuration
   card: summary
