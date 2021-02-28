@@ -3,7 +3,7 @@ layout: post
 title: "Isolation Fest DJ Mixes"
 date: 2021-02-28 05:23:00
 categories: [sounds]
-image: /assets/img/logo/logo.png
+image: /assets/img/blog/canal-1.jpg
 published: true
 ---
 
