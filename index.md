@@ -7,8 +7,8 @@ title: Posts
 {% assign wordCount = post.content | number_of_words %}
 <div class="post_title">
   <!-- &raquo;  -->
-  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
   <p class="post_date">{{ post.date | date: "%d %B %Y" }}</p>
+  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
   <div class="post_subtitle">{{ wordCount }} words</div>
   <div class="post_subtitle">
   {% for category in post.categories %}
