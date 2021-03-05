@@ -4,48 +4,21 @@ title: About
 permalink: /about/
 ---
 
-If divine creation refers to a world produced from nothing, then "divine curation" must signify a world that has been _reproduced_ from the same primordial void. An act of curation involves the transferral of an object from its context of creation to a medium of observation or contemplation: its placement within a frame. Accordingly, an act of divine curation is one in which the frame precedes its content, which is to say when the mode of observation becomes an immutable prior constraint on all processes of creation.
+Like many things on this blog, “divine curation” is a phrase inspired by Jean Baudrillard. The replacement of the real by its reproduction---a central idea of Baudrillard's---was a signpost to a deep dysfunctionality in modern systems of value. The murder of the real speaks to the systematic redirection of our collective energies away from the act of _production_ into the act of _reproduction_, or from the creation of the new into the curation---which is to say the reserialisation, reframing, and recombination---of the old.
 
-Divine curation was observed by Walter Benjamin in [The Work of Art in the Age of Mechanical Reproduction]({{site.baseurl}}/assets/pdf/benjamin-mechanical-reproduction.pdf), in which he saw the introduction of photography and film into culture in the early 20th century to effect a transition from pure production to _production for reproduction_—for the transportable image of the artwork rather than for its particular audience. This is the same shift in cultural logic demonstrated by Marcel Duchamp in the readymade, in which the value of the artwork is shown to be located not in the act of its creation, but in the very fact of its placement in the gallery.
+According to this logic, the rules that structure social reality now dictate that value is brought into being _ex nihilo_ in the act of curation---a development first noticed by Walter Benjamin in [The Work of Art in the Age of Mechanical Reproduction]({{site.baseurl}}/assets/pdf/benjamin-mechanical-reproduction.pdf), first demonstrated by Marcel Duchamp in the readymade, and now increasingly hardwired into the technical architecture of communications media. Insofar as value still attaches to the creative act, it does so only as an alibi for the curatorial process. One of the guiding convictions of this blog is that this insight is both correct and more relevant than ever.
 
-The transferral of value creation from production to reproduction was thematised explicitly by Jean Baudrillard, who generalised it under the rubrik of the _structural law of value_. According to this law value can only attach to what is readable according to a pre-existing code, so that the production of the new becomes constrained by the requirement that it provide a variation on (or formal inversion of) an established theme---that it reproduce something already present. Insofar as this law represents the hegemonic form of value, it necessarily undermines the possibility of real novelty at the same time as producing rapid variations and reconfigurations of familiar forms, an endless process of curation that steps into the void left by the stifling of creation.
+If divine curation labels one pole of this project, then the other is _bad optics_. [Bad optics]({{site.baseurl}}/2020/11/08/negation.html) refers to the jarring (un)aesthetics of that which has been _merely_ produced when it is viewed through eyes capable of seeing only what has been produced _for reproduction_. In Benjamin’s lingo, bad optics is what you get when you try to give a ritual object an exhibition value. If the defining feature of our times is that all contexts are exhibition contexts---which is to say, if [interiority is always-already displaced]({{site.baseurl}}/2020/05/06/false-consciousness.html)---then true interiority will always display bad optics, if it displays any optics at all. Put differently, bad optics signals a breakdown in the conditions of exteriority, and therefore _resists_ the capture mechanisms of divine curation. This suggestion is explored in posts on [subculture]({{site.baseurl}}/2020/05/10/dnb.html), [alienation]({{site.baseurl}}/2021/01/17/indexicality.html), and [invisibilia]({{site.baseurl}}/2020/07/10/benjamin-decay.html).
 
-<br />
-<p style="text-align: center;">...</p>
-<br />
+At stake in all this is the question of human agency in contemporary life. My approach to this question is framed by the intersection of value criticism and media theory (this is my excuse for all the Baudrillard), which is to say agency is here considered primarily through the lens of its _technics_. This is often informed by more metaphysical theories of action and autonomy, and includes forays into [German Idealism]({{site.baseurl}}/2021/01/21/agency-signalling.html), [the philosophy of mind]({{site.baseurl}}/2020/12/16/property-dualism.html), and contemporary analytic approaches to [normativity]({{site.baseurl}}/2020/07/14/brandom-fate.html) and [cognition]({{site.baseurl}}/2020/11/21/norm-grounding.html). The links between the technics and metaphysics of agency are traced in discussions of [coordination problems]({{site.baseurl}}/2021/02/04/five-to-nine.html), [decision theory]({{site.baseurl}}/2020/11/30/superrationality.html), and [markets]({{site.baseurl}}/2021/01/29/nash.html).
 
-This blog documents an open-ended research project based on three overarching aims.
+This project began life as a research based art practice, and its present sprawling status is a result of allowing it to ooze outside the kind of spaces in which it is appropriate to use phrases like “research based art practice.” If the contradictions of divine curation are felt throughout all aspects of contemporary life, then the world of contemporary art is surely where they collect in their most lethal doses. This blog is the result of such a dose. That said, the spirit of a free-floating exploration still guides it, and amongst the writings can be found works and experiments in other media including music, film, and others.
 
-<br />
-<p style="text-align: center;">1.</p>
+This is a static site is created using [Jekyll](https://jekyllrb.com/) with the [] theme, and runs on [Github Pages](https://pages.github.com/). This is great because it has no ads, costs zero pounds, runs nil javascript, collects Ø stats, and gives me complete control of the code, data structure, and appearance of the site.
 
-To take seriously the claim that the structural law of value represents the dominant form in contemporary Western culture, and that its effect is a profound crisis of inertia. This is a theme that looms large in Mark Fisher's analysis of [capitalist realism]({{site.baseurl}}/2020/05/02/capitalist-realism.html), and his portrayal of the state of 21st culture as one of [frenzied stasis]({{site.baseurl}}/2020/05/10/acceleration.html). It raises deep questions about the conditions of possibility of [ethics]({{site.baseurl}}/2020/06/22/ethical-simulacrum.html), [collective action]({{site.baseurl}}/2020/09/26/collective-action.html), and [subversion]({{site.baseurl}}/2020/09/23/meditation-masters-tools.html), that touch on foundational philosophical problems of [agency]({{site.baseurl}}/2020/08/26/subjectivation.html), [alienation]({{site.baseurl}}/2020/07/14/brandom-fate.html), [subjectivity]({{site.baseurl}}/2020/05/06/false-consciousness.html), and [normativity]({{site.baseurl}}/2020/08/18/rule-following.html).
+If you would like to contact me I can be emailed at _divinecurationsite_ [at] _gmail.com_.
 
-<br />
-<p style="text-align: center;">2.</p>
-
-To be optimistic about the prospects for creating and inhabiting autonomous spheres of value that do not abide by the structural law. This shows up on this blog as a preoccupation with [subculture]({{site.baseurl}}/2020/05/10/dnb.html), [counterculture]({{site.baseurl}}/2020/08/07/note-counterculture.html), [technology]({{site.baseurl}}/2020/08/25/anaphora-deixis.html), and [psychedelics]({{site.baseurl}}/2020/09/26/psychedelic-selves.html). In this spirit I also include my own creative work, including [music]({{site.baseurl}}/2020/07/05/weir.html) and [art pieces]({{site.basesurl}}/2018/05/02/prima-materia.html), that represent my own involvement as a participant in various cultural spaces.
-
-<br />
-<p style="text-align: center;">3.</p>
-
-To develop a form of practice that integrates both of these aims. This is both a critical project which tries to diagram the operations and traps of cultural spaces governed by the structural law of value, and a constructive project which aims to create an autonomous space of value from which to conduct the research and transmit the findings. In practice this means finding ways to detach the process from financial, career, or clout maximising imperatives that would bind it to the structural law of value. This is often less a matter of principle than of practically working out how do so without succumbing to isolation, in a world where most communications media are clout-trading spaces by design.
-
-<br />
-<p style="text-align: center;">...</p>
-<br />
-
-I don't really want to have an aesthetic, but this is not something I believe I have much choice in. This is one of the effects of the structural law of value---anything consistently off-brand will eventually be assimilated as a positive brand which can't help but trade against all others. The best we can do in this situation, I think, is refuse to allow an aesthetic to function as a contract with future, to hold onto our authority to retrospectively rewrite our own story each time we surprise ourselves with something new.
-
-On this basis, I believe that a true creative or intellectual process requires free-roaming exploration in unbounded time, and that a style is something that can only be visible in hindsight. This is one reason why this site uses [jekyll](https://jekyllrb.com/) running on [github pages](https://pages.github.com/), in an attempt to maximise the control I have over the form of presentation as well the content. It also means I can ensure it remains free from advertising without incurring any costs of my own, that there are no scripts running on this site, that there is no info gathering of any sort, and that I can hack bits on whenever I feel like it. On the flipside it might be a bit janky.
-
-<br />
-<p style="text-align: center;">...</p>
-<br />
-
-If you'd like to get in contact for any reason my email is _divinecurationsite_ [at] _gmail.com_.
-
-I'm also on [twitter](https://twitter.com/divinecuration), and have other bits scattered around the web at [soundcloud](https://soundcloud.com/samludford), [mixcloud](https://www.mixcloud.com/samludford/), and [vimeo](https://vimeo.com/samuelludford).
+I'm also on [Twitter](https://twitter.com/divinecuration), and have other bits scattered around the web at [Soundcloud](https://soundcloud.com/samludford), [Mixcloud](https://www.mixcloud.com/samludford/), and [Vimeo](https://vimeo.com/samuelludford).
 
 Sam
 
