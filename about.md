@@ -14,7 +14,7 @@ At stake in all this is the question of human agency in contemporary life. My ap
 
 This project began life as a research based art practice, and its present sprawling status is a result of allowing it to ooze outside the kind of spaces in which it is appropriate to use phrases like “research based art practice.” If the contradictions of divine curation seep through all aspects of contemporary life, then the world of contemporary art is where they collect in lethal doses. This blog is the result of such a dose. That said, the spirit of a free-floating exploration still guides it, and amongst the writings can be found works and experiments in other media including [music]({{site.baseurl}}/2020/07/05/weir.html), [film]({{site.baseurl}}/2016/05/01/fluid-phase.html), and [others]({{site.baseurl}}/2018/05/02/prima-materia.html).
 
-This is a static site is created using [Jekyll](https://jekyllrb.com/) and runs on [Github Pages](https://pages.github.com/). This is great because it has no ads, costs zero pounds, runs nil javascript, collects Ø stats, and gives me complete control of the code, data structure, and appearance of the site.
+This is a static site is created using [Jekyll](https://jekyllrb.com/) and runs on [Github Pages](https://pages.github.com/). This is great because it has no ads, costs zero doubloons, runs nil javascript, collects Ø stats, and gives me complete control of the code, data structure, and appearance of the site.
 
 If you would like to contact me I can be emailed at _divinecurationsite_ [at] _gmail.com_.
 
