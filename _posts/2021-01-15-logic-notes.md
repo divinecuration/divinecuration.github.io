@@ -9,6 +9,8 @@ mathjax: true
 
 This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first has some contact with category theory several years ago while studying computability, logic, and set theory. At the time I had some difficulty seeing what conceptual resources it could offer (to either the foundations of mathematics or philosophy) that weren't already present in set theory. Recently there's been several strings tugging at me to take another look at it---[relationships drawn between Kant's logic and type theory]({{site.baseurl}}/assets/pdf/lof-synthetic-a-priori.pdf), for example, or Badiou's appeal to topos theory in the Logics of Worlds (which I have not read).
 
+<!--more-->
+
 A cursory dig around some of the material has been enough to provide a much better grasp on what it can offer. One really great resource has been Tom Leinster's [Basic Category Theory](https://arxiv.org/pdf/1612.09375.pdf), which gives (among other things) a good account of what is missing from the standard set theoretical foundations of mathematics.
 
 One major problem with set theory is that it has no type system. In set theory, _everything_ is a set: integers, reals, functions, relations, tensors, etc. What this means is that a load of statements that ought be nonsensical end up making perfect sense. For example, \\( \mathbb{N}\in\leq \\) is a perfectly meaningful statement in the set theoretic context. Worse: not only does a meaningless statement like this have a truth value, but this value depends on arbitrary implementation details---in how one chooses, for example, to define one's ordinals (as one does).
