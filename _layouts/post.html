@@ -1,9 +1,46 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p class="subtitle">{{ page.date | date: "%B %-d, %Y" }}</p>
 
-{{ content }}
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-{% include comments.html %}
+  <header class="artilce_header">
+    <h2 class="artilce_title" itemprop="name headline">{{ page.title }}</h2>
+    <time class="post_page_date">{{ page.date | date: "%d %B %Y" }}</time>
+    <!-- <time class="post_subtitle">{{ page.subtitle }}</time> -->
+    <br />
+    <br />
+    <br />
+    <!-- {% if page.meta %}
+    <p class="artilce_meta">{{ page.meta }}</p>
+    {% else %}
+    {% if page.date_text %}
+    <p class="artilce_meta">{{ page.date_text }}</p>
+    {% else %}
+    <p class="artilce_meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+    {% endif %}
+    {% endif %} -->
+  </header>
+
+  <div class="article-content" itemprop="articleBody">
+    {{ page.content }}
+  </div>
+  <br />
+  <footer class="post_meta">
+    <div class="post-categories">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+      <a href="{{site.baseurl}}/{{category}}/">#{{category}}</a>
+      {% endfor %}
+    </div>
+  </footer>
+
+  {% if page.comments == true %}
+    {% include comments.html %}
+  {% endif %}
+
+</article>

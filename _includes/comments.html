@@ -4,9 +4,10 @@
 
   {% if site.data.comments[page.slug] %}
   <!-- Existing comments -->
-  <hr />
+  <hr>
   <div class="comments__existing">
     <h2>Comments</h2>
+    <br />
     {% assign comments = site.data.comments[page.slug] | where_exp: "item", "item.replying_to == ''" %}
     {% assign comments_by_date = comments | sort: 'date' %}
     <!-- List main comments in reverse date order, newest first. List replies in date order, oldest first. -->
@@ -26,7 +27,6 @@
   {% endif %}
 
   <!-- New comment form -->
-  <hr />
   <div id="respond" class="comment__new">
     {% include comment_form.html %}
   </div>

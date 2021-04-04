@@ -9,8 +9,6 @@ Last night I encountered this passage while idly rereading the first chapter of 
 
 > Though separated from what they produce, people nevertheless produce every detail of their world with ever-increasing power. They thus also find themselves increasingly separated from that world. The closer their life comes to being their own creation, the more they are excluded from that life.
 
-<!--more-->
-
 Earlier I had come across this Twitter thread:
 
 <br />

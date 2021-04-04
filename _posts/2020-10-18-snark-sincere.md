@@ -5,38 +5,46 @@ date: 2020-10-18 05:23:00
 categories: [thoughts, agency, mediation]
 ---
 
-## 1.
+<p style="text-align: center;">1.</p>
+<br />
 
 A collective whose parties are usually ticketed puts on a free event. It is promoted as a thank you to their community, and as a gesture of inclusivity to those on low incomes. A big deal is implicitly made of selflessness of the gesture in the promotional materials. The selfless gesture may be genuine, but it is also possible that it is tactical: that the financial loss from the ticket sales is really a calculated investment in the social capital of the brand.
 
-<!--more-->
-
-## 2.
+<br />
+<p style="text-align: center;">2.</p>
+<br />
 
 An artist’s work is critical of circulation of capital in the art world, yet their funding and visibility is entirely dependent on the structures it implicates. The artist’s statement does not describe it as dependency, but as a subversive misdirection of funds. Power relations are being foregrounded, problematised, critiqued. In fact, this is a key reason why they receive the funding and visibility—having its money subversively redirected is a service the art world pays for gladly.
 
-## 3.
+<br />
+<p style="text-align: center;">3.</p>
+<br />
 
 A person describing themselves as a social change expert keeps appearing in your social media feed with promotions of their new project. You cannot escape the images, the films with weekly updates. The aesthetic is somehow reminiscent of Silicon Valley, but with more pot plants and synthesisers. Their ethical mission and career aspirations seem to coincide perfectly. You don’t want to doubt their sincerity, but you can’t help but wonder what happens when their self-interest is in conflict with their ethics. What would this person do if they encountered a situation in which doing the right thing meant abandoning their career? You will never know the answer to this question.
 
-## 4.
+<br />
+<p style="text-align: center;">4.</p>
+<br />
 
 A politician known for their questionable relationship with the truth tweets a tweet containing a falsehood so extreme and surreal it baffles everybody. It is too silly and obvious to be a lie, but it is not retracted as a mistake. For the media it is a feast. Columns are commissioned immediately. They are far longer than they need to be, picking apart the tweet with a parodic factual deadpan, labouring the contextual background, quoting the opinions of pointless experts, summoning every resource in their midst to put on a theatre of rigour for this thing which clearly deserves none of it. The humour has a dark subtext: here we are, it says, at the end of truth, yet still we will muster all our credibility against this nonsense as a gesture of ironic resistance. It later turns out that a different interpretation of the tweet was available, under which it was in fact true, if somewhat obscure. No-one bothers to go back and correct the mistake—things have moved on. It’s not as if this politician hasn’t lied and blundered on many other occasions, so what does it matter if this time the crime was not untruth, but unclarity?
 
-## 5.
+<br />
+<p style="text-align: center;">5.</p>
+<br />
 
 A flyer for a club night markets itself as inclusive, queer friendly, and body positive. The main promo image shows a group of models languishing on a velvet couch, half falling out of sequinned, carnivalesque attire, faces directed at the camera with expressions of mock seduction. The featured models are all exactly one minor variation away from a conventional beauty stereotype. While the event claims to be welcoming you into a space free from sexual hierarchies, somehow it also seems to be offering you the chance to climb one. The image is clearly aware of this tension within itself, each costume carefully offsetting convention by inverting a gender norm. But the self-awareness does little to counter the overall effect. In fact the inversions are so controlled and deliberate that they seem to highlight the conventionality, as if by shading in its negative space.
 
-## 6.
+<br />
+<p style="text-align: center;">6.</p>
+<br />
 
 A friend makes a Facebook post about their time volunteering in a goat sanctuary. It is a heartfelt call for greater awareness of the plight of impoverished goats around the globe. It articulates their suffering and its systemic causes with great nuance and flare. It implores you to contribute what you can. Attached to the post is a selfie they took with a goat with whom they shared a deep personal bond. Both are grinning. It is a photogenic goat. The post gathers many likes, hearts, and open mouths. It is unclear whether the engagement is directed at the sentiment or the photo or at both—no doubt this varies by person. On its timeline the post appears in series with others: images of your friend at festivals, scraps of creative projects, shared content, their family, the llama sanctuary from last year. The original post has sealed its value within the series. It has been subsumed by it, now partially constituting its unity. The plight of the goats has been integrated into a deeper narrative: your friend is living their best life.
 
 <br />
 <p style="text-align: center;">...</p>
 <br />
-<!-- <br /> -->
 
-Consider two different ways of responding to the snarkiness I have tried to inject into these not particularly fictional scenarios.
+Let's consider two different ways of responding to the snarkiness I have tried to inject into these not particularly fictional scenarios.
 
 The first regards the observation of possible insincerity in such cases as so obvious that it is passé to even consider it worth pointing out. This is the pole of fatalist cynicism, which thinks we should already know that nihilistic self-interest is at work in everything, and that we should be not even slightly surprised when our information environment appears to be gaslighting us. We did postmodern irony in the 90’s. Your inability to understand that the game is now postmodern sincerity—which, by the way, is equally devoid of any meaningful stakes—is just evidence of your lack of edge. You receive zero likes. The other is the pole of principled naïveté, which thinks that we should already know that most people are mostly sincere, so ambiguous cases should be taken at face value. This view regards the snarkiness as uselessly negative, and advocates that messages should be received positively in all cases except where insincerity is blatant. To not do so risks undermining the genuine sincerity that does exists.
 

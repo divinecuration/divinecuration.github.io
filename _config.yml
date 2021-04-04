@@ -1,36 +1,51 @@
-# Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
-baseurl: ""
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 title: divine curation
-# Whether the header (with large title and subtitle) should be displayed
-header: true
-# subtitle: A Jekyll theme based on tufte-css
-author: Divine Curation
-email: divinecuration [at] gmail [dot] com
-# description: A Jekyll theme based on tufte-css
+email:
+description:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://divinecuration.github.io" # the base hostname & protocol for your site
 logo: /assets/img/logo/logo.png
 twitter:
   username: divinecuration
   card: summary
-markdown: kramdown
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-highlighter: rouge
+github_username:
 permalink: /:year/:month/:day/:title:output_ext
-timezone: Europe/Berlin
-excerpt_separator: <!--more-->
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
-post:
-  template: _post.txt
-  extension: md
-page:
-  template: _page.txt
-  extension: md
-paginate: 10
-git:
-  branch: src
+# paginate: 10
+# paginate_path: "/page:num/"
+collections:
+  tags:
+    output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+      author: "Sam"
+
+# Build settings
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
 
+# Third-party services
+# just leave someone empty to disable it
+# google_analytics:
+# disqus_shortname:
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
 
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:

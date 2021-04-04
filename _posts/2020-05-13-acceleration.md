@@ -7,11 +7,11 @@ categories: [thoughts, fisher, feedback, difference, agency]
 
 Here I want to gather a few thoughts on accelerationism, a current of thinking with near roots in the Cybernetic Culture Research Unit (a sort of experimental theory collective based at Warwick University in the 1990's), and far roots in Marx's idea that capitalism would ultimately create the conditions of its own disintegration. The term only really came to signify anything like a "current" sometime in 2010's, and since then it has fragmented into left-wing and right-wing variants (called l/acc and r/acc, though sometimes begrudgingly), not to mention a whole slew of other offshoots. [This](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in) Guardian article provides a nice account of accelerationism's history and some of its protagonists.
 
-<!--more-->
-
 There are several things I find interesting about accelerationism, not least that the very fact that it has been able to fragment into multiple antagonistic strains without abandoning the word testifies to its status as a legit intellectual subculture, living an amorphous and often turbulent existence outside academia. Another is that its mode of thinking provides a wide-angle means of understanding the relationship between capitalism and the political categories of the left and right, a relationship which has often felt blurred along weird lines in the years since the financial crash of 2008. This is what I want to focus on here.
 
 At the heart of all this is the question of whether capitalism itself is a progressive or reactionary force, an agent of social change or an agent of stasis. The jump-off point is Deleuze & Guattari, who famously analysed capitalism in terms of the cybernetic concepts of positive and negative feedback. Negative feedback refers to mechanisms of homeostatic self-regulation, while positive feedback is a destabilising force that opens up lines of flight from equilibrium states. A thermostat implements a negative feedback system, monitoring for deviations from a desired state and then adjusting material flows to maintain it. The audio feedback produced when a microphone is held close a speaker is an example of positive feedback, a runaway process of growing intensity which shakes apart an equilibrium.
+
+<!--end_excerpt-->
 
 Nick Land, a key figure associated with the CCRU in the 90's and these days with r/acc, regards capitalist modernity as dominated by positive rather than negative feedback processes (see [this](https://vastabrupt.com/2018/08/15/ideology-intelligence-and-capital-nick-land/) interview, also his [quick intro to accelerationism](https://jacobitemag.com/2017/05/25/a-quick-and-dirty-introduction-to-accelerationism/)). On Land's view capital itself is the motor of creative change in society, the meme that locks productive energies onto a positive feedback loop. From this perspective the left looks like a reactionary force, one whose goal is to resist the rapid reconfiguration of human forms of life brought about by capitalist modes of production.
 
@@ -23,7 +23,9 @@ A lot of this extrapolates tensions already present in Marx. There's a point Ste
 
 The image of unstable intensities held in place by larger regulatory systems reminds me of how Toshimaru Nakamura tweaks and regulates the feedback produced by a no-input mixing board to hold the sonics in dynamic equilibrium.
 
+<br />
 {% include youtube.html id="qTi0hom6r44" %}
+<br />
 
 If the disintegration of social fabric is an exothermic process then the homeostatis of capital accumulation is endothermic, requiring a constant stream of new energy to sustain its self-reproduction. (And the idea here is really to understand capital itself as a quasi-Darwinian actor, a social structure or meme which bends local human activity to its own interests, in much the same way that the reproductive interests of an organism are dependent on the suppression of evolutionary processes at the cellular level.) This need for new input is what drives the process of deterritorialistion and reterritorialisation, the social field becoming increasingly fractalised by new technological mediations while material production spins at faster and faster velocities.
 

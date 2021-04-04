@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Still Thinking About Burial"
+title:  "Still Thinking about Burial"
 date: 2020-04-02 09:50:00
 categories: [thoughts, fisher, difference, agency, baudrillard]
 ---
 
-A sound system can be understood as a technology for producing space, consolidating and autonomising local time, neutralising it through the cancellation of metronomic difference. Rhythm both dissolves temporality and resolves narrative interiority: a becoming-time of space at its edges. Time is the becoming-extensive of intensive space, the crust that contains and defines it. Leaving the club is always an encounter with hostile temporality experienced as a loss of shared space.  
-<!--more-->
-{% include youtube.html id="J7HgjL00s60" %}
+A sound system could be understood as a technology for producing space, operating by consolidating and autonomising local time, neutralising it through the cancellation of metronomic difference. Rhythm both dissolves temporality and resolves narrative interiority: a becoming-time of space at its edges. Time is the becoming-extensive of intensive space, the crust that contains and defines it. Leaving the club is always an encounter with hostile temporality experienced as a loss of shared space.  
 
+<br />
+{% include youtube.html id="J7HgjL00s60" %}
+<br />
 The fragmentation of rhythm and foregrounding of the medium in Burial’s music conveys temporality as shattered. Mark Fisher [described](http://k-punk.abstractdynamics.org/archives/007666.html) it as a mourning for the lost futurism of rave: “Ravers have become deadbeats, and Burial’s beats are accordingly undead.” But this loss of global temporality can also be seen as a side-effect of the loss of narrative space produced by the sound system in its local cancellation of the present. Burial’s music can be read as striving to reestablish this lost space, a paradoxical attempt to recover the sound system’s collectivising spatiality in the solipsistic locale of headphones. (If Peter Sloterdijk is right that spatial fragmentation is an immunological response, then headphones are surely its frontline antibody.)
 
 Fisher emphasised the continuity of Burial with dub’s phono-centric sensibilities, its granting of a “privileged role to voices under erasure.” The denarrativised voice is the source of the undead in Burial’s music, of its spectrality and mourning: the presence of a humanity stripped of agency. But it is not really the beats that are undead, per se. In Burial’s disjointed rhythms there is a different kind of presence, neither dead nor undead, but _inorganic_. Percussive elements are defiantly autonomous, clattering material processes in themselves. They are poised to disperse, yet hang together nonetheless. Rhythmic unity in Burial operates according to a principle of solidarity (historical contingency), never identity (definitional necessity). It is this sense of narrative contingency in the inanimate, a certain autonomy in matter itself, that replaces the lost human agency and reestablishes narrative space. The drainage of potentiality from the human sphere is answered by its rediscovery in nonhuman matter. It crystallises in the socialisation of the inanimate, in the yearning of urban debris and the pathos of machines.
