@@ -9,6 +9,8 @@ Here's a few snippets pulled from Yuk Hui's essay _The Question Concerning Techn
 
 > It seems to me that the relation between time and geometry/space is fundamental to the Western concept of technics and its further development into efficient mnemotechnical systems. In posing the question in this way, we will shift from abstraction to idealisation---that is, from mental abstraction to idealisation in externalised geometrical forms.
 
+<!--more-->
+
 Idealisation is the externalisation of an idea, its inscription in matter.
 
 > Idealisation has to be distinguished from ideation, which still concerns theoretical abstraction in thought---for example, we can think of a triangle (e.g. ideation), but the apodictic nature of the triangle becomes common to all when it is externalised (e.g. drawn). Idealisation in this sense thus involves exteriorisation, whether through writing or drawing.

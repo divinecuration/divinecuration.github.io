@@ -8,9 +8,9 @@ published: true
 
 It seems Squarespace have upped their cynical advertising game, perhaps surpassing last year's [A Website Makes it Real]({{site.baseurl}}/2020/05/10/the-public-real.html) campaign with a new Super Bowl commercial that overlays a reworked version of Dolly Parton's 9 to 5 on a horrorshow romanticisation of boundless productivity and eternal work (sorry. . . _side-hustle_):
 
-<br />
+<!--more-->
+
 {% include youtube.html id="v4FYL8twE6Q" %}
-<br />
 
 What's striking about this advert is not so much the bleak messaging as its self-awareness. It is deliberately cynical, and this makes criticising the message feel utterly pointless. Critique, it might be argued, brings agency only if it pierces an illusion to reveal a hidden truth. But Squarespace is not trying to create the illusion that something bleak is empowering. This advert does not pretend---it _pretends to pretend_. To earnestly dissect the content as distorting a bleak reality would be to treat it as a straightforward pretence---but to do this is just to become complicit in the 2nd-order pretence. What's the point?
 
@@ -24,9 +24,7 @@ In the case of advertising, it is common to appeal to virality. Squarespace does
 
 But this still doesn't make any sense. The final measure of success of an advertising campaign is whether it drives consumer behaviours, i.e. gets more people to actually buy the thing it's selling. Wide sharing may be instrumental to this end, but it is not at all clear how _negative_ visibility can drive consumption. Hating something might get a lot of people talking about it, but why would it make them buy it?
 
-<br />
-<br />
-_>> Common Knowledge_
+## Common Knowledge
 
 In his book _Rational Ritual_, Michael Chwe makes some suggestive connections between these puzzles and the notion of "common knowledge." A group is said to have common knowledge of something if they all know it, they all know that they all know it, they all know that they all know that they all know it, and so on.
 
@@ -34,28 +32,23 @@ Common knowledge is important for solving coordination problems---situations whe
 
 This is where advertising comes in. Chwe's argument is that events with huge audiences---like the Super Bowl---have such high value to advertisers not so much because they allow them to get their message to large numbers of people, but because the receivers of the message will be aware that many other people are also receiving it. They are valuable because as massively public focal points they can be leveraged to create common knowledge.
 
-
-> Many have argued that advertising “creates needs” that people would not have cared about otherwise [...]. But perhaps it is less a matter of creating individual isolated needs than of tapping into the deep and basic need of each individual to conform to community standards, an ever present coordination problem.<sup>[1](#r1)</sup>
+> Many have argued that advertising “creates needs” that people would not have cared about otherwise [...]. But perhaps it is less a matter of creating individual isolated needs than of tapping into the deep and basic need of each individual to conform to community standards, an ever present coordination problem.{% sidenote "chwe-1" "Michael Chwe, _Rational Ritual_ p41"%}
 
 This kind of thought applies to social goods---goods which people want because other people want or have them (for whatever reason). In such cases, Chwe's argument suggests that publicity itself is much more important than content.
 
 Take this Apple commercial from the 1984 Super Bowl:
 
-<br />
 {% include youtube.html id="VtvjbmoDx-I" %}
-<br />
 
 It's all very well to watch this as a youtube video embedded in some obscure blog post, but to see it at the Super Bowl is different, in a straightforwardly objective way---you know that millions of others are also seeing it at the same moment. This makes a _rational_ difference to the choices you might make. This gives some concrete shape to McLuhan's idea that the medium is the message. This has nothing to do with some mysterious pull that the medium exerts over the content of its messages but because formal qualities---like publicity---affect their objective significance for social reasoning.
 
 This would explain why it doesn't really matter if individuals are directly responsive to the messaging in adverts. Their success is not based on whether they are persuasive at an individual level, but on whether they establish a point of shared reference within the space of common knowledge, because this is the significant factor for decision coordination.
 
-<br />
-<br />
-_>> The Symbolic_
+## The Symbolic
 
 Towards the end of the book, Chwe warns that content and publicity are not quite as distinct as this argument suggests, and can interact in peculiar ways. This is because a public transmission always has an implied audience, and must therefore assume a shared symbolic vocabulary.
 
-> The point here is that common knowledge depends crucially on how each person understands or interprets how other people understand or interpret a communication.<sup>[2](#r2)</sup>
+> The point here is that common knowledge depends crucially on how each person understands or interprets how other people understand or interpret a communication.{% sidenote 'comm' "_Rational Ritual_, p83" %}
 
 Squarespace stand at something of an interesting position within this tangle, since the product they are selling is effectively _the means of common knowledge production_. They are trying to sell you a way of making your thing a public thing, in some suitably qualified sense of "public." A website makes it real, remember? If Chwe's argument is barking up the right tree, then the success of the Squarespace advert should depend on its generation of common knowledge _about_ common knowledge production.
 
@@ -69,15 +62,13 @@ This is where Squarespace come in. Because packaging your content in a way that 
 
 Its success depends on its ability to coordinate our pretences. The horrible irony is that the better equipped you are to see the bleak reality behind the messaging, the more likely it is to achieve this effect.
 
-<br />
-<br />
-_>> The Imaginary_
+## The Imaginary
 
 Another way of making this point is that rather than generating common knowledge by _using_ a shared symbolic vocabulary, Squarespace are intervening _directly_ in the vocabulary. This is a bit like creating common knowledge _ex nihilo_, i.e. in a way that moves directly to creating the sense that everyone knows that everyone knows that X, etc., without depending on the base layer: that everyone privately knew X in the first place.
 
 Here is David Lewis, cited by Chwe:
 
-> If yesterday I told you a story about people who got separated in the subway and happened to meet again at Charles Street, and today we get separated in the same way, we might independently decide to go and wait at Charles Street. It makes no difference whether the story I told you was true, or whether you thought it was, or whether I thought it was, or even whether I claimed it was. A fictive precedent would be as effective as an actual one.<sup>[3](#r3)</sup>
+> If yesterday I told you a story about people who got separated in the subway and happened to meet again at Charles Street, and today we get separated in the same way, we might independently decide to go and wait at Charles Street. It makes no difference whether the story I told you was true, or whether you thought it was, or whether I thought it was, or even whether I claimed it was. A fictive precedent would be as effective as an actual one.{% sidenote 'actual' "_Rational Ritual_, p79-80" %}
 
 This example shows the use of common knowledge to coordinate action doesn't necessarily depend on there being a base-layer of truth.
 
@@ -91,9 +82,8 @@ Hypothesis: the hype behind VR, rather than being due to its capacity to provide
 
 Here is the photo from the Trump inauguration, with Obama's next to it on the right:
 
-![]({{site.baseurl}}/assets/img/blog/inauguration.jpg)
+{% maincolumn 'assets/img/blog/inauguration.jpg' "" %}
 
-<br />
 In hindsight, Trump's response to the evidence that his inauguration was ill-attended was a landmark moment in the post-truth saga. What was significant was Trump's flat-out denial of the veracity of the image, when there were many other options available to him.
 
 He could, for example, have just said that it was relatively ill-attended compared to Obama's because Washington DC and surrounding areas are packed to the gills with Democrats. I have no idea whether that's true or not, or whether other Republican presidents have had better attended inaugurations, but none of that matters---Trump wouldn't have needed to _persuade_ anyone, only to achieve a baseline level of plausible contestability. After all he didn't need to persuade his supporters, since they all viewed the media fanfare surrounding this image as a cheap shot anyway, and his detractors were going to ridicule him whatever. The only thing at issue was reputation management in public space, and this was just a question of playing an easy move in a standardised game---making a barely plausible justification would have been fine.
@@ -104,18 +94,4 @@ These are imaginary effects with real consequences. They are possible because co
 
 Baudrillard:
 
-> _One both believes and doesn't_. One does not ask oneself, "I know very well, but still." A sort of inverse simulation in the masses, in each one of us, corresponds to this simulation of meaning and of communication in which this system encloses us. To this tautology of the system the masses respond with ambivalence, to deterrence they respond with disaffection, or with an always enigmatic belief. Myth exists, but one must guard against thinking that people believe in it: this is the trap of critical thinking that can only be exercised if it presupposes the naïveté and stupidity of the masses.<sup>[4](#r4)</sup>
-
-
-
-<br />
-<br />
-_Notes_
-
-1. <a name="r1"></a>Michael Chwe, _Rational Ritual_, p41
-
-2. <a name="r2"></a>_Rational Ritual_, p83
-
-3. <a name="r3"></a>_Rational Ritual_, p79-80
-
-4. <a name="r4"></a> Jean Baudrillard, _Simulacra and Simulation_, p81
+> _One both believes and doesn't_. One does not ask oneself, "I know very well, but still." A sort of inverse simulation in the masses, in each one of us, corresponds to this simulation of meaning and of communication in which this system encloses us. To this tautology of the system the masses respond with ambivalence, to deterrence they respond with disaffection, or with an always enigmatic belief. Myth exists, but one must guard against thinking that people believe in it: this is the trap of critical thinking that can only be exercised if it presupposes the naïveté and stupidity of the masses.{% sidenote "Baudrillard" "Jean Baudrillard, \"Simulacra and Simulation\" p81" %}

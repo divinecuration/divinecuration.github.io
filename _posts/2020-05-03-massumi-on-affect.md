@@ -9,6 +9,8 @@ This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian M
 
 > It could be noted that the primacy of the affective is marked by a gap between content and effect: it would appear that the strength or duration of an image’s effect is not logically connected to the content in any straightforward way. This is not to say that there is no connection and no logic. What is meant here by the content of the image is its indexing to conventional meanings in an intersubjective context, its socio-linguistic qualification. This indexing fixes the determinate qualities of the image; the strength or duration of the image’s effect could be called its intensity.
 
+<!--more-->
+
 Intensity, Massumi says elsewhere, is being treated as synonymous with affect in this context.
 
 > The event of image reception is multi-leveled, or at least bi-level. There is an immediate bifurcation in response into two systems. One, the level of intensity, is characterized by a crossing of semantic wires: on it, sadness is pleasant. The level of intensity is organized according to a logic that does not admit of the excluded middle. This is to say that it is not semantically or semiotically ordered. It does not fix distinctions. Instead, it vaguely but insistently connects what is normally indexed as separate. When asked to signify itself, it can only do so in a paradox. There is disconnection of signifying order from intensity – which constitutes a different order of connection operating in parallel.

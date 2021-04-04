@@ -1,31 +1,53 @@
-<header class="site-header">
+<!--- Header and nav template site-wide -->
+<header>
+	{% if site.header == true %}
+		<h1 class="header-title"><a href="{{site.baseurl}}/">{{ site.title }}</a></h1>
+		{% if site.subtitle == "" or site.subtitle == nil %}
+		{% else %}
+			<h2 class="header-subtitle">{{ site.subtitle }}</h2>
+		{% endif %}
+	{% endif %}
 
-  <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <nav class="group">
 
-  <div class="nav">
+			{% if page.url == "/" %}
+				<a class="active" href="{{ "/index.html" | prepend: site.baseurl}}" class="active">BLOG</a>
+			{% else %}
+				<a href="{{ "/index.html" | prepend: site.baseurl}}">BLOG</a>
+			{% endif %}
 
-    <label for="menu-toggle" class="menu-icon">
-        <!--div data-icon="ei-navicon"></div-->
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-    </label>
-    <input type="checkbox" id="menu-toggle">
+			{% if page.url == "/writings.html" %}
+				<a class="active" href="{{ "/writings.html" | prepend: site.baseurl}}" class="active">WRITINGS</a>
+			{% else %}
+				<a href="{{ "/writings.html" | prepend: site.baseurl}}">WRITINGS</a>
+			{% endif %}
 
-    <div class="site-nav">
-      <nav>
-        <ul class="page-link">
-          <li><a href="{{ "/thoughts" | prepend: site.baseurl }}">thoughts</a></li>
-          <li><a href="{{ "/sounds" | prepend: site.baseurl }}">sounds</a></li>
-          <li><a href="{{ "/objects" | prepend: site.baseurl }}">objects</a></li>
-          <!-- <li><a href="{{ "/links" | prepend: site.baseurl }}">links</a></li> -->
-          <li><a href="{{ "/about" | prepend: site.baseurl }}">about</a></li>
-          <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}">rss</a></li>
-        </ul>
-      </nav>
-    </div>
+			{% if page.url == "/pieces.html" %}
+				<a class="active" href="{{ "/pieces.html" | prepend: site.baseurl}}" class="active">PIECES</a>
+			{% else %}
+				<a href="{{ "/pieces.html" | prepend: site.baseurl}}">PIECES</a>
+			{% endif %}
 
-  </div>
+			{% if page.url == "/archive.html" %}
+				<a class="active" href="{{ "/archive.html" | prepend: site.baseurl}}" class="active">ARCHIVE</a>
+			{% else %}
+				<a href="{{ "/archive.html" | prepend: site.baseurl}}">ARCHIVE</a>
+			{% endif %}
+
+			{% if page.url == "/about.html" %}
+				<a class="active" href="{{ "/about.html" | prepend: site.baseurl}}" class="active">ABOUT</a>
+			{% else %}
+				<a href="{{ "/about.html" | prepend: site.baseurl}}">ABOUT</a>
+			{% endif %}
+	<!-- {% assign pg = site.pages | sort: "weight" %}
+	{% for node in pg %}
+		{% unless node.nav_exclude or node.url contains ".css" %}
+		    {% if page.url == node.url %}
+		      <a class="active" href="{{node.url | prepend: site.baseurl}}" class="active">{{node.title}}</a>
+		    {% else %}
+		      <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
+		    {% endif %}
+	    {% endunless %}
+  	{% endfor %} -->
+	</nav>
 </header>

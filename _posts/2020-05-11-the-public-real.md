@@ -7,9 +7,9 @@ categories: [thoughts, baudrillard, difference]
 
 In recent months Squarespace has been running an ad campaign riffing off the tagline "a website makes it real":
 
-![]({{site.baseurl}}/assets/img/blog/sq-trash-art.jpg)
+<!--more-->
 
-<br />
+{% maincolumn 'assets/img/blog/sq-trash-art.jpg' '' %}
 
 The message plays off a tension between two different senses of the "real". The first refers to how things actually are, in this case the material conditions of Oscar's life---what is sometimes called the Real. In this sense the message is obnoxiously false: obviously the Real is what it is whether it has a website or not. The second sense concerns what is visible to and readable by the system of public value, or what is sometimes called the reality principle. "A website makes it real" is a statement both giving us the content of the reality principle and asserting its primacy over the Real: the Real cannot be publicly registered as real (cannot have value to assigned to it, positive or negative) until it has been correctly framed as content in a media space.
 
@@ -17,8 +17,6 @@ What I find interesting about this messaging is not only that it states a truth 
 
 I also enjoy this one:
 
-![]({{site.baseurl}}/assets/img/blog/sq-astrology.jpg)
-
-<br />
+{% maincolumn 'assets/img/blog/sq-astrology.jpg' '' %}
 
 All questions of truth, predictive power, or spiritual value have now been replaced by the question of public readability via conformity to aesthetic codes. You can imagine the next advert in the series: astronomy---a website makes it real. The side-effect of this becoming-real through decodable representation is the loss of any potential for deep incompatibilties between things represented---between, say, science and astrology. Both can have a website so both can be real, in the same sense of "real". Both are reduced to signs competing with and exchanging for each other in the marketplace of idea-identities. Exclusive difference in the Real order is reduced by the reality principle to a compatible difference in the semiotic order, true heterogeneity to a series of variations in content on a single aesthetic form.
