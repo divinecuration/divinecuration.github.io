@@ -1,0 +1,23 @@
+---
+layout: full-width
+title: Blog
+# Note that this index page uses a full-width layout!
+weight: 2
+---
+
+  <h1 class="content-listing-header sans">Pieces</h1>
+  <ul class="content-listing ">
+
+    {% for post in site.categories.piece %}
+      <li class="listing">
+        <hr class="slender">
+        <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
+        <!-- <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/> -->
+        <br><span class="smaller">{{ post.meta }}</span>  <br/>
+        <p><img src="{{ post.feat }}"></p>
+
+        <br />
+      </li>
+    {% endfor %}
+
+  </ul>
