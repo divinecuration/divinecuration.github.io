@@ -8,7 +8,7 @@ published: true
 
 ## 1.
 
-The most pressing political questions of our times hinge on the difference between trustful and trustless consensus (or, social and economic consensus), and on which is or will become the primary mechanism for coordinating human action. This struggle will be played out foremost in the architectures of technical and institutional systems.
+The most pressing political questions of our times hinge on the difference between trustful and trustless (social and economic) consensus, and on which is or will become the primary mechanism for coordinating human action. This struggle will be played out foremost in the architectures of technical and institutional systems.
 
 <!--more-->
 
