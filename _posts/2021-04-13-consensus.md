@@ -49,7 +49,7 @@ Trustless consensus is agent-mediating; trustful consensus is agent-constituting
 
 ## 10.
 
-Put differently, an economic consensus can only take shape where future uncertainty is locally quantifiable. Since economic mechanisms mediate local decisions they cannot integrate global values by definition---when future pay-offs are unquantifiable from local perspectives no consensus can form around them, even if the cost-benefit analysis is stark from the global perspective. This is significant in e.g. questions of existential risk, such as climate change, where local uncertainties are unlikely to become meaningfully quantifiable until it is far too late.
+Put differently, an economic consensus can only take shape where future uncertainty is locally quantifiable. Since economic mechanisms only mediate local decisions they cannot integrate global values by definition---when future pay-offs are unquantifiable from local perspectives no consensus can form around them, even if the cost-benefit analysis is stark from the global perspective. This is significant in e.g. questions of existential risk, such as climate change, where local uncertainties are unlikely to become meaningfully quantifiable until it is far too late.
 
 
 ## 11.
