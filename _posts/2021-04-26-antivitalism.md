@@ -8,7 +8,7 @@ published: true
 
 {% epigraph "Where there is no longer game or rule, a law and affect must be invented, a mode of universal effusion, a form of salvation to overcome the separation of souls and bodies." "Jean Baudrillard, Fatal Strategies (1983)" %}
 
-_Eros_ is a topic which has been animating several conversations lately, most recently an exchange I had with Nathan Coffman in the comments of [a piece he wrote](https://ncoffman96.medium.com/cosmo-erotic-humanism-love-and-negation-57ee55db7012) in response to Zak Stein's [Love in a Time Between Worlds: On the Metamodern Return to a Metaphysics of Eros](https://www.zakstein.org/wp-content/uploads/2018/09/Stein_IR_EROS_Pub.pdf). In this essay Stein proposes two things: i. that not only is the modern critique of metaphysics answerable, but a return to metaphysics is necessary to provide a unifying social vision, and ii. that the required animating vision of reality is one which centres _Eros_ as its active principle.
+_Eros_ is a topic which has been animating several conversations lately, most recently an exchange I had with Nathan Coffman in the comments of [a piece he wrote](https://ncoffman96.medium.com/cosmo-erotic-humanism-love-and-negation-57ee55db7012) in response to Zak Stein's [Love in a Time Between Worlds: On the Metamodern Return to a Metaphysics of Eros](https://www.zakstein.org/wp-content/uploads/2018/09/Stein_IR_EROS_Pub.pdf). In this essay Stein proposes two things: i. that not only is the modern critique of metaphysics answerable, but a return to metaphysics is necessary to provide a unifying social vision, and ii. that the required vision of reality is one which centres _Eros_ as its active principle.
 
 <!--more-->
 
