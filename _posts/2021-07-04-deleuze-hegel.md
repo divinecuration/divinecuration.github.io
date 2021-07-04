@@ -6,7 +6,7 @@ categories: [thoughts]
 published: true
 ---
 
-This is a quick note on Deleuze's critique of Hegel, or at least on one popular representation of it. I touched on this explicitly (and very briefly) in a previous post on [Bad Optics]({{site.baseurl}}/2020/11/08/negation.html), and it is also one of the underlying concerns in [Towards Antivitalism]({{site.baseurl}}/2021/05/31/antivitalism.html). I am by no means deep into Deleuze, and don't want to come across as presenting any kind of definitive reading---what I'm interested in here is the popular rendering of his critique, which I'll just label "Deleuzian." Whether or not this popular version is faithful to the original it is well worthy of attention, not least because it illuminates a deep impasse in contemporary political thought.
+This is a quick note on Deleuze's critique of Hegel, or at least on one popular representation of it. I touched on this explicitly (and very briefly) in a previous post on [Bad Optics]({{site.baseurl}}/2020/11/08/negation.html), and it is also one of the underlying concerns in [Towards Antivitalism]({{site.baseurl}}/2021/05/31/antivitalism.html). I am by no means deep into Deleuze, and don't want to come across as presenting any kind of definitive reading---what I'm interested in here is the popular rendering of his critique, which I'll just label "Deleuzian." Whether or not this popular version is faithful to the original it is well worthy of attention, in virtue of its connection to what seems to me to be a deep impasse in contemporary political thought. 
 
 <!--more-->
 
