@@ -12,6 +12,8 @@ I'll start with what Butler takes to be the central problematic that runs throug
 
 > We would say—and we hope to demonstrate—that there is but one simple paradox of the sign repeated throughout all of Baudrillard’s work. It is that, insofar as the copy completely resembles the original, it is no longer a copy but but another original; or, to invert this, that the copy is only able to resemble the original insofar as it is different from it. [p14]
 
+<!--more-->
+
 First thing to note about this is that it frames Baudrillard as being primarily concerned with semiological systems _in general_. This is a theme Butler sticks to throughout the book---while this orientation does place an illuminating focus on certain methodological quandaries that arise for Baudrillard as a theorist, I also felt that it tended to downplay the emphasis Baudrillard himself places on _particular_ semiological structures, specifically the ones we currently find ourselves in and on the concrete historical path that got us here. This focus gives the book what I can only describe as a "Derridean" tint, complete with all the "affirming the paradox" type moves  distinctive of 90's secondary lit. Exhibit A:
 
 > However, if simulation is irrefutable, if any outside to it is only conceivable because of it, at the same time the statement that makes this possible also makes it impossible. The very statement which means there is no outside to simulation, that simulation is total, also means there is an outside to simulation, that simulation is not total. [p152]
@@ -48,4 +50,4 @@ This is worth bearing in mind for Butler's second comment:
 
 Again I'm kind of half on board with this---while I agree that there is a sense that simulation is not something that 'actually happens', I would also want to stress that it nevertheless has 'actual' effects. The point being alluded to here is that simulation involves a kind of _social causality_---is has no substantial reality in the sense that it belongs entirely to the realm of the social imaginary, to our collective expectations or perceptions of one another's perceptions. But since we are the kind of creatures who base our actions on these perceptions, this means simulation can have causal influence in the real world, despite not being part of it per se. In this sense simulation is similar to concepts like hyperstition or hauntology---what in more Deleuzian terms might be called the "agency of the virtual." But Baudrillard's account contains far more fine-structure, identifying simulation explicitly at the interface between social reality, semiology, and normative pragmatics.
 
-I'll stop there for now---in the next post I'll address some comparisons Butler makes between simulation and seduction. 
+I'll stop there for now---in the next post I'll address some comparisons Butler makes between simulation and seduction.
