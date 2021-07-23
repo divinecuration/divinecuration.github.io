@@ -1,5 +1,6 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 baseurl: ""
+port: 4000
 title: divine curation
 # Whether the header (with large title and subtitle) should be displayed
 header: true
@@ -30,6 +31,23 @@ git:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+  sort_by: author
+  order: ascending
+  source: ./_bibliography
+  repository: ./assets/pdf
+  bibliography: references.bib
+  bibliography_template: bib
+  replace_strings: true
+  join_strings:    true
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+  query: "@*"
 
 
 # The URL for the staticman API bridge endpoint
