@@ -26,13 +26,13 @@ But this still doesn't make any sense. The final measure of success of an advert
 
 ## Common Knowledge
 
-In his book _Rational Ritual_, Michael Chwe makes some suggestive connections between these puzzles and the notion of "common knowledge." A group is said to have common knowledge of something if they all know it, they all know that they all know it, they all know that they all know that they all know it, and so on.
+In his book _Rational Ritual_, Michael Chwe makes some suggestive connections between these puzzles and the notion of "common knowledge." {% cite chwe %} A group is said to have common knowledge of something if they all know it, they all know that they all know it, they all know that they all know that they all know it, and so on.
 
 Common knowledge is important for solving coordination problems---situations where the decisions of individuals are dependent on the decisions of many other people. Say you are considering buying one of the first fax machines. You are very much up for putting your money into this new futuristic gizmo, but it is pointless to do so unless many other people feel the same way (you don't want to end up faxing yourself). It may be that there are many people also prepared to get on board, but if you don't know this then you can't be confident that you're not wasting your money. What is missing here is common knowledge: if everyone knew that there are many others who want one (and knew that they knew, etc) this would give everyone the confidence to go ahead and get one.
 
 This is where advertising comes in. Chwe's argument is that events with huge audiences---like the Super Bowl---have such high value to advertisers not so much because they allow them to get their message to large numbers of people, but because the receivers of the message will be aware that many other people are also receiving it. They are valuable because as massively public focal points they can be leveraged to create common knowledge.
 
-> Many have argued that advertising “creates needs” that people would not have cared about otherwise [...]. But perhaps it is less a matter of creating individual isolated needs than of tapping into the deep and basic need of each individual to conform to community standards, an ever present coordination problem.{% sidenote "chwe-1" "Michael Chwe, _Rational Ritual_ p41"%}
+> Many have argued that advertising “creates needs” that people would not have cared about otherwise [...]. But perhaps it is less a matter of creating individual isolated needs than of tapping into the deep and basic need of each individual to conform to community standards, an ever present coordination problem. {% cite chwe -l 41 %}
 
 This kind of thought applies to social goods---goods which people want because other people want or have them (for whatever reason). In such cases, Chwe's argument suggests that publicity itself is much more important than content.
 
@@ -48,7 +48,7 @@ This would explain why it doesn't really matter if individuals are directly resp
 
 Towards the end of the book, Chwe warns that content and publicity are not quite as distinct as this argument suggests, and can interact in peculiar ways. This is because a public transmission always has an implied audience, and must therefore assume a shared symbolic vocabulary.
 
-> The point here is that common knowledge depends crucially on how each person understands or interprets how other people understand or interpret a communication.{% sidenote 'comm' "_Rational Ritual_, p83" %}
+> The point here is that common knowledge depends crucially on how each person understands or interprets how other people understand or interpret a communication. {% cite chwe -l 83 %}
 
 Squarespace stand at something of an interesting position within this tangle, since the product they are selling is effectively _the means of common knowledge production_. They are trying to sell you a way of making your thing a public thing, in some suitably qualified sense of "public." A website makes it real, remember? If Chwe's argument is barking up the right tree, then the success of the Squarespace advert should depend on its generation of common knowledge _about_ common knowledge production.
 
@@ -68,7 +68,7 @@ Another way of making this point is that rather than generating common knowledge
 
 Here is David Lewis, cited by Chwe:
 
-> If yesterday I told you a story about people who got separated in the subway and happened to meet again at Charles Street, and today we get separated in the same way, we might independently decide to go and wait at Charles Street. It makes no difference whether the story I told you was true, or whether you thought it was, or whether I thought it was, or even whether I claimed it was. A fictive precedent would be as effective as an actual one.{% sidenote 'actual' "_Rational Ritual_, p79-80" %}
+> If yesterday I told you a story about people who got separated in the subway and happened to meet again at Charles Street, and today we get separated in the same way, we might independently decide to go and wait at Charles Street. It makes no difference whether the story I told you was true, or whether you thought it was, or whether I thought it was, or even whether I claimed it was. A fictive precedent would be as effective as an actual one. {% cite chwe -l 79-80 %}
 
 This example shows the use of common knowledge to coordinate action doesn't necessarily depend on there being a base-layer of truth.
 
@@ -94,4 +94,7 @@ These are imaginary effects with real consequences. They are possible because co
 
 Baudrillard:
 
-> _One both believes and doesn't_. One does not ask oneself, "I know very well, but still." A sort of inverse simulation in the masses, in each one of us, corresponds to this simulation of meaning and of communication in which this system encloses us. To this tautology of the system the masses respond with ambivalence, to deterrence they respond with disaffection, or with an always enigmatic belief. Myth exists, but one must guard against thinking that people believe in it: this is the trap of critical thinking that can only be exercised if it presupposes the naïveté and stupidity of the masses.{% sidenote "Baudrillard" "Jean Baudrillard, \"Simulacra and Simulation\" p81" %}
+> _One both believes and doesn't_. One does not ask oneself, "I know very well, but still." A sort of inverse simulation in the masses, in each one of us, corresponds to this simulation of meaning and of communication in which this system encloses us. To this tautology of the system the masses respond with ambivalence, to deterrence they respond with disaffection, or with an always enigmatic belief. Myth exists, but one must guard against thinking that people believe in it: this is the trap of critical thinking that can only be exercised if it presupposes the naïveté and stupidity of the masses. {% cite SS -l 81 %}
+
+## References
+{% bibliography --cited %}
