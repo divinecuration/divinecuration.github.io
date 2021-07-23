@@ -6,7 +6,7 @@ categories: [thoughts]
 published: true
 ---
 
-I'm going to spend a couple of posts pulling out some extracts from Rex Butler's book on Baudrillard (called _Jean Baudrillard: The Defence of the Real_), widely considered to be one of the more subtle readings in the secondary literature (a view even expressed by the man himself---no small accolade).
+I'm going to spend a couple of posts pulling out some extracts from Rex Butler's book on Baudrillard{% sidenote 'butler' "Rex Butler. (1999) _Jean Baudrillard: The Defence of the Real_. London: Sage Publications." %}, widely considered to be one of the more subtle readings in the secondary literature (a view even expressed by the man himself---no small accolade).
 
 I'll start with what Butler takes to be the central problematic that runs throughout Baudrillard's career:
 
@@ -26,7 +26,7 @@ Anyway---despite finding myself in disagreement with Butler quite often, these t
 
 I agree with Butler's assessment here but think this way of putting it is confusing. The main claim being made is that Baudrillard understands "reality"---in the sense of intersubjective or consensus reality---as an _effect_ of particular discursive practices. I tend to reach for Brecht as an interpretive lens on this particular issue: Brecht criticised Western bourgeois theatre on the basis that its representational character (its "naturalism") results from an artificial separation of the audience from the narrative space of the performance. The notion of representational fidelity only makes sense in light of this displacement of the viewer to an Archimedean point outside the narrative space---it does not happen, for instance, in the [Chinese opera]({{site.baseurl}}/2020/07/07/brecht.html) (Brecht's example), where the actor is constantly making contact with the audience _as a member of their social space_, via eye contact and other gestures. The theatrical distinction between the real and the imaginary, which supports the possibility of a representation relationship between them, is itself only possible on the basis of the staging apparatus: it is a technical effect.
 
-Similarly I think Baudrillard sees the various items of consensus reality as byproducts of certain discursive practices, which both establish a disjunction between two terms (the real and its imaginary) and position the subject at an abstract point outside of the space of participation. Take this often quoted passage from Symbolic Exchange and Death:
+Similarly I think Baudrillard sees the various items of consensus reality as byproducts of certain discursive practices, which both establish a disjunction between two terms (the real and its imaginary) and position the subject at an abstract point outside of the space of participation. Take this often quoted passage from Symbolic Exchange and Death:{% sidenote 'symbolic' "Jean Baudrillard. (1993) _Symbolic Exchange and Death_. Translated by Ian Hamilton Grant. London: Sage Publications." %}
 
 > The symbolic is neither a concept, an agency, a category, nor a 'structure', but an act of exchange and _a social relation which puts an end to the real_, which resolves the real, and, at the same time, puts an end to the opposition between the real and the imaginary. [p133]
 
