@@ -23,7 +23,7 @@ For Yarvin the Cathedral is a product of the success of progressivism (understoo
 
 ## 4.
 
-Both see the existence of this social structure as a systemic rather than moral issue---its existence depends on no intentional conspiracy. As Jo Freeman [argued]({{site.baseurl}}/assets/pdf/freeman-tyranny.pdf), elites function best when their members do not recognise that they belong to them.
+Both see the existence of this social structure as a systemic rather than moral issue---its existence depends on no intentional conspiracy. As Jo Freeman argued, elites function best when their members do not recognise that they belong to them {% cite freeman-tyranny %}.
 
 ## 5.
 
@@ -60,3 +60,7 @@ In Freinacht's model the transition from money capital to social capital represe
 ## 13.
 
 Yarvin champions money capitalism as a means of liberation from prestige. Freinacht champions social capitalism as a means of liberation from money. Fisher doesn't see much difference between these views, and thinks that the mediation of value creation by any kind of market mechanism is sufficient to foreclose the possibility of liberation.
+
+# References
+
+{% bibliography --cited %}

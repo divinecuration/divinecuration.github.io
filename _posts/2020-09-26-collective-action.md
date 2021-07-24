@@ -5,7 +5,7 @@ date: 2020-09-26 05:23:00
 categories: [thoughts, agency, mediation, tech]
 ---
 
-I first encountered the hypothesis that Adam Smith’s formulation of the free market was cribbed from earlier Islamic scholars in David Graeber's marvellous tome _Debt: The First 5000 Years_. The invisible hand of the market began its life---perhaps---as the hand of Allah. Except that in the original version, unlike in Margaret Thatcher's, the market was not supposed to oppose and replace the social order---it would complement and harmonise with it. You didn’t get rich to realise your desires as an individual; you got rich to fulfil your duties to family and community. (An interesting observation Graeber makes is that this convergence of moral virtue and business acumen in the caliphate was captured in the myth cycles of the time, in which the heroic figures---like Sinbad the Sailor---were often merchant adventurers.)
+I first encountered the rumour that Adam Smith’s formulation of the free market was cribbed from earlier Islamic scholars in David Graeber's marvellous tome _Debt: The First 5000 Years_ {% cite debt -l 279 %}. The invisible hand of the market began its life---perhaps---as the hand of Allah. Except that in the original version, unlike in Margaret Thatcher's, the market was not supposed to oppose and replace the social order---it would complement and harmonise with it. You didn’t get rich to realise your desires as an individual; you got rich to fulfil your duties to family and community. (An interesting observation Graeber makes is that this convergence of moral virtue and business acumen in the Caliphate was captured in the myth cycles of the time, in which the heroic figures---like Sinbad the Sailor---were often merchant adventurers. {% cite debt -l 277-278  %})
 
 <!--more-->
 
@@ -50,3 +50,6 @@ The thing about this view is that while being cosmically collectivist at the lev
 The problematic idea underlying all this is that of unmediated self-consciousness---the idea that coming into contact with your authentic desires is a question of clearing out all the junk in your head that has been put there by other people. This is a chimera, in my view. Self-consciousness is essentially mediated via the consciousness it implicitly attributes to the other. Desire is always to some extent a product of the perception of other people’s desire (in fact [advertising relies on this]({{site.baseurl}}/2020/08/26/subjectivation.html)). There is no authentic layer that can be reached by stripping away all the mediations.
 
 If this is the case then the spiritualist road to perdition is a dead end---the self-directed action will in fact continue forever, stripping away each layer of conditioning to discover what it hopes is the real self, only to discover that it is just another layer of conditioning, and that it is in fact conditioning all the way down. In the limit, the temporary self-directed action on the path to collective consciousness just blends into self-directed action forever, which just is the individualism it was supposed to overcome.
+
+## References
+{% bibliography --cited %}
