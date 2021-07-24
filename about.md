@@ -23,5 +23,4 @@ If you'd like to get a sense of the themes animating this project, here's some p
 - [Invisible Hand Fail Modes]({{site.baseurl}}/2021/01/29/nash.html)
 - [Common Knowledge, the Symbolic, and the Imaginary]({{site.baseurl}}/2021/02/04/five-to-nine.html)
 
-
 Sam
