@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rex Butler's Baudrillard: Seduction"
+title: "Rex Butler's Baudrillard II: Seduction"
 date: 2021-07-23 05:23:00
 categories: [thoughts]
 published: true

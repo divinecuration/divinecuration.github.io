@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rex Butler's Baudrillard: Simulation"
+title: "Rex Butler's Baudrillard I: Simulation"
 date: 2021-07-22 05:23:00
 categories: [thoughts]
 published: true
