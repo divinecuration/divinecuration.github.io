@@ -7,6 +7,8 @@ header: true
 # subtitle: A Jekyll theme based on tufte-css
 author: Divine Curation
 email: divinecuration [at] gmail [dot] com
+defaults:
+  image: /assets/img/blog/canal-1.jpg
 # description: A Jekyll theme based on tufte-css
 logo: /assets/img/logo/logo.png
 twitter:
