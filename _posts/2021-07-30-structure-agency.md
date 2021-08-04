@@ -6,7 +6,7 @@ categories: [thoughts]
 published: true
 ---
 
-When it comes to social and political thinking I lean far more towards structure than agency, and often find myself talking with people who consider this to be pessimistic. At a superficial level I can see where they're coming from---it is, after all, structural critique that has given us the images of all-pervasive ideology, of capitalist realism, of a system so totalising it has always-already absorbed all attempts to resist it---in short, of an iron cage of power. Against all this, the humanist who stresses the role of human action in shaping the social world certainly seems to present more hopeful prospects for changing it.
+When it comes to social and political thinking I lean far more towards structure than agency, and often find myself talking with people who consider this to be pessimistic. At a superficial level I can see where they're coming from---it is, after all, structural critique that has given us the images of all-pervasive ideology, of capitalist realism, and of a system so totalising it has always-already absorbed all attempts to resist it---in short, of an iron cage of power. Against all this, the humanist who stresses the role of human action in shaping the social world certainly seems to present more hopeful prospects for changing it.
 
 <!--more-->
 
