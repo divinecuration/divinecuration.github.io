@@ -34,6 +34,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-scholar
+  - jekyll-toc
 
 scholar:
   style: apa
@@ -50,6 +51,17 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
   query: "@*"
+
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: section-nav
+  sublist_class: ''
+  item_class: toc-entry
+  item_prefix: toc-
 
 
 # The URL for the staticman API bridge endpoint

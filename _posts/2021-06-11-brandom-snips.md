@@ -4,6 +4,7 @@ title: "Brandom Notes: Transformations of Geist"
 date: 2021-06-22 05:23:00
 categories: [thoughts]
 published: true
+toc: true
 ---
 
 I've finally come to the end of A Spirit of Trust (ASOT)---Robert Brandom's labyrinthine interpretation of Hegel's Phenomenology of Spirit---after almost a year and a half chipping away at this massive tome. There's an enormous amount to digest and to be extracted from it, but in this post I just want to pull out some extracts that frame one particular thread of argument running through the book, concerning the historical development of _Geist_. Now, Brandom's take on what _Geist_ actually is should emerge in due course, but at this point it can just be said that this is a story about the broad social and conceptual transformations that accompanied the historical transition from the pre-modern to the modern era.

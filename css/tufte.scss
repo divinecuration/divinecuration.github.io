@@ -291,6 +291,23 @@ th, td{ font-size: 1.2rem;
 /* -- End of Table Styling section --*/
 
 
+/* TOC */
+
+.section-nav {
+  width: 55%;
+  padding: 10px 30px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  ul, ol, li {
+    margin-top: 0em;
+    margin-left: 10px;
+    width: 95%;
+    // padding-left: 10px;
+  }
+}
+
 /* Basic Layout stuff --*/
 
 // article { position: relative;

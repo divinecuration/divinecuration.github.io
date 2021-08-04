@@ -4,9 +4,10 @@ title: "Phenomenal Properties"
 date: 2020-12-16 05:23:00
 categories: [thoughts]
 published: true
+toc: true
 ---
 
-Here's some follow up thoughts to [my last post]({{site.baseurl}}/2020/12/09/hard-problem.html) on private ostension and its relationship with the hard problem of consciousness. An [exchange on Twitter](https://twitter.com/EkinErkan4/status/1338454883339530243?s=20) has had me thinking through this issue more carefully, and where it fits within the broader conservation. First I want to talk about the historical shift from framing consciousness in terms of _sense impressions_ to framing it in terms of _phenomenal properties_, then reconsider how the intension/ostension ambiguity plays out in relation to illusionism and its critics, and finally to say something about Ned Block's distinction between phenomenal consciousness and access consciousness, and how it can help to clarify what's at stake in these issues.
+Here's some follow up thoughts to [my last post]({{site.baseurl}}/2020/12/09/hard-problem.html) on private ostension and its relationship to the hard problem of consciousness. An [exchange on Twitter](https://twitter.com/EkinErkan4/status/1338454883339530243?s=20) has had me thinking through this issue more carefully, and where it fits within the broader conservation. First I want to talk about the historical shift from framing consciousness in terms of _sense impressions_ to framing it in terms of _phenomenal properties_, then reconsider how the intension/ostension ambiguity plays out in relation to illusionism and its critics, and finally to say something about Ned Block's distinction between phenomenal consciousness and access consciousness, and how it can help to clarify what's at stake in these issues.
 
 <!--more-->
 
