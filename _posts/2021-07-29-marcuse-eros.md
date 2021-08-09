@@ -197,9 +197,11 @@ This final passage is interesting---Marcuse is suggesting that logical endpoint 
 
 ### 5. Philosophical Interlude
 
+Just a few comments of interest in this chapter. The first reiterates the image of Eros as a force of structuration working against quiescence:
+
 > The persistent strength of the Nirvana principle in civilization illuminates the scope of the constraints placed upon the culture-building power of Eros. Eros creates culture in his struggle against the death instinct: he strives to preserve being on an ever larger and richer scale in order to satisfy the life instincts, to protect them from the threat of non-fulfillment, extinction. It is the _failure_ of Eros, lack of fulfillment in life, which enhances the instinctual value of death. {% cite marcuse-eros -l 108-109 %}
 
-In discussion of Hegel's dialectic of mastery and servitude:
+The next in discussion of Hegel's dialectic of mastery and servitude. Marcuse gives his one-paragraph interpretation of Hegel's linking of freedom and self-sacrifice:
 
 > Freedom involves the risk of life, not because it involves liberation from servitude, but becuase the very content of human freedom is defined by the mutual "negative relation" to the other. And since this negative relation affects the totality of life, freedom can be "tested" only by staking life itself. Death and anxiety---not as "for for this element or that, not for this or that moment of time, but as fear for one's 'entire being'"---are the essential terms of human freedom _and_ satisfaction. {% cite marcuse-eros -l 114 %}
 
@@ -207,15 +209,23 @@ In discussion of Hegel's dialectic of mastery and servitude:
 
 ### 6. Historical Limits of the Established Reality Principle
 
+Marcuse restates the core thrust of his analysis, namely that the current phase of repression as alienation has exceeded what's necessary for survival in the name of domination:
+
 > For [Freud's] metapsychology, it is not decisive whether the inhibitions are imposed by scarcity or by the hierarchical _distribution_ of scarcity, by the struggle for existence or by the interest of domination. And indeed the two factors---the phylogenetic-biological and the sociological---have grown together in the recorded history of civilization. But their union has long since become "unnatural"---and so has the oppressive "modification" of the pleasure principle by the reality principle. Freud's consistent denial of the possibility of an essential liberation of the former implies the assumption that scarcity is as permanent as domination---an assumption that seems to beg the question. [...] The historical possibility of a gradual decontrolling of the instinctual development must be taken seriously, perhaps even the historical _necessity_---if civilization is to progress to a higher stage of freedom. {% cite marcuse-eros -l 134 %}
 
 ### 7. Phantasy and Utopia
 
+In this chapter Marcuse hones in on Freud's own suggestion that the realm of imagination (phantasy) is the only one that escapes the reality principle and remains directly connected with the pleasure principle in some 'unalienated' way. In Marcuse's eyes, then, the realm of phantasy (and by extension, art) will play a central role in the revolution against the reality principle.
+
 > The recognition of phantasy (imagination) as a thought process with its own laws and truth values was not new in psychology and philosophy; Freud's original contribution lay in the attempt to show the genesis of this mode of thought and its essential connection with the pleasure principle. {% cite marcuse-eros -l 141 %}
 
-> The truths of imagination are first realized when phantasy itself takes form, when it creates a universe of perception and comprehension---a subjective and at the same time objective universe. This occurs in _art_. The analysis of the cognitive function of phantasy is thus led to aesthetics as the "science of beauty": behid the aesthetic form lies the repressed harmony of sensuousness and reason---the eternal protest against the organization of life by the logic of domination, the critique of the performance principle. {% cite marcuse-eros -l 144 %}
+> The truths of imagination are first realized when phantasy itself takes form, when it creates a universe of perception and comprehension---a subjective and at the same time objective universe. This occurs in _art_. The analysis of the cognitive function of phantasy is thus led to aesthetics as the "science of beauty": behind the aesthetic form lies the repressed harmony of sensuousness and reason---the eternal protest against the organization of life by the logic of domination, the critique of the performance principle. {% cite marcuse-eros -l 144 %}
+
+But the aesthetic function of art is not revolutionary in and of itself:
 
 > Since the awakening of the consciousness of freedom, there is no genuine work of art that does not reveal the archetypal content: the negation of unfreedom. We shall see later how this content came to assume the aesthetic form, governed by aesthetic principles. As aesthetic phenomenon, the critical function of art is self-defeating. The very commitment of art to form vitiates the negation of unfreedom in art. In order to be negated, unfreedom must be represented in the work of art with the semblance of reality. This element of semblance (show, _Schein_) necessarily subjects the represented reality to aesthetic standards and thus deprives it of its terror. Moreover, the form of the work of art invests the content with the qualities of enjoyment. Style, rhythm, meter introduce an aesthetic order which is itself pleasurable: it reconciles with the content. The aesthetic quality of enjoyment, even entertainment, has been inseparable from the essence of art, no matter how tragic, how uncompromising the work of art is. Aristotle's proposition on the cathartic effect of art epitomizes the dual function of art: both to oppose and to reconcile; both to recall the repressed and to repress it again---"purified." People can elevate themselves with the classics: they read and see and hear their own archetypes rebel, triumph, give up, or perish. And since all this is aesthetically formed, they can enjoy it---and forget it. {% cite marcuse-eros -l 144-145 %}
+
+This is Marcuse displaying his modernist credentials---it is only in its refusal of traditional form that art can play a truly revolutionary role (that it can truly negate unfreedom). This point is now made explicitly:
 
 > Still, within the limits of the aesthetic form, art expressed, although in an ambivalent manner, the return of the repressed image of liberation; art was opposition. At the present stage, in the period of total mobilization, even this highly ambivalent opposition seems no longer viable. Art survives only where it cancels itself, where it saves its substance by denying its traditional form and thereby denying reconciliation: where it becomes surrealistic and atonal. Otherwise, art shares the fate of all genuine human communication: it dies off. {% cite marcuse-eros -l 145 %}
 
@@ -223,9 +233,15 @@ In discussion of Hegel's dialectic of mastery and servitude:
 
 > The surrealists recognized the revolutionary implications of Freud's discoveries: "Imagination is perhaps about to reclaim its rights." But when they asked, "Cannot the dream also be applied to the solution of the fundamental problems of life?" they went beyond psychoanalysis in demanding that the dream be made into reality without compromising its content. Art allied itself with the revolution. {% cite marcuse-eros -l 149 %}
 
+Interesting to contrast Marcuse's praise of the surrealist's project with Sloterdijk's [more ambivalent]({{site.baseurl}}/2021/04/29/dali.html) take.
+
+Now Marcuse tries to qualify his argument against potential objections.
+
 > Still, there is some validity in the argument that, despite all progress, scarcity and immaturity remain great enough to prevent the realization of the principle "to each according to his needs." [...] This does not invalidate the theoretical insistence that the performance principle has become obsolescent. The reconciliation between pleasure and reality principle does not depend on the existence of abundance for all. The only pertinent question is whether a state of civilization can be reasonably envisaged in which human needs are fulfilled in such a manner and to such an extent that surplus-repression can be eliminated. {% cite marcuse-eros -l 151 %}
 
 > The argument that makes liberation conditional upon an ever higher standard of living in terms of automobiles, television sets, airplanes, and tractors is that of the performance principle itself. Beyond the rule of this principle, the level of living would be measured by other criteria: the universal gratification of the basic human needs, and the freedom from guilt and fear---internalized as well as external, instinctual as well as "rational." {% cite marcuse-eros -l 153 %}
+
+Now clearly stating what he takes to be the difference between Freud and himself:
 
 > Does it follow [from the release of Eros] that civilization would explode and revert to prehistoric savagery, that the individuals would die as a result of the exhaustion of the available means of gratification and of their own energy, that the absence of want and repression would drain all energy which could promote material and intellectual production on a higher level and larger scale? Freud answers in the affirmative. His answer is based on his more or less silent acceptance of a number of assumptions: that free libidinal relations are essentially antagonistic to work relations, that energy has to be withdrawn from the former in order to institute the latter, that only the absence of full gratification sustains the societal organization of work. {% cite marcuse-eros -l 154 %}
 
@@ -233,7 +249,11 @@ In discussion of Hegel's dialectic of mastery and servitude:
 
 ### 8. The Images of Orpheus and Narcissus
 
+Just a few from this chapter, in which Marcuse appeals to these Greek figures as a means of reconciling Eros and Thanatos.
+
 > The images of Orpheus and Narcissus reconcile Eros and Thanatos. They recall the experience of a world that is not to be mastered and controlled but to be liberated---a freedom that will release the powers of Eros now bound in the repressed and petrified forms of man and nature. These powers are conceived not as destruction but as peace, not as terror but as beauty. It is sufficient to enumerate the assembled images in order to circumscribe the dimension to which they are committed: the redemption of pleasure, the halt of time, the absorption of death; silence, sleep, night, paradise---the Nirvana principle not as death but as life. {% cite marcuse-eros -l 164 %}
+
+Again, what Marcuse wants to say is that the liberation of the pleasure principle is not going to lead to total destructuration.
 
 > It is significant that the introduction of narcissism into psychoanalysis marked a turning point in the development of the instincts theory: the assumption of independent ego instincts (self-preservation instincts) was shaken and replaced by the notion of an undifferentiated, unified libido prior to the division into ego and external objects. {% cite marcuse-eros -l 167-168 %}
 
