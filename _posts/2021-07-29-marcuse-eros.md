@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Marcuse: Eros and Civilisation"
-date: 2021-08-04 05:23:00
+date: 2021-08-10 05:23:00
 categories: [thoughts]
-published: false
+published: true
 toc: true
 ---
 
@@ -11,13 +11,13 @@ Another research post---basically just loads of excerpts from Herbert Marcuse's 
 
 There's no particular organisation to this---excerpts appear in the order they do in Marcuse's text, grouped by section and chapter.
 
+<!--more-->
+
 ## Introduction
 
 Marcuse begins by laying out the Freudian questions that drive the book.  
 
 > Sigmund Freud's proposition that civilsation is based on the permanent subjugation of the human instincts has been taken for granted. His question whether the suffering thereby inflicted upon individuals has been worth the benefits of culture has not been taken too seriously---the less so since Freud himself considered the process to be inevitable and irreversible. [...] The methodical sacrifice of libido, its rigidly enforced deflection to socially useful activities and expressions, _is_ culture. {% cite marcuse-eros -l 1 %}
-
-<!--more-->
 
 > Does the interrelation between freedom and repression, productivity and destruction, domination and progress, really constitute the principle of civilisation? Or does this interrelation result only from a specific historical organization of human existence? In Freudian terms, is the conflict between pleasure principle and reality principle irreconcilable to such a degree that it necessitates the repressive transformation of man's instinctual structure? Or does it allow the concept of a non-repressive civilization, based on a fundamentally different experience of being, a fundamentally different relation between man and nature, and fundamentally different existential relations? {% cite marcuse-eros -l 4-5 %}
 
@@ -259,33 +259,45 @@ Again, what Marcuse wants to say is that the liberation of the pleasure principl
 
 ### 9. The Aesthetic Dimension
 
-Aesthetics under the performance principle:
+Marcuse considers the fate of the aesthetic dimension of life under the performance principle:
 
 > Obviously, the aesthetic dimension cannot validate a reality principle. Like imagination, which is its constitutive mental faculty, the realm of aesthetics is essentially "unrealistic": it has retained its freedom from the reality principle at the price of being ineffective in the reality. Aesthetic values may function in life for cultural adornment and elevation or a private hobbies, but to _live_ with these values is the privilege of geniuses or the mark of decadent Bohemians. Before the court of theoretical and practical reason, which have shaped the world of the performance principle, the aesthetic existence stands condemned. {% cite marcuse-eros -l 173 %}
 
-So he switches to trying to 'recover' aesthetics from its fate under the performance principle by digging into the tradition, specifically Kant's aesthetics and Schiller's politicisation of it.
+Seeking to 'recover' aesthetics from its irrelevance at best and complicity at worst, Marcuse digs into the philosophical tradition. He finds particular promise in Kant's aesthetics, and Schiller's later politicisation of it.
 
 > [I]n Kant's philosophy, the aesthetic dimension occupies the central position between sensuousness and morality---the two poles of the human existence. If this is the case, then the aesthetic dimension must contain principles valid for both realms. {% cite marcuse-eros -l 176 %}
 
 > It is by virtue of its intrinsic relation to sensuousness that the aesthetic function assumes its central position. The aesthetic perception is accompanied by pleasure. This pleasure derives from the perception of the pure _form_ of an object, regardless of its "matter" and of its (internal or external) "purpose." An object represented in its pure form is "beautiful." Such representation is the work (or rather the play) of _imagination_. As imagination, the aesthetic perception is both sensuousness and at the same time more than sensuousness (the "third" basic faculty): it gives pleasure and is therefore essentially subjective; but in so far as this pleasure is constituted by the pure form of the object itself, it accompanies the aesthetic perception universally and necessarily---for _any_ perceiving subject. {% cite marcuse-eros -l 176-177 %}
 
+The central idea being then that for Kant aesthetics forms the bridge between the subjective and objective aspects of existence. Marcuse tries to put this to work in his own inverted Freudian picture.
+
 > The two main categories defining this order are "purposiveness without purpose" and "lawfulness without law." They circumscribe, beyond the Kantian context, the essence of a truly non-repressive order. The first defines the structure of beauty, the second that of freedom; their common character is gratification in the free play of the released potentiatilies of man and nature. {% cite marcuse-eros -l 177 %}
 
 > To Kant, the aesthetic dimension is the medium in which the senses and the intellect meet. The mediation is accomplised by imagination, which is the "third" mental faculty [after intuition and the understanding]. Moreover, the aesthetic dimension is also the medium in which nature and freedom meet. This twofold mediation is necessitated by the pervasive conflict between the lower and the higher faculties of man generated by the progress of civilization---progress achieved through the subjugation of the sensuous faculties to reason, and through their repressive utilization for social needs. The philosophical effort to mediate, in the aesthetic dimension, between sensuousness and reason thus appears as an attempt to reconcile the two spheres of the human existence which were torn asunder by a repressive reality principle. {% cite marcuse-eros -l 179 %}
+
+Marcuse is here saying that repression tears apart (into subjective pleasure and objective duty) what was once a single sphere of human existence---the aesthetic is either that which mediates this false dichotomy, or that in which the dichotomy collapses (in the form of 'play'). Now onto Schiller:
 
 > Schiller's attempt to undo the sublimation of the aesthetic function starts from Kant's position: only because imagination is a central faculty of the mind, only because beauty is a "necessary condition of humanity," can the aesthetic function play a decisive role in reshaping civilization. {% cite marcuse-eros -l 186 %}
 
 > The wound is caused by the antagonistic relation between the two polar dimensions of the human existence. Schiller describes this antagonism in a series of paired concepts: sensuousness and reason, matter and form (spirit), nature and freedom, the particular and the universal. Each of the two dimensions is governed by a basic _impulse_: the "sensuous impulse" and the "form-impulse." The former is essentially passive, receptive, the latter active, mastering, domineering. Culture is built by the combination and interaction of these two impulses. But in the established civilization, their relation has been an antagonistic one: instead of reconciling both impulses by making sensuousness rational and reason sensuous, civilization has subjugated sensuousness to reason in such a manner that the former, if it reasserts itself, does so in destructive and "savage" forms, while the tyranny of reason impoverishes and barbarizes sensuousness. {% cite marcuse-eros -l 186-187 %}
 
+This is strange---according to what Marcuse thinks Schiller thinks, the sensuous and formal represent primordial drives (so they don't need to be torn asunder by a reality principle), but in our alienated culture their relationship has become antagonistic (presumably in an unalienated culture they would harmonise).
+
 > The conflict must be resolved if human potentialities are to realize themselves freely. Since only the impulses have the lasting force that fundamentally affects the human existence, such reconciliation between the two impulses must be the work of a third impulse. Schiller defines this third mediating impulse as the _play impulse_, its objective as beauty, and its goal as freedom. {% cite marcuse-eros -l 187 %}
 
 > The play impulse is the vehicle of this liberation. The impulse does not aim at playing "with" something; rather it is the play of life itself, beyond want and external compulsion---the manifestation of an existence without fear and anxiety, and thus the manifestation of freedom itself. Man is free only where he is free from constraint, external and internal, physical and moral---when he is constrained by neither law nor need. But such constraint _is_ the reality. Freedom is thus, in a strict sense, freedom from the established reality: man is free when the "reality loses its seriousness" and when its necessity "becomes light" (_leicht_). {% cite marcuse-eros -l 187 %}
 
+And so, via Schiller, Kant ends up sounding suspiciously like Marcuse:
+
 > Once it has really gained ascendancy as a principle of civilization, the play impulse would literally transform the reality. Nature, the objective world, would then be experienced primarily, neither as dominating man (as in primitive society), nor as being dominated by man (as in the established civilization), but rather as an object of "contemplation." With this change in the basic and formative experience, the object of experience itself changes: released from violent domination and exploitation, and instead shaped by the play impulse, nature would also be liberated from its own brutality and would become free to display the wealth of its purposeless forms which express the "inner life" of its objects. And a corresponding change would take place in the subjective world. Here, too, the aesthetic experience would arrest the violent and exploitative productivity which made man into an instrument of labor. But he would not be returned to a state of suffering passivity. His existence would still be activity, but "what he possesses and produces" need bear no longer the traces of servitude, the fearful design of its purpose"; beyond want and anxiety, human activity becomes _display_---the free manifestation of potentialities. {% cite marcuse-eros -l 189-190 %}
+
+Here are those tangles again:
 
 > To be sure, if freedom is to become the governing principle of civilization, not only reason but also the "sensuous impulse" requires a restraining transformation. The additional release of sensuous energy must conform to the universal _order_ of freedom. However, whatever order would have to be imposed upon the sensuous impulse must itself be "an operation of freedom." The free individual himself must bring about the harmony between individual and universal gratification. In a truly free civilization, all laws are self-given by the individual[.] {% cite marcuse-eros -l 191 %}
 
 > Non-repressive order is essentially an order of _abundance_: the necessary constraint is brought about by "superfluity" rather than need. Only an order of abundance is compatible with freedom. {% cite marcuse-eros -l 194 %}
+
+Laying out his core thrust one final time:
 
 > Possession and procurement of the necessities of life are the prerequisite, rather than the content, of a free society. The realm of necessity, of labor, is one of unfreedom because the human existence in this realm is determined by objectives and functions that are not its own and that do not allow the free play of human faculties and desires. The optimum in this realm is therefore to be defined by standards of rationality rather than freedom---namely, to organize production and distribution in such a manner that the least time is spent for making all necessities available to all members of society. Necessary labor is a system of essentially inhuman, mechanical, and routine activities; in such a system, individuality cannot be a value and end in itself. Reasonably, the system of societal labor would be organized rather with a view to saving time and space for the development of individuality _outside_ the inevitably repressive work-world. Play and display, as principles of civilization, imply not the transformation of labor but its complete subordination to the freely evolving potentialities of man and nature. {% cite marcuse-eros -l 195 %}
 
