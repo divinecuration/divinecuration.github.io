@@ -392,6 +392,10 @@ li .sidenote, li .marginnote{ margin-right: -80%; } //added to allow for the fac
 
 blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
+.marginnote {
+  opacity: 1;
+}
+
 .sidenote-number {
   counter-increment: sidenote-counter;
 }
