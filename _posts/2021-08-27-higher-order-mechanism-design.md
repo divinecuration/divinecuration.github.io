@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Higher-order mechanism design"
-date: 2021-08-23 05:23:00
+date: 2021-08-29 05:23:00
 categories: [thoughts]
-published: false
+published: true
 ---
 
 A recent medium article by Nate Coffman---[Designing Resonant Forms of Social Organization](https://ncoffman96.medium.com/designing-resonant-forms-of-social-organization-949a93bc1e97)---has prompted me to revisit a question that has been haunting this project since the beginning. Say you believe, as [I do]({{site.baseurl}}/2021/08/04/structure-agency.html), that many of the social problems we face derive from intrinsic features of the logic of interaction and communication, rather than from factors of individual psychology. This is to believe, then, that the solutions to these problems are ultimately not to be found in the domain of self-development, but in the architecture of social technologies and institutions.
