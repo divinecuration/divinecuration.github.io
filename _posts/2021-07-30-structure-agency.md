@@ -6,7 +6,7 @@ categories: [thoughts]
 published: true
 ---
 
-When it comes to social theory I tend to lean more towards structure than agency, and often encounter those who consider this to be pessimistic. At a superficial level I can see where they're coming from---after all, it is structural critique that has given us all those images of a system so totalising it has always-already circumscribed all attempts to resist it, of an all-pervasive ideology or capitalist realism. Against the prospect of an iron cage of power, the humanist who stresses the role of human action in shaping the social world certainly seems to hold out more hope for changing it.
+When it comes to social theory I tend to lean more towards structure than agency, and often encounter those who consider this to be pessimistic. At a superficial level I can see where they're coming from---after all, it is structural critique that has given us all those images of a system so totalising it pre-emptively circumscribes all attempts to resist it, of an all-pervasive ideology or a capitalist realism. Against the prospect of an iron cage of power, the humanist who stresses the role of human action in shaping the social world certainly seems to hold out more hope for changing it.
 
 <!--more-->
 
