@@ -26,8 +26,6 @@ On experience:
 
 On language as the dasein of Geist:
 
-
-
 > The fact is that when you speak a language, you get the capacity to formulate an indefinite number of novel claims, and so to entertain an indefinite number of novel intentions, plans, and conjectures. That is a kind of positive freedom to make and entertain novel claims, things that could be true, or things one could commit oneself to making true. One gets this explosion of positive freedom, though, only by constraining oneself by linguistic norms---the norms one must acknowledge in practice as binding in order to be speaking some particular language. However open textured those norms may be, they involve genuine constraint. If one does not sufficiently respect the linguistic norms, then one ends up not saying, or thinking, anything at all. Of course, one need not say anything. One could just not ever say anything, though at the cost, as Sellars says, of having nothing to say. But the only way one can buy this positive, expressive freedom is by paying a price in negative freedom. One must constrain oneself by linguistic and conceptual norms. When one is speaking one's own language and not using fancy vocabulary, that constraint becomes invisible. It becomes much more visible when speaking in a language in which one is not fluent. The point here is that the way in which the language one does constrain oneself by becomes the medium in which one's _self_ not only expresses, but develops itself is a paradigm of central importance for Hegel. [p520-521]
 
 Strategic alliance:
