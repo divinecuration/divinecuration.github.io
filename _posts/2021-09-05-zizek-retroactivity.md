@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Žižek on Retroactivity"
+title: "Žižek on retroactivity"
 date: 2021-09-04 05:23:00
 categories: [thoughts]
 published: true
 ---
 
 This post touches on a paradox of temporality which is at the centre of Žižek's thinking. In fact this is an idea which crops up in many places---Hegel's conception of history and historicity, Thomas Kuhn's conception of scientific revolution and paradigm shift, and Baudrillard's conception of the fatal, to name just a few.
+
+<!--more-->
 
 Žižek puts the basic point (approaching it through Lacan, as always), like so:
 

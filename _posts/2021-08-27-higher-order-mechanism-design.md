@@ -3,7 +3,7 @@ layout: post
 title: "Higher-order mechanism design"
 date: 2021-08-29 05:23:00
 categories: [thoughts]
-published: true
+published: false
 toc: true
 ---
 
