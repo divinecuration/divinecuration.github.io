@@ -663,7 +663,6 @@ body.full-width, .content-listing, ul.content-listing, li.listing{ width: 90%;
        // margin-left: auto;
        // margin-right: auto;
        padding: 0% 0%;
-
 }
 .full-width article p{
   width: 90%;
@@ -807,3 +806,4 @@ hr.slender {
 }
 
 @media screen and (max-width: 800px){ body.full-width, .content-listing, ul.content-listing, li.listing { width: 100%; } }
+@media screen and (max-width: 800px){ body.full-width { padding: 5%; } }
