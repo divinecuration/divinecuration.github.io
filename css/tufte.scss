@@ -382,11 +382,11 @@ div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' 
 
 
 
-@media screen and (max-width: 760px) { body { padding-left: 0%; }
-                                       p, hr, div.comment__new, .media-content, footer,div.mathblock { width: 90%; }
+@media screen and (max-width: 760px) { body { padding-left: 5%; padding-right: 5%; }
+                                       p, hr, div.comment__new, .media-content, footer,div.mathblock { width: 100%; }
                                        pre code { width: 87.5%; }
-                                       ul { width: 85%; }
-                                       figure { max-width: 90%; }
+                                       ul, ol { width: 100%; }
+                                       figure { max-width: 100%; }
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
                                        blockquote p, blockquote footer {  width: 80%;
@@ -429,8 +429,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                                                    vertical-align: baseline;
                                                                    position: relative; }
                             label { cursor: pointer; }
-                            pre, pre code, p code, ol, ul, p pre code { width: 90%;
-                                       padding: 0; }
+                            pre, pre code, p code, ol, ul, p pre code { width: 100%; padding: 0; }
                             .table-caption { display: block;
                                              float: right;
                                              clear: both;
@@ -806,3 +805,5 @@ hr.slender {
   text-decoration: none;
   background: none;
 }
+
+@media screen and (max-width: 800px){ body.full-width, .content-listing, ul.content-listing, li.listing { width: 100%; } }
