@@ -5,18 +5,20 @@ title: Blog
 weight: 2
 ---
 
-  <h1 class="content-listing-header sans">Posts</h1>
+  <!-- <h1 class="content-listing-header sans">Posts</h1> -->
   <ul class="content-listing ">
 
     {% for post in paginator.posts %}
       <li class="listing">
-        <hr class="slender">
+        <!-- <hr class="slender"> -->
         <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
-        <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
+        <span class="smaller date">{{ post.date | date: "%B %-d, %Y" }}</span>
         <div>{{ post.excerpt }}</div>
         <br />
         <a href="{{ post.url | prepend: site.baseurl }}" class="more">[...] &raquo;</a>
       </li>
+      <br />
+      <hr class="slender">
     {% endfor %}
 
     <!-- Pagination links -->

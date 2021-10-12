@@ -158,7 +158,7 @@ h1.header-title { font-weight: 400;
 
 h2 { font-style: italic;
      font-weight: 400;
-     margin-top: 5.1rem;
+     margin-top: 3.0rem;
      margin-bottom: 0;
      font-size: 2.2rem;
      line-height: 1; }
@@ -703,9 +703,9 @@ button:hover {
 //Full width page styling stuff
 
 body.full-width, .content-listing, ul.content-listing, li.listing{ width: 90%;
-       margin-left: auto;
-       margin-right: auto;
-       padding: 0% 5%;
+       // margin-left: auto;
+       // margin-right: auto;
+       padding: 0% 0%;
 
 }
 .full-width article p{
@@ -719,6 +719,10 @@ h1.content-listing-header{
   font-size: 1.8rem;
 }
 
+.date {
+  padding-top: 0.4em;
+}
+
 li.listing hr{
   width:100%;
 }
@@ -729,6 +733,7 @@ li.listing hr{
 }
 li.listing {
   margin:0;
+  margin-bottom: 1.5rem;
   & p{
     width: 100%
   }

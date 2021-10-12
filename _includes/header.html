@@ -11,9 +11,9 @@
     <nav class="group">
 
 			{% if page.url == "/" %}
-				<a class="active" href="{{ "/index.html" | prepend: site.baseurl}}" class="active">BLOG</a>
+				<a class="active" href="{{ "/index.html" | prepend: site.baseurl}}" class="active">FEED</a>
 			{% else %}
-				<a href="{{ "/index.html" | prepend: site.baseurl}}">BLOG</a>
+				<a href="{{ "/index.html" | prepend: site.baseurl}}">FEED</a>
 			{% endif %}
 
 			{% if page.url == "/writings.html" %}
@@ -28,12 +28,6 @@
 				<a href="{{ "/pieces.html" | prepend: site.baseurl}}">PIECES</a>
 			{% endif %}
 
-			{% if page.url == "/archive.html" %}
-				<a class="active" href="{{ "/archive.html" | prepend: site.baseurl}}" class="active">ARCHIVE</a>
-			{% else %}
-				<a href="{{ "/archive.html" | prepend: site.baseurl}}">ARCHIVE</a>
-			{% endif %}
-
 			{% if page.url == "/bib.html" %}
 				<a class="active" href="{{ "/bib.html" | prepend: site.baseurl}}" class="active">BIBLIOGRAPHY</a>
 			{% else %}
@@ -44,6 +38,12 @@
 				<a class="active" href="{{ "/about.html" | prepend: site.baseurl}}" class="active">ABOUT</a>
 			{% else %}
 				<a href="{{ "/about.html" | prepend: site.baseurl}}">ABOUT</a>
+			{% endif %}
+
+			{% if page.url == "/archive.html" %}
+				<a class="active" href="{{ "/archive.html" | prepend: site.baseurl}}" class="active">ARCHIVE</a>
+			{% else %}
+				<a href="{{ "/archive.html" | prepend: site.baseurl}}">ARCHIVE</a>
 			{% endif %}
 	<!-- {% assign pg = site.pages | sort: "weight" %}
 	{% for node in pg %}
