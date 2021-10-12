@@ -34,6 +34,12 @@
 				<a href="{{ "/archive.html" | prepend: site.baseurl}}">ARCHIVE</a>
 			{% endif %}
 
+			{% if page.url == "/bib.html" %}
+				<a class="active" href="{{ "/bib.html" | prepend: site.baseurl}}" class="active">BIBLIOGRAPHY</a>
+			{% else %}
+				<a href="{{ "/bib.html" | prepend: site.baseurl}}">BIBLIOGRAPHY</a>
+			{% endif %}
+
 			{% if page.url == "/about.html" %}
 				<a class="active" href="{{ "/about.html" | prepend: site.baseurl}}" class="active">ABOUT</a>
 			{% else %}
