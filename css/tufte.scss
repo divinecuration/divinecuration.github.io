@@ -805,5 +805,9 @@ hr.slender {
   background: none;
 }
 
-@media screen and (max-width: 800px){ body.full-width, .content-listing, ul.content-listing, li.listing { width: 100%; } }
-@media screen and (max-width: 800px){ body.full-width { padding: 5%; } }
+@media screen and (max-width: 800px){ .content-listing, ul.content-listing, li.listing { width: 100%; }
+            li.listing blockquote {
+              width: 80%;
+            }
+ }
+@media screen and (max-width: 800px){ body.full-width { padding-left: 5%; padding-right: 5%; } }
