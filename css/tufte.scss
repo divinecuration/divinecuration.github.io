@@ -429,7 +429,8 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                                                    vertical-align: baseline;
                                                                    position: relative; }
                             label { cursor: pointer; }
-                            pre, pre code, p code, ol, ul, p pre code { width: 100%; padding: 0; }
+                            pre, pre code, p code, ol, ul, p pre code { width: 100%; padding: 0; list-style-position: inside; }
+
                             .table-caption { display: block;
                                              float: right;
                                              clear: both;
