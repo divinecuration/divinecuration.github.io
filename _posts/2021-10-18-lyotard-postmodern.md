@@ -127,7 +127,7 @@ But what makes all this possible is a breakdown in the tacit _narrative_ structu
 
 Everything up to this point concerns the postmodern condition; in the final section of the text Lyotard turns to something he calls 'postmodern science.' By this he means a form of science adequate to the postmodern condition, i.e. one which can survive the delegitimation brought on by the erosion of narrative forms of knowledge without being subsumed by the (capitalistic) performance principle.
 
-The original problem for science was that it own question of legitimacy presses it to seek justification for its own foundations, yet the unilateral nature of this structure leaves it incapable of providing them. What is required of a postmodern science is a new structure of legitimacy in which the legitimacy of a particular domain of science does not depend on the legitimacy of its foundations.
+The original problem for science was that its own question of legitimacy presses it to seek justification for its own foundations, yet the unilateral nature of this structure leaves it incapable of providing them. What is required of a postmodern science is a new structure of legitimacy in which the legitimacy of a particular domain of science does not depend on the legitimacy of its foundations.
 
 It is natural, then, that Lyotard turn for inspiration to 20th work in the foundations of mathematics, specifically to Gödel's incompleteness results, which thwarted [Hilbert's program](https://plato.stanford.edu/entries/hilbert-program/) to establish both an axiomatisation of the foundations of mathematics and a proof of its consistency.
 
