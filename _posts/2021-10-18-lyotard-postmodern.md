@@ -99,7 +99,7 @@ Here Lyotard locates primary blame for the erosion of scientific legitimacy not 
 
 This inability of science to legitimate itself represents a certain vulnerability, allowing it to become subsumed under a new language game that accompanies the rise of post-war capitalism.
 
-## Efficiency and Power: the Technological Language Game
+## Efficiency and Power: the Performance Principle
 
 As various aspects of cultural production become marketised in the post-war era, the truth principle becomes subordinate to the profit principle, and profitability is dependent on the capacity to produce effects.  
 
