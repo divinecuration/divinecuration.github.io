@@ -35,7 +35,7 @@ For Lyotard, the foregrounding of agonistics sets the language game approach to 
 
 The claim here is that the cybernetic approach---which appeals to non-linear causality as opposed to classical linear models of causality---nevertheless still misses the extra dimension which is added when the 'nodes' of the network are understood as reasoning agents. The cybernetic model places social structures in the same frame as other natural structures---organic or inorganic---seeing nodes as purely causal systems, reliable responders to input stimuli. Lyotard's amounts to the claim that this model fails to capture the salient features of social structure, because those features are only visible at a finer grain of analysis, specifically, in the acausal interactions that occur when nodes are agents capable of anticipation, deception, and strategy. (Including all the weird temporality that flows from this---think [Roko's Basilisk](https://rationalwiki.org/wiki/Roko's_basilisk).)
 
-What emerges from this is a notion of power appropriate to general agonistics: power consists in the ability to force one's opponent to only ever play reactional moves.
+What emerges from this is a concept of power appropriate to general agonistics: power consists in the ability to force one's opponent to only ever play reactional moves.
 
 > In the ordinary use of discourse---for example, in a discussion between two friends---the interlocutors use any available ammunition, changing games from one utterance to the next: questions, requests, assertions, and narratives are launched pell-mell into battle. The war is not without rules, but the rules allow and encourage the greatest possible flexibility of utterance. {% cite -l 17 %}
 
