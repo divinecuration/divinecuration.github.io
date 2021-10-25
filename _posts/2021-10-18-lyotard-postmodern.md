@@ -11,7 +11,7 @@ Some annotated extracts from Jean-François Lyotard's often cited (though perhap
 
 Several things jumped out for me while reading this. First, the figure that looms largest over these pages is the later Wittgenstein---rather than leaning on structuralist frameworks, as one might naively expect, Lyotard mostly mobilises conceptual tools from analytic philosophy, notably 'language games' and speech act theory.
 
-Second, Lyotard uses these tools to approach the question of knowledge in a unique and clever way: by foregrounding the pragmatics of legitimacy. This makes Lyotard's analysis feel contemporary and relevant. As with others from this period, it almost feels as if he is talking about Twitter.
+Second, Lyotard uses these tools to approach the question of knowledge in a unique way: by foregrounding the pragmatics of legitimacy. This makes Lyotard's analysis feel contemporary and relevant. As with others from this period, it almost feels as if he is talking about Twitter.
 
 Third, Lyotard's own position is ultimately both positive and optimistic: his vision of 'postmodern knowledge' is not merely what knowledge becomes once assimilated by the market, but something that stands in opposition to it. In this respect, the Lyotard of this moment is one of a handful of people who has actually treated the term 'postmodernism' as something to be affirmed.
 
