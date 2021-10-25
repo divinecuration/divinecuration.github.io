@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Žižek on retroactivity"
+title: "Žižek on Retroactivity"
 date: 2021-09-04 05:23:00
 categories: [thoughts]
 published: true
