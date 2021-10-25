@@ -9,7 +9,7 @@ toc: true
 
 Some annotated extracts from Jean-François Lyotard's often cited (though perhaps less often read) monograph _The Postmodern Condition: A Report on Knowledge_ {% cite lyotard-postmodern %}.
 
-Several things jumped out for me while reading this. First, the figure that looms largest over these pages is the later Wittgenstein---rather than leaning on structuralist frameworks, as one might naively expect, Lyotard mobilises conceptual tools from analytic philosophy, notably 'language games' and speech act theory.
+Several things jumped out for me while reading this. First, the figure that looms largest over these pages is the later Wittgenstein---rather than leaning on structuralist frameworks, as one might naively expect, Lyotard mostly mobilises conceptual tools from analytic philosophy, notably 'language games' and speech act theory.
 
 Second, Lyotard uses these tools to approach the question of knowledge in a unique and clever way: by foregrounding the pragmatics of legitimacy. This makes Lyotard's analysis feel contemporary and relevant. As with others from this period, it almost feels as if Lyotard is talking about Twitter.
 
