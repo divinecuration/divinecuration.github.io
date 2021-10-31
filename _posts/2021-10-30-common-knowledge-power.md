@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Power and Common Knowledge"
+title: "Power and Common Knowledge"
 date: 2021-10-27 05:23:00
 categories: [thoughts]
 published: true
