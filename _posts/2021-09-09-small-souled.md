@@ -2,7 +2,7 @@
 layout: post
 title: "The Small-Souled Consciousness"
 date: 2021-09-09 05:23:00
-categories: [thoughts]
+categories: [brandom]
 published: false
 ---
 

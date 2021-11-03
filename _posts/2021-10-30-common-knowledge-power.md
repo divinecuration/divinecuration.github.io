@@ -2,7 +2,7 @@
 layout: post
 title: "Power and Common Knowledge"
 date: 2021-10-27 05:23:00
-categories: [thoughts]
+categories: [coordination, legitimacy, deleuze, foucault, inertia, reification]
 published: true
 ---
 

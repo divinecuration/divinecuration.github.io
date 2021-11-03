@@ -1,0 +1,16 @@
+---
+layout: full-width
+title: Tags
+weight: 1
+---
+
+{% assign sorted_cats = site.categories | sort %}
+{% for category in sorted_cats %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <h2 class="category-head" id="{{category_name}}">{{ category_name | capitalize }}</h2>
+    <ul>
+    {% for post in site.categories[category_name] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> ({{post.date | date: "%d/%m/%Y" }})</li>
+    {% endfor %}
+    </ul>
+{% endfor %}

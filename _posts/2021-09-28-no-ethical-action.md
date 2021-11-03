@@ -2,7 +2,7 @@
 layout: post
 title: "Ethics and Capitalism"
 date: 2021-09-28 05:23:00
-categories: [thoughts]
+categories: [coordination, inertia, capitalism, ethics]
 published: true
 ---
 

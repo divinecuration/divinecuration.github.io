@@ -26,13 +26,6 @@
             {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
-        {%- for note in site.pages -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains page.url -%}
-            <div><p><a href="{{note.url}}">{{ note.title }}</a><p></div>
-            {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
     </div>
     <br/>
 </div>

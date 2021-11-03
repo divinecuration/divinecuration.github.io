@@ -2,7 +2,7 @@
 layout: post
 title: "Lyotard: The Postmodern Condition"
 date: 2021-10-18 05:23:00
-categories: [thoughts]
+categories: [lyotard, undecidability, legitimacy, pragmatics, baudrillard, historicity, science]
 published: true
 toc: true
 ---

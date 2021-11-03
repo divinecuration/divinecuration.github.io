@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Bad Incentives"
 date: 2021-10-09 05:23:00
-categories: [thoughts]
+categories: [coordination, inertia]
 published: true
 ---
 

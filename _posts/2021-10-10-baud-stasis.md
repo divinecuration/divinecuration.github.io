@@ -2,7 +2,7 @@
 layout: post
 title: "Baudrillard on Stakes and Stasis"
 date: 2021-10-10 05:23:00
-categories: [thoughts]
+categories: [baudrillard]
 published: false
 ---
 

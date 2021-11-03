@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Žižek's critique of post-structuralism"
+title: "Žižek's Critique of Poststructuralism"
 date: 2021-08-23 05:23:00
-categories: [thoughts]
+categories: [zizek, poststructuralism, baudrillard, legitimacy, brecht, subjectivity]
 published: true
 ---
 

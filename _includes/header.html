@@ -34,6 +34,12 @@
 				<a href="{{ "/bib.html" | prepend: site.baseurl}}">BIBLIOGRAPHY</a>
 			{% endif %}
 
+			{% if page.url == "/categories.html" %}
+				<a class="active" href="{{ "/categories.html" | prepend: site.baseurl}}" class="active">TAGS</a>
+			{% else %}
+				<a href="{{ "/categories.html" | prepend: site.baseurl}}">TAGS</a>
+			{% endif %}
+
 			{% if page.url == "/about.html" %}
 				<a class="active" href="{{ "/about.html" | prepend: site.baseurl}}" class="active">ABOUT</a>
 			{% else %}

@@ -1,0 +1,28 @@
+
+<div class="backlinks">
+    <h2>Related</h2>
+    <br />
+    <div>
+      {% assign mPosts = '' | split: ',' %}
+      {%- for cat in page.categories -%}
+
+        {%- for post in site.posts -%}
+          {%- if post.categories contains cat -%}
+          {% assign mPosts = mPosts | push: post %}
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endfor -%}
+
+      {% assign uniqPosts = mPosts | uniq %}
+      {%- for pos in uniqPosts -%}
+        {% assign shared_cats = '' | split: ',' %}
+        {%- for tempCat in pos.categories -%}
+          {%- if page.categories contains tempCat -%}
+            {% assign shared_cats = shared_cats | push: tempCat %}
+          {%- endif -%}
+        {%- endfor -%}
+        <div><p><a href="{{pos.url}}">{{ pos.title }}</a> (&nbsp{%- for nTempCat in shared_cats -%}<a href="/categories.html#{{nTempCat}}">{{nTempCat}}</a>&nbsp{%- endfor -%})</p></div>
+      {%- endfor -%}
+    </div>
+    <br/>
+</div>
