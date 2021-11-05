@@ -2,7 +2,7 @@
 layout: post
 title: "Consensus, Crypto, and Trust"
 date: 2021-04-13 05:23:00
-categories: [thoughts]
+categories: [legitimacy, coordination, baudrillard, land, crypto]
 published: true
 ---
 

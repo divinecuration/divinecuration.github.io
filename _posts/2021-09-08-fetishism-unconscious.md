@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Fetishism"
 date: 2021-09-08 05:23:00
-categories: [zizek, reification, coordination, legitimacy]
+categories: [zizek, fetishism, coordination, legitimacy]
 published: true
 ---
 

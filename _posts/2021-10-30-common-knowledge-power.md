@@ -2,7 +2,7 @@
 layout: post
 title: "Power and Common Knowledge"
 date: 2021-10-27 05:23:00
-categories: [coordination, legitimacy, deleuze, foucault, inertia, reification]
+categories: [coordination, common knowledge, legitimacy, deleuze, foucault, inertia, fetishism, strategy, social causality, normativity, fisher]
 published: true
 ---
 

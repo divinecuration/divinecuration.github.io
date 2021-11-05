@@ -2,7 +2,7 @@
 layout: post
 title: "Structure and Optimism"
 date: 2021-08-04 05:23:00
-categories: [agency]
+categories: [agency, structuralism, subjectivity, humanism]
 published: true
 ---
 

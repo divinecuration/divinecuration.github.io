@@ -2,7 +2,7 @@
 layout: post
 title: "Marcuse: Eros and Civilisation"
 date: 2021-08-10 05:23:00
-categories: [thoughts]
+categories: [marcuse, strategy, capitalism, unconscious, freud]
 published: true
 toc: true
 ---

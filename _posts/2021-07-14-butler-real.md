@@ -2,7 +2,7 @@
 layout: post
 title: "Rex Butler on Baudrillard"
 date: 2021-07-14 05:23:00
-categories: [thoughts]
+categories: [baudrillard, ]
 published: false
 ---
 
@@ -14,6 +14,6 @@ As far as Butler's reading goes, what this means in practice is that a strong em
 
 > However, if simulation is irrefutable, if any outside to it is only conceivable because of it, at the same time the statement that makes this possible also makes it impossible. The very statement which means there is no outside to simulation, that simulation is total, also means there is an outside to simulation, that simulation is not total.
 
-I wouldn't want to hang too much on this janked-out-of-context paragraph, but it's indicative of this kind of portentous vibe---really distinctive of secondary literature from the 90's---that comes with dwelling on these issues of self-reference, how can the theorist theorise the limits of theoreticity, all that stuff. The end result is that Butler's reading has this almost Derridean tint to it, in which the driving force in Baudrillard's work is portrayed as this tail-chasing attempt to grapple with the paradox of trying to represent that which is necessarily excluded in the act of representation. There's certainly some truth to this, but I think it misses or at least blurs something important in both the strategy of Baudrillard's writing and its content, which I think are much more entangled with contingencies of cultural context than this reading allows.
+I wouldn't want to hang too much on this yanked-out-of-context paragraph, but it's indicative of this kind of portentous vibe---really distinctive of secondary literature from the 90's---that comes with dwelling on these issues of self-reference, how can the theorist theorise the limits of theoreticity, all that stuff. The end result is that Butler's reading has this almost Derridean tint to it, in which the driving force in Baudrillard's work is portrayed as this tail-chasing attempt to grapple with the paradox of trying to represent that which is necessarily excluded in the act of representation. There's certainly some truth to this, but I think it misses or at least blurs something important in both the strategy of Baudrillard's writing and its content, which I think are much more entangled with contingencies of cultural context than this reading allows.
 
 Perhaps I can make that clearer by contrasting what I think Baudrillard's concerns are with Derrida's. There are certain similarities between them: they are both interested in systems of meaning, in both their limits and their conditions of possibility. Moreover they both suggest that there is a deep, inextricable link between them, that meaningfulness is possible only when systems contain gaps, undecidabilities, zones of under-determination. But where they perhaps differ is that Derrida is primarily interest in these questions at the most general level---in the limits and conditions of systematicity as such (and uses particular cases to support this inquiry)---whereas Baudrillard is primarily with the possibility of meaningfulness in the present moment, in the systems of meaning we _currently_ inhabit (and appeals to the general case to give shape to his analysis of the present).

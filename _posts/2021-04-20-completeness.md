@@ -2,7 +2,7 @@
 layout: post
 title: "Baudrillard and Incompleteness"
 date: 2021-04-13 05:23:00
-categories: [thoughts]
+categories: [undecidability, godel, baudrillard, derrida, capitalism, pragmatics]
 published: true
 ---
 

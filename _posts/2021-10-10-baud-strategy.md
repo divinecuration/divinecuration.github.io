@@ -2,7 +2,7 @@
 layout: post
 title: "Baudrillard on Praxis"
 date: 2021-10-10 05:23:00
-categories: [baudrillard]
+categories: [baudrillard, accelerationism]
 published: false
 ---
 

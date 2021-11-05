@@ -2,7 +2,7 @@
 layout: post
 title: "Some Further Reflections on Metamodernism"
 date: 2021-06-22 05:23:00
-categories: [thoughts]
+categories: [metamodernism]
 published: false
 ---
 

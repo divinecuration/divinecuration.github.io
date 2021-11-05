@@ -2,7 +2,7 @@
 layout: post
 title: "Baudrillard's Real and Brechtian Interruption"
 date: 2021-02-02 05:23:00
-categories: [thoughts, baudrillard, brecht, displacement]
+categories: [baudrillard, brecht, representation, subjectivity]
 published: true
 ---
 

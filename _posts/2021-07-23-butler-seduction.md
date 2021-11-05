@@ -2,7 +2,7 @@
 layout: post
 title: "Rex Butler's Baudrillard II: Seduction"
 date: 2021-07-23 05:23:00
-categories: [thoughts]
+categories: [baudrillard, derrida, undecidability, pragmatics, representation]
 published: true
 ---
 

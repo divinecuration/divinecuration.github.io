@@ -2,7 +2,7 @@
 layout: post
 title: "Žižek on Marx's Symptoms"
 date: 2021-08-29 05:23:00
-categories: [zizek, capitalism, value, unconscious, reification]
+categories: [zizek, capitalism, value, unconscious, fetishism, marx]
 published: true
 ---
 

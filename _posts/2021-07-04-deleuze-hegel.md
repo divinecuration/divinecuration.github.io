@@ -2,7 +2,7 @@
 layout: post
 title: "Deleuze contra Hegel (... Hegel contra Deleuze?)"
 date: 2021-07-04 05:23:00
-categories: [thoughts]
+categories: [deleuze, hegel, novelty, strategy, capitalism]
 published: true
 ---
 

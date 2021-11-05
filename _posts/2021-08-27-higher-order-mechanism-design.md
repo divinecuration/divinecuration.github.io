@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Higher-order mechanism design"
-date: 2021-08-29 05:23:00
-categories: [thoughts]
+date: 2021-11-05 05:23:00
+categories: [coordination, inertia, strategy]
 published: false
 toc: true
 ---
