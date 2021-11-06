@@ -2,7 +2,7 @@
 layout: post
 title: "Yuk Hui on Technics, Time and Geometry"
 date: 2020-09-26 05:23:00
-categories: [thoughts, tech, temporality]
+categories: [technics, steigler, hui, temporality]
 ---
 
 Here's a few snippets pulled from Yuk Hui's essay _The Question Concerning Technology In China_ {% cite hui %}. These come from a later section about geometry and temporalisation that I found interesting in relation to some [recent avenues]({{site.baseurl}}/2020/08/25/anaphora-deixis.html) I've been exploring on time, and which also elaborates on some of Bernard Stiegler's ideas about technology.

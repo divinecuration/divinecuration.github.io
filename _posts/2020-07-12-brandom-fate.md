@@ -2,7 +2,7 @@
 layout: post
 title:  "Between Fate and Alienation"
 date: 2020-07-14 09:23:00
-categories: [thoughts, brandom, agency]
+categories: [brandom, agency, hegel]
 ---
 
 Writing in the introduction to his recent book on Hegel's Phenomenology of Spirit, Robert Brandom has this to say about the contrast between the modern and premodern experiences of normativity:

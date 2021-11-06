@@ -2,7 +2,7 @@
 layout: post
 title:  "Auric Decay and Invisibility (Benjamin to Berghain)"
 date: 2020-07-10 10:00:00
-categories: [thoughts, benjamin, mediation, tech, displacement, invisibilia]
+categories: [benjamin, technics, baudrillard]
 ---
 
 In 1935 Walter Benjamin [compared]({{ site.baseurl }}/assets/pdf/benjamin-mechanical-reproduction.pdf) the performances of the stage actor and the film actor. He found two differences:

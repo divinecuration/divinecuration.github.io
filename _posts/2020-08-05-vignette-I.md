@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Freeze History"
 date: 2020-08-07 09:23:00
-categories: [thoughts, affect, displacement, baudrillard, sloterdijk]
+categories: [affect, subjectivity, baudrillard, sloterdijk]
 ---
 
 Anger is socially heavy, and so morally unthinkable. Anger must be muted and contained, suspended as contempt. It is required of all affects that they be substituted for their lightest operational equivalent, a least energy principle with minimisation of social noise as its boundary constraint. Relations of interiority are folded into exteriorities, lighter because interiority implies weight of involvement. Interiority _is_ involvement, and involvement is nothing other than concrete social labour, inseparable from risk. Risk and labour are heavy, and therefore condemned. There is a fractal decomposition of social space into distinct micropods, the residue of this exothermic mitosis gathering in salvageable droplets across the growing surface of the membrane.{% sidenote 'membrane' "Cf. Anna Tsing's development of [salvage accumulation](https://aworkinglibrary.com/writing/salvage), _The Mushroom at the End of the World_." %} At last everyone can relax: nowhere is lighter than outer space.

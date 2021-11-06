@@ -2,7 +2,7 @@
 layout: post
 title: "Note on the Rule Following Paradox"
 date: 2020-08-18 09:23:00
-categories: [thoughts, temporality, wittgenstein, agency]
+categories: [temporality, wittgenstein, agency, kripke, normativity]
 mathjax: true
 ---
 

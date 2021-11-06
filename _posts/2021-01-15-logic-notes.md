@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Category Theory"
 date: 2021-01-15 05:23:00
-categories: [thoughts]
+categories: [category theory, logic, kant, brandom]
 published: true
 mathjax: true
 ---

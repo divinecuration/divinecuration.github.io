@@ -2,7 +2,7 @@
 layout: post
 title:  "Counternotes on Subculture"
 date: 2020-08-07 09:23:00
-categories: [thoughts, subculture, inertia]
+categories: [subculture, inertia, strategy, capitalism]
 ---
 
 One potential pitfall I can see in making comparisons between present and 60’s counterculture is that not only are the mainstreams they react against very different, but the present mainstream is in many ways a product of the ideas of selfhood that emerged from the 60’s (or an appropriation of them, depending on where your allegiances lie). If the 60’s counterculture can be seen as reacting against the regimented blandness stereotyped in modern portrayals of the 50’s, then a modern day counterculture must surely be a reaction against the norms of neoliberal individualism and its promise of self-realisation in consumption.

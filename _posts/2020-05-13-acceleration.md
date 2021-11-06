@@ -2,7 +2,7 @@
 layout: post
 title:  "Accelerate"
 date: 2020-05-10 14:02:00
-categories: [thoughts, fisher, feedback, difference, agency]
+categories: [fisher, agency, accelerationism, vitalism, land, capitalism]
 ---
 
 Here I want to gather a few thoughts on accelerationism, a current of thinking with near roots in the Cybernetic Culture Research Unit (a sort of experimental theory collective based at Warwick University in the 1990's), and far roots in Marx's idea that capitalism would ultimately create the conditions of its own disintegration. The term only really came to signify anything like a "current" sometime in 2010's, and since then it has fragmented into left-wing and right-wing variants (called l/acc and r/acc, though sometimes begrudgingly), not to mention a whole slew of other offshoots. [This](https://www.theguardian.com/world/2017/may/11/accelerationism-how-a-fringe-philosophy-predicted-the-future-we-live-in) Guardian article provides a nice account of accelerationism's history and some of its protagonists.

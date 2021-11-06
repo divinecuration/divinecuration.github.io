@@ -2,7 +2,7 @@
 layout: post
 title:  "Note on Virtue Signalling"
 date: 2020-06-10 14:02:00
-categories: [thoughts, tech, mediation, inertia, agency]
+categories: [technics, inertia, agency, sellars]
 ---
 
 The term "virtue-signalling" first appeared as a way of mocking the perceived insincerity of those who vocally advocate for social justice causes without making any real effort to effect them in practice, or doing so only insofar as they complement their own lifestyle choices. The anti-leftist sentiment baked into the concept is no doubt one reason why it was not initially taken seriously as a critique by its targets. Another might be that those whose sincerity is in question simply do not experience themselves as insincere. There are, after all, reasons other than self-interest to vocally espouse a cause---for example to persuade, to compel, or to mobilise. If the goal is collective action then mobilisation through discourse is its precondition, not its afterthought, and to criticise individual espousers on their lack of current individual action would seem to miss the issue.

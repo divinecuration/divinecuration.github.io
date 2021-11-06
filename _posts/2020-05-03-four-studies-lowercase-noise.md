@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Four Studies in Lowercase"
-categories: [sounds, tech]
+categories: [sounds]
 date: 2020-03-02 09:50:00
 ---
 

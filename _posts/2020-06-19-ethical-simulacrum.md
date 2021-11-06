@@ -2,7 +2,7 @@
 layout: post
 title:  "The Ethical Simulacrum"
 date: 2020-06-22 09:23:00
-categories: [thoughts, baudrillard, agency, mediation, semiotics]
+categories: [baudrillard, agency, capitalism, difference, inertia]
 ---
 
 One aspect of Baudrillard's thought rarely emphasised is its empirical content. I find this odd, given that his whole oeuvre is devoted to describing processes that give predictions and explanations of concrete social structures and events. (Where it has received attention, as with his claim that the Gulf War "never happened," he has tended to be interpreted without much charity, in my opinion.) It is, after all, this empirical content that forms the bridge between the abstract core of his theory---revolving around the idea of "semiological reduction" (more on this later)---with his familiar proclamations that "events are on strike", that "history is frozen", or that the postmodern experience is at root a boring one, in which all the stakes of life have been abandoned and nothing ever really happens.

@@ -2,7 +2,7 @@
 layout: post
 title: "Mutual Recognition and Costly Signalling"
 date: 2021-01-21 05:23:00
-categories: [agency, brandom, kant, hegel, normativity, baudrillard]
+categories: [agency, brandom, kant, hegel, normativity, baudrillard, costly signalling]
 published: true
 ---
 

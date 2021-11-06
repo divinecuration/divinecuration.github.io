@@ -2,7 +2,7 @@
 layout: post
 title: "The Technical Mediation of Public Memory"
 date: 2020-08-25 09:23:00
-categories: [thoughts, subculture, temporality, tech, mediation, fisher]
+categories: [subculture, temporality, technics, fisher, brandom]
 ---
 
 The aim of this post is to pull together a few distinct threads that have been converging for me recently on the topics of media, authority and temporality. I'll start where I mean to end---with a quote from Anthony Wilden, writing of George Orwell's portrayal of the perils of mass media:

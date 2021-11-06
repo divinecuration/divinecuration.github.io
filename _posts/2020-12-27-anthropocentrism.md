@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Anthropocentrism"
 date: 2020-12-27 05:23:00
-categories: [thoughts, agency]
+categories: [agency, posthumanism, rorty, kant, epistemology]
 published: true
 ---
 

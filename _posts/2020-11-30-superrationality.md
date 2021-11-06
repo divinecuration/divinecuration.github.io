@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Superrationality"
 date: 2020-11-30 05:23:00
-categories: [thoughts, agency, tech, mediation]
+categories: [agency, superrationality, coordination, kant]
 ---
 
 In game theory, a [superrational](https://en.wikipedia.org/wiki/Superrationality) player is a perfectly rational (that is, utility maximising) player with the added characteristic that they treat all other players as superrational, where superrational players always play the same strategy in the same scenario. This idea (coined by Douglas Hofstadter in [a chapter of Metamagical Themas](https://www.gwern.net/docs/xrisks/1985-hofstadter#dilemmas-for-superrational-thinkers-leading-up-to-a-luring-lottery)) models an agent that reasons according to Kant's categorical imperative: to act only according a maxim that can be willed as a universal law.

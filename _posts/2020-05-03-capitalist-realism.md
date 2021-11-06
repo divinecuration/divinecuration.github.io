@@ -2,10 +2,10 @@
 layout: post
 title:  "Capitalist Realism: a Summary"
 date: 2020-05-02 10:43:00
-categories: [thoughts, fisher, inertia, agency]
+categories: [fisher, inertia, agency, capitalism, temporality]
 ---
 
-Here's my thousandish-word summary of Mark Fisher's book _Capitalist Realism_.
+Here's my thousandish-word summary of Mark Fisher's book _Capitalist Realism_ {% cite fisher-realism %}.
 
 <!--more-->
 
@@ -26,3 +26,6 @@ In a society in which instability is the status quo, the ability to forget carri
 Big Government serves as a scapegoat to be blamed for its failure to act as a centralising power, precisely because of the centerlessness of capital. It is not possible to vent anger anywhere else. The center is missing, yet we cannot stop searching for it. We are presented with a false dichotomy between centralised collective responsibility and decentralised individual responsibility, masking the fact that responsibility actually lies with a diffuse impersonal structure, both collective and decentralised.
 
 Neoliberal ideology is defined by its identification of self-interest with virtue, raising happiness to the status of a moral duty. When merged with an absent sense of narrative progression, self-interest collapses into the fulfilment of known desire. Since any pretence to occupy the position of the paternal superego---to tell you what you should want---is treated with mockery, there is a lack of culture that seeks to challenge existing preferences. This situation represents cultural stasis, because in reality we often do not know or understand our own desires. This is why our most profound projects are exploratory, strivings toward encounters with the unfamiliar and the weird. In its privatisation of desire and its corresponding mockery of the challenging, capitalist realism deprives us of a culture capable of growth.
+
+## References
+{% bibliography --cited %}

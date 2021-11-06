@@ -2,7 +2,7 @@
 layout: post
 title: "Walter Benjamin on Brecht"
 date: 2020-09-26 05:23:00
-categories: [thoughts, benjamin, brecht, displacement]
+categories: [benjamin, brecht, subjectivity, representation, zizek]
 ---
 
 Some excerpts from Walter Benjamin's Understanding Brecht {% cite benjamin-brecht %}, plus notes. See also a previous post on [Brecht and the Chinese Opera]({{site.baseurl}}/2020/07/07/brecht.html).
@@ -21,7 +21,7 @@ The naturalism of the fourth wall gives the audience the illusion of being "the 
 
 > The supreme task of an epic production is to give expression to the relationship between the action being staged and everything that is involved in the act of staging _per se_. {% cite benjamin-brecht -l 11 %}
 
-The apparatus of staging is revealed through the interruption of the action and its decomposition into gesture. (cf. Donald Davidson’s deflationary account of metaphorical meaning: metaphor means whatever it means literally, which is either obviously false or vacuously true. The effect of this is to interrupt interpretation---the sentence can no longer be understood as _asserting_, so the receiver starts to search for other ways in which to understand it.) Gesture, here, is the material component of the action. The materiality is foregrounded by e.g. repetition of the gesture, text in posters on the set wall, etc. Revealing the stage apparatus _as_ apparatus forces us to encounter the gesture as gesture, by interrupting our ability to encounter it as action.
+The apparatus of staging is revealed through the interruption of the action and its decomposition into gesture. (See also Donald Davidson’s deflationary account of metaphorical meaning.) Gesture, here, is the material component of the action. The materiality is foregrounded by e.g. repetition of the gesture, text in posters on the set wall, etc. Revealing the stage apparatus _as_ apparatus forces us to encounter the gesture as gesture, by interrupting our ability to encounter it as action.
 
 > Twice Galy Gay is summoned to a wall, the first time to change his clothes, the second time to be shot; in both cases the summoning gesture is the same. He himself uses the same gesture twice: the first time to renounce the fish he wanted to buy, the second time to accept the elephant. This is the kind of discovery that will satisfy the interest of the audience who frequent epic theatre; it is with discoveries like these that they will get their money’s worth. {% cite benjamin-brecht -l 12 %}
 

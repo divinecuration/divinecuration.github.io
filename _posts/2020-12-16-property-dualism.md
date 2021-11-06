@@ -2,7 +2,7 @@
 layout: post
 title: "Phenomenal Properties"
 date: 2020-12-16 05:23:00
-categories: [thoughts]
+categories: [consciousness, davidson, illusionism]
 published: true
 toc: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Spectacular Tech Bros"
 date: 2020-08-19 09:23:00
-categories: [thoughts, tech, displacement, temporality]
+categories: [subjectivity, capitalism, debord]
 ---
 
 Last night I encountered this passage while idly rereading the first chapter of Guy Debord's _Society of the Spectacle_:

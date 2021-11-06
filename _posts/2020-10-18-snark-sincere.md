@@ -2,7 +2,7 @@
 layout: post
 title: "Some Snarks at Postmodern Sincerity"
 date: 2020-10-18 05:23:00
-categories: [thoughts, agency, mediation]
+categories: [agency, difference, strategy]
 ---
 
 ## 1.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Cathedral and the Vampire Castle"
 date: 2020-10-09 05:23:00
-categories: [thoughts, fisher]
+categories: [fisher, yarvin, metamodernism, capitalism]
 ---
 
 Some loose thoughts on similarities and differences in Curtis Yarvin, Mark Fisher, and Hanzi Freinacht. See also my post on [accelerationism]({{site.baseurl}}/2020/05/10/acceleration.html).

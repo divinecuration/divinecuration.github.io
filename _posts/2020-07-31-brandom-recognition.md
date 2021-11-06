@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Consciousness as Reciprocal Recognition"
 date: 2020-07-31 09:23:00
-categories: [thoughts, brandom, agency, mediation]
+categories: [brandom, agency, hegel]
 ---
 
 At the heart of Hegel's philosophy of mind is the idea that self-consciousness is essentially mediated: that a self's recognition of its own selfhood is metaphysically dependent on its recognition of others and the reciprocation of such recognitive attitudes. This is a rejection of the foundational Cartesian doctrine of _given_ self-consciousness. Brandom's approach to this mediation structure is to consider the logic of the _recognition_ relation itself. We say that _x recognises y_ if x takes y to be a self. To say that x is _self-conscious_ is then just to say that x recognises themselves.

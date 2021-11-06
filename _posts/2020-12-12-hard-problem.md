@@ -2,7 +2,7 @@
 layout: post
 title: "Consciousness and Private Ostension"
 date: 2020-12-09 05:23:00
-categories: [thoughts]
+categories: [consciousness, kripke]
 mathjax: true
 published: true
 ---
@@ -17,7 +17,7 @@ Naturally, the line between refusing a burden of proof and meeting it looks diff
 
 This question concerns the ontology of consciousness---however, it can't help but touch on epistemological issues. One of the things I've always found distinctive of this area of philosophy is the way that ontological and epistemological issues are so easily run together. The key insight that originally dissolved the intuition behind the hard problem in my mind concerns how these two kinds of issues can be disentangled from one another.
 
-A good direction to approach this from is Saul Kripke's version of the conceivability argument against identity theories, which appears in [Naming and Necessity](http://people.exeter.ac.uk/sp344/naming_and_necessityocr.pdf) {% cite kripke-naming %}. This argument is great for two reason: 1. it makes explicit the epistemic apparatus involved in reaching its ontological conclusion, and 2. insofar as it succeeds, it has a very broad target.
+A good direction to approach this from is Saul Kripke's version of the conceivability argument against identity theories, which appears in _Naming and Necessity_ {% cite kripke-naming %}. This argument is great for two reason: 1. it makes explicit the epistemic apparatus involved in reaching its ontological conclusion, and 2. insofar as it succeeds, it has a very broad target.
 
 Some objections to the identity theory only apply to certain versions of it. For instance, the objection from 'multiple realisation' argues that conscious states can't be physical states because the same conscious state might be realised in many different physical states. But this is only an objection to a so-called type-identity theory, which says conscious types (like "pain") are physical types (like "c-fibres firing"). It does not touch token-identity theories, which make the significantly weaker claim that particular conscious event (like "having _that_ pain earlier today") are identical to some particular physical event (like "_that_ firing of neural activity"). If Kripke's argument goes through, however, it will be fatal for _all_ identity theories.
 

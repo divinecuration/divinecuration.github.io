@@ -2,7 +2,7 @@
 layout: post
 title: "Orders of Simulacra"
 date: 2021-01-18 05:23:00
-categories: [thoughts, semiotics, difference, baudrillard]
+categories: [baudrillard]
 published: false
 ---
 

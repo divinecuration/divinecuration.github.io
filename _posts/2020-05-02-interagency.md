@@ -3,7 +3,7 @@ layout: post
 title:  "Interagency"
 date: 2017-05-01 21:06:26 +0800
 date_text: November 2017
-categories: [objects, agency, tech, difference, piece]
+categories: [objects, agency, piece]
 meta: 2 x Raspberry Pi Zero, acrylic, custom scripts, display. 2017.
 feat: /assets/img/interagency/lead.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Prima Materia"
 date: 2018-05-02 21:07:26 +0800
 date_text: April 2018
-categories: [objects, science, tech, morphogenesis, feedback, piece]
+categories: [objects, science, piece]
 meta: Ferrofluid, camera, electromagnets, custom software. 2018.
 feat: /assets/img/prima-materia/pm-1.jpg
 ---

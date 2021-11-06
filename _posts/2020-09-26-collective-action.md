@@ -2,7 +2,7 @@
 layout: post
 title: "Note on Collective Action Problems"
 date: 2020-09-26 05:23:00
-categories: [thoughts, agency, mediation, tech]
+categories: [graeber, agency, coordination, technics, capitalism]
 ---
 
 I first encountered the rumour that Adam Smith’s formulation of the free market was cribbed from earlier Islamic scholars in David Graeber's marvellous tome _Debt: The First 5000 Years_ {% cite debt -l 279 %}. The invisible hand of the market began its life---perhaps---as the hand of Allah. Except that in the original version, unlike in Margaret Thatcher's, the market was not supposed to oppose and replace the social order---it would complement and harmonise with it. You didn’t get rich to realise your desires as an individual; you got rich to fulfil your duties to family and community. (An interesting observation Graeber makes is that this convergence of moral virtue and business acumen in the Caliphate was captured in the myth cycles of the time, in which the heroic figures---like Sinbad the Sailor---were often merchant adventurers. {% cite debt -l 277-278  %})

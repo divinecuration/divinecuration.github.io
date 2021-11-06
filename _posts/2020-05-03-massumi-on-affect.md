@@ -2,10 +2,10 @@
 layout: post
 title:  "Brian Massumi on Affect"
 date: 2020-01-02 09:50:00
-categories: [thoughts, affect, difference]
+categories: [affect, difference, deleuze, spinoza]
 ---
 
-This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s [paper]({{site.baseurl}}/assets/pdf/massumi-affect.pdf) Autonomy of Affect, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
+This somewhat lazy post stockpiles a load of quotes I’ve pulled out of Brian Massumi’s paper _The Autonomy of Affect_ {% cite massumi-affect %}, which I’ve found extremely helpful for patching up some of the leaks in my own understanding of affect theory. I’ve left these quotes verbose to capture the context.
 
 > It could be noted that the primacy of the affective is marked by a gap between content and effect: it would appear that the strength or duration of an image’s effect is not logically connected to the content in any straightforward way. This is not to say that there is no connection and no logic. What is meant here by the content of the image is its indexing to conventional meanings in an intersubjective context, its socio-linguistic qualification. This indexing fixes the determinate qualities of the image; the strength or duration of the image’s effect could be called its intensity.
 
@@ -60,3 +60,6 @@ Finally, Massumi steps back from the overarching theory to suggest some ways the
 > Think of the image/expression-events in which we bathe. Think interruption. Think of the fast cuts of the video clip or the too-cool TV commercial. Think of the cuts from TV programming to commercials. Think of the cuts across programming and commercials achievable through zapping. Think of the distractedness of television viewing, the constant cuts from the screen to its immediate surroundings, to the viewing context where other actions are performed in fits and starts as attention flits. Think of the joyously incongruent juxtapositions of surfing the Internet. Think of our bombardment by commercial images off the screen, at every step in our daily rounds. Think of imagistic operation of the consumer object, as turnover time increases as fast as styles can be recycled. Everywhere, the cut, suspense – incipience. Virtuality, perhaps?
 
 > The ability of affect to produce an economic effect more swiftly and surely than economics itself means that affect is itself a real condition, an intrinsic variable of the late capitalist system, as infrastructural as a factory.
+
+## References
+{% bibliography --cited %}

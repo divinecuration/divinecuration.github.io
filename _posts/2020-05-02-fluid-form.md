@@ -3,7 +3,7 @@ layout: post
 title:  "Fluid Form"
 date: 2018-05-01 21:06:26 +0800
 date_text: April 2018
-categories: [objects, morphogenesis, tech, piece]
+categories: [objects, science, piece]
 meta: SLA resin. 2018.
 feat: /assets/img/fluid-form/im-5.jpg
 ---

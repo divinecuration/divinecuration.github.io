@@ -2,7 +2,7 @@
 layout: post
 title: "Remixing the Master's Tools"
 date: 2020-09-23 05:23:00
-categories: [thoughts, tech, mediation, baudrillard, semiotics]
+categories: [technics, social causality, baudrillard, zizek, mcluhan, marx, debord, lorde]
 mathjax: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Sacrifice, Identification and Self-Constitution"
 date: 2020-07-30 09:23:00
-categories: [thoughts, brandom, agency, temporality]
+categories: [brandom, agency, temporality, kant, autonomy, hegel]
 ---
 
 Brandom begins his exposition of the Self-Consciousness chapter of the Phenomenology by considering "essentially self-conscious beings." These are beings whose self-conception forms an essential part of what they are in themselves.{% sidenote 'themselves' "Which is not to say that they are whatever they take themselves to be. As Brandom says, their self-conception may be in error, but if so then that mistake is still an essential feature of what they really are." %} Since for them a change in their self-conception can bring about a change in what they are, they are capable of "_making_ themselves different by _taking_ themselves to be different." If they do so, and the change then provokes a further update to their self-conception, this will begin a cascading developmental process moving through sequential alternating modifications of what they for themselves and what they are in themselves.
