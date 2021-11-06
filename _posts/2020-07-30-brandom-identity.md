@@ -24,3 +24,6 @@ This somewhat dramatic case of risking one's life Brandom takes as an instance o
 > So, for instance, risking or sacrificing one's job for a point of moral or political principle is a self-constituting act of identification in the same sense that risking or sacrificing one's life for it is. [...] Both express one's practical identification, through sacrifice, with the community one thereby defends or supports.
 
 This last quote suggests that for Hegel essential self-consciousness is linked to the _social_ structure of self-consciousness. According to this way of thinking, what one is (in oneself) is irreducibly bound up with one's practical acknowledgements of the communities one participates in.{% sidenote 'participate' "We could say perhaps that identity is constituted through solidarity, where both are understood at the level of normative pragmatics." %}
+
+## References
+{% bibliography --cited %}

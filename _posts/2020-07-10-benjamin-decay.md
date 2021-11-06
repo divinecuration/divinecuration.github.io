@@ -5,7 +5,7 @@ date: 2020-07-10 10:00:00
 categories: [benjamin, technics, baudrillard]
 ---
 
-In 1935 Walter Benjamin [compared]({{ site.baseurl }}/assets/pdf/benjamin-mechanical-reproduction.pdf) the performances of the stage actor and the film actor. He found two differences:
+In 1935 Walter Benjamin compared the performances of the stage actor and the film actor {% cite benjamin-mechanical %}. He found two differences:
 
 1. The screen performance is less _unitary_ than the stage performance. It can be pieced together from different takes and repeat performances, incorporate "real" footage, be altered, spliced and restitched. Unlike the organic unity of a stage performance, it is a patchwork of fragments sewn together into a synthetic unity.
 2. A screen performance is more readily susceptible to _critical_ engagement. It can be rewatched by an audience many times over, slowed down and reversed, examined in its minutiae.
@@ -23,7 +23,7 @@ For Benjamin as with Baudrillard later, this mutation in the mode of perception 
 
 ## Presence and Closeness (or, Lifeworlds and Fourth Walls)
 
-Benjamin understood this mutation in terms of a libidinal drive towards closeness. He describes the aura as “the unique phenomenon of a distance”, attributing its decay to the “the desire of contemporary masses to bring things ‘closer’ spatially and humanly.” But within his analysis there is a strange tension. He tell us the aura is both presence and distance, and that the bringing-close that mechanical reproduction makes possible (the surgical close-ups of the camera, the [hypervisibility]({{site.baseurl}}/assets/pdf/awan-witnessing.pdf) of far off things) somehow results in loss of presence. Closeness and presence are set in opposition, yet Benjamin never unwraps this paradox.
+Benjamin understood this mutation in terms of a libidinal drive towards closeness. He describes the aura as “the unique phenomenon of a distance”, attributing its decay to the “the desire of contemporary masses to bring things ‘closer’ spatially and humanly.” But within his analysis there is a strange tension. He tell us the aura is both presence and distance, and that the bringing-close that mechanical reproduction makes possible (the surgical close-ups of the camera, the hypervisibility of far off things) somehow results in loss of presence. Closeness and presence are set in opposition, yet Benjamin never unwraps this paradox.
 
 This tension can be understood if "closeness" is held to refer to _aesthetic_ closeness and "presence" to _normative_ closeness, which is just participatory involvement (or interiority). Aesthetic proximity is produced by an operation of framing that severs obligations (in the broad sense of the recognition of providing authoritative reasons to act, as in the obligation one has to the rattlesnake{% sidenote 'rattlesnake' "See also [Note on False Consciousness and the Displaced Subject](/2020/05/06/false-consciousness.html)." %}). Normative detachment is the moulding of exteriority, the division of a social space by transparent membranes that torpedo involvements and multiply camera angles via the same mechanism. It crystallises the dynamic intensities in the social field, fixing all differences by placing fourth walls between everything. The pull of closeness is the drive towards aesthetic detachment, to the clearing away of obligations in order to get a better look at things. It is a striving for liberation from the labour involved in the commingling of narratives.
 
@@ -47,3 +47,6 @@ Meanwhile Berghain makes a policy of hiddenness. The ban on photography ostensib
 <br />
 
 {% maincolumn 'assets/img/blog/berghain-mine.jpg' '' %}
+
+## References
+{% bibliography --cited %}
