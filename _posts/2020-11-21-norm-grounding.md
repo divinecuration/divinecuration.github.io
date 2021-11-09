@@ -5,7 +5,7 @@ date: 2020-11-21 05:23:00
 categories: [brandom, normativity, kripke, dennett, hegel, epistemology]
 ---
 
-I recently came across a post by David Roden called [Robert Brandom and the Posthuman](https://enemyindustry.wordpress.com/2014/08/23/robert-brandom-and-posthumanism/) which gives, among other things, an excellent introduction to a criticism that can be levelled against Brandom's philosophical project. In this post I want to consider the nature of the threat this problem poses to Brandom, and suggest that aspects of his recent exposition of Hegel can be read as an attempt to respond to it.{% sidenote 'respond' "This post belongs to a wider train of thought I've been following concerning the productive role of indeterminacy in systems of meaning, as encountered in e.g. Derrida's trace, Baudrillard's symbolic exchange, or even Badiou's appeal to formal undecidability in mathematical structures." %}
+I recently came across a post by David Roden called [Robert Brandom and the Posthuman](https://enemyindustry.wordpress.com/2014/08/23/robert-brandom-and-posthumanism/) which gives, among other things, an excellent introduction to a criticism that can be levelled against Brandom's philosophical project. In this post I want to consider the nature of the threat this problem poses to Brandom, and suggest that aspects of his recent exposition of Hegel can be read as an attempt to respond to it.
 
 <!--more-->
 
