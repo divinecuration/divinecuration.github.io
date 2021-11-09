@@ -692,6 +692,7 @@ h1.content-listing-header{
 
 .date {
   padding-top: 0.4em;
+  font-style: italic;
 }
 
 li.listing hr{
@@ -711,6 +712,16 @@ li.listing {
 }
 li.listing .media-content {
   width: 100%;
+}
+
+li.listing h2 {
+  font-style: normal;
+  margin-bottom: 0.2em;
+}
+
+li.listing date {
+  font-style: italic;
+  margin-top: 1em;
 }
 
 
