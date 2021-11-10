@@ -150,6 +150,15 @@ h2 { font-style: normal;
      font-size: 2.8rem;
      line-height: 1; }
 
+@media (max-width: 760px) {
+  h1 {
+    font-size: 4.2rem;
+  }
+  h2 {
+    font-size: 2.2rem;
+  }
+}
+
 .listing h2 {
   margin-top: 3rem;
 }
