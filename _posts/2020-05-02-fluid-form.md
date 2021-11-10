@@ -25,4 +25,4 @@ The objects are 3D printed in white resin using stereolithography, a form of 3D 
 {% maincolumn 'assets/img/fluid-form/im-4.jpg' '' %}
 {% maincolumn 'assets/img/fluid-form/im-5.jpg' '' %}
 {% maincolumn 'assets/img/fluid-form/im-6.jpg' '' %}
-<div class="pagination older-post"><a href="{{site.baseurl}}/assets/pdf/fluid-form-docs.pdf">project documentation<data data-icon="ei-arrow-down"></data></a></div>
+<!-- <div class="pagination older-post"><a href="{{site.baseurl}}/assets/pdf/fluid-form-docs.pdf">project documentation<data data-icon="ei-arrow-down"></data></a></div> -->
