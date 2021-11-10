@@ -416,7 +416,7 @@ div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' 
 
 
 @media screen and (max-width: 760px) { body { padding-left: 5%; padding-right: 5%; }
-                                       p, hr, div.comment__new, .media-content, footer,div.mathblock { width: 100%; }
+                                       h1, h2, p, hr, div.comment__new, .media-content, footer,div.mathblock { width: 100%; }
                                        pre code { width: 87.5%; }
                                        ul, ol { width: 100%; }
                                        figure { max-width: 100%; }
