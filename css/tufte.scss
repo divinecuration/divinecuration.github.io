@@ -109,10 +109,10 @@ p > cite.epigraph {
 }
 
 
-body { width: 87.5%;
+body { width: 90%;
        margin-left: auto;
        margin-right: auto;
-       padding-left: 12.5%;
+       // padding-left: 12.5%;
        // font-family: $body-font;
        // font-family: helvetica;
        font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -202,7 +202,7 @@ blockquote p {  font-size: 1.1rem;
                 line-height: 1.78181818;
                 margin-top: 1.78181818rem;
                 margin-bottom: 1.78181818rem;
-                width: 45%;
+                width: 60%;
                 padding-left: 2.5%;
                 padding-right: 2.5%; }
 
@@ -210,12 +210,12 @@ blockquote p.epigraph {  font-size: 1.1rem;
                 line-height: 1.78181818;
                 margin-top: 3rem;
                 margin-bottom: 3rem;
-                width: 45%;
+                width: 60%;
                 padding-left: 2.5%;
                 padding-right: 2.5%;
                 font-style:italic }
 
-blockquote footer { width: 45%;
+blockquote footer { width: 60%;
                     text-align: right; }
 
 
@@ -283,7 +283,7 @@ th, td{ font-size: 1.2rem;
 /* TOC */
 
 .section-nav {
-  width: 55%;
+  width: 70%;
   padding: 10px 30px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
@@ -316,7 +316,7 @@ ol {
   list-style: decimal;
 }
 
-figure, figure img.maincolumn { max-width: 55%;
+figure, figure img.maincolumn { max-width: 70%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
          -webkit-margin-before: 1em;
@@ -384,7 +384,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, hr, ol, ul, div.table-wrapper, .media-content, div.comment__new, div.mathblock{ width: 55%; }
+p, footer, hr, ol, ul, div.table-wrapper, .media-content, div.comment__new, div.mathblock{ width: 70%; }
 li p {
   width: 100%;
 }
@@ -474,23 +474,21 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 header > nav.group, body footer {
   width: 95%;
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 
 nav.group a.active { font-weight: bold; }
-nav.group a.active:before{ content:"\0003e\000a0"; } // escaped unicode for the carats and then a space on active menu links
-nav.group a.active:after{ content:"\000a0\0003c" ;}
 
 header > nav  a{
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   font-family: $sans-font;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: $contrast-color;
-  padding-top: 1.5rem;
   text-decoration: none;
   display: inline-block;
   float: left;
+  padding-top: 0.3rem;
   margin-top: 0;
   margin-bottom: 0;
   padding-right: 2rem;
