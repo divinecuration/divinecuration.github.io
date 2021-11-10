@@ -35,7 +35,7 @@ Answer 1: There is no particular reason, that's just where we happen to be in th
 
 ## 7.
 
-Answer 2 (Yarvin's): Progressivism exists in a concrete lineage of thought that has its origins in Quakerism. (Similar points have been made by leftwing commenters, for example David Graeber [recently speculated](https://twitter.com/davidgraeber/status/1277184227734425600?s=20) about the links between cancel culture and Puritanism.) That it has become popular in bourgeois circles is a reflection of the virulence of the meme, which has found a host in those with most influence.
+Answer 2 (Yarvin's): Progressivism exists in a concrete lineage of thought that has its origins in Quakerism. (Similar points have been made by leftwing commenters, for example David Graeber [recently speculated](https://twitter.com/davidgraeber/status/1277184227734425600?s=20) about the links between 'cancel culture' and Puritanism.) That it has become popular in bourgeois circles is a reflection of the virulence of the meme, which has found a host in those with most influence.
 
 ## 8.
 
@@ -61,6 +61,5 @@ In Freinacht's model the transition from money capital to social capital represe
 
 Yarvin champions money capitalism as a means of liberation from prestige. Freinacht champions social capitalism as a means of liberation from money. Fisher doesn't see much difference between these views, and thinks that the mediation of value creation by any kind of market mechanism is sufficient to foreclose the possibility of liberation.
 
-# References
-
+## References
 {% bibliography --cited %}
