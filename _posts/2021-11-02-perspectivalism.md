@@ -6,7 +6,7 @@ categories: [hegel, metamodernism, epistemology, zizek]
 published: true
 ---
 
-Some follow up thoughts to an objection to perspectivalism I raised in [Against Metamodernism](https://samuelludford.medium.com/against-metamodernism-51be3cbbe751). What I'd like to do here is consider how a core theme from Hegelian dialectics---namely the experience of error---can inform this discussion, as it has taken shape in metamodernism and adjacent spaces.
+Some follow up thoughts to an objection to perspectivalism I raised in [Against Metamodernism](https://samuelludford.medium.com/against-metamodernism-51be3cbbe751). What I'd like to do here is consider how a core theme in Hegelian dialectics---namely the experience of error---can inform this discussion, as it has taken shape in metamodernism and adjacent spaces.
 
 <!--more-->
 
