@@ -2,7 +2,7 @@
 layout: post
 title: "Towards Antivitalism"
 date: 2021-05-31 05:23:00
-categories: [baudrillard, vitalism, land, eros, accelerationism, marx, desire]
+categories: [baudrillard, vitalism, land, eros, accelerationism, marx, desire, metamodernism]
 published: true
 toc: true
 ---
