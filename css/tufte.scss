@@ -34,7 +34,7 @@ html, body {
   // overflow-x: hidden;
  }
 
-@media screen and (max-width: 800px) { html, body{ overflow-x: hidden; } }
+@media screen and (max-width: 800px) { html, body{ max-width: 100%; overflow-x: hidden; } }
 // First significant deviation from CSS on tufte.css site - variable font size as browser width expands or contracts
 //html { font-size: 15px; }
 
