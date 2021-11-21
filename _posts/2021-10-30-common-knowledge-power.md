@@ -7,8 +7,6 @@ published: true
 toc: true
 ---
 
-## 1. Intro
-
 In this post I want to unravel some thoughts I've been mulling over for some time, concerning the relationship between critical approaches to power and the decision theoretic concept of 'common knowledge.' I've [touched on this before]({{site.baseurl}}/2021/02/04/five-to-nine.html) in relation to advertising, and was delighted to hear it brought up by Evan McMullen [on the Meta-Ideological podcast](https://www.youtube.com/watch?v=xDieFFU5e2g). This relationship seems to me to provide the key to understanding the deep sense of political and cultural inertia that is so characteristic of the present moment. One approach to this inertia is to consider it as a deterioration of collective agency, or a kind of generalised coordination failure. This deterioration can in turn be made precise by analysing it as _a failure of common knowledge production_. In this way, deep questions about political horizons can be linked to the kind of media theoretic concerns that impinge on common knowledge. (I won't rehash any of this here, but a detailed account of the relationship between common knowledge and coordination can be found [in this LessWrong post](https://www.lesswrong.com/posts/9QxnfMYccz9QRgZ5z/the-costly-coordination-mechanism-of-common-knowledge).)
 
 <!--more-->
@@ -17,7 +15,7 @@ In the discussion, the point made was that power is often exercised through 'inf
 
 The point I want to make is that while information blocking does represent one form of strategic power, it is by no means the only one. This is because there are other ways of inhibiting common knowledge production. Moreover, I would argue that information blocking is not the dominant form of power in operation today. Once the alternatives have been appreciated, I believe this should leave us wary of claims that straightforwardly link increased collective agency to the liberation of information flows. The comments in the discussion were brief, so I do not know whether the line of thought I'll pursue here is in tension with or perpendicular to Evan McMullen's position---at any rate, there is a whole cluster of issues here that are well worth exploring.
 
-## 2. Power Trips
+## 1. Power Trips
 
 The point can be approached by first considering the notions of 'sovereign' and 'disciplinary' power, theorised famously by Foucault {% cite foucault-dp %}. For Foucault, these categories represented two fundamentally different forms of power---sovereign power is an exercise in sheer coercive force, while a disciplinary apparatus operates by strategically shaping the norms that individuals apply to themselves. But in his excellent book _Rational Ritual_, Michael Chwe uses the concept of common knowledge to show that these two forms of power are not as different as they appear to be {% cite chwe %}.
 
@@ -31,7 +29,7 @@ Chwe's argument---that power should be understood in terms of the rational manip
 
 The above reflections gesture to another, wholly different form that power can take: the pure destruction of common knowledge, or the outright inhibition of the production of any common knowledge at all. The result of this would be a radically uncoordinated population, a collection of independent atoms lost in Brownian motion. Such a population, because uncoordinated, would be infinitely susceptible to various kinds of statistical nudging and modulation---techniques collected by Deleuze under the heading of 'control societies,' and explicitly identified as a new regime of power distinct from and in the process of replacing Foucault's disciplinary apparatuses {% cite deleuze-control %}. The destruction of common knowledge _per se_ is not achieved by information blocking, but by information flooding---this, I would suggest, is the primary source of the political disempowerment endemic today. This is also why we should be wary of attempts to naively liberate or unblock information flows---they risk playing directly into the hands a regime of power for whom information transparency, rapid dissemination, and ultimately a paralysing excess, is the operative principle.
 
-## 3. The Divine Plight of Kings
+## 2. The Divine Plight of Kings
 
 The idea is fundamentally very simple: the more information there is floating around in public space the harder it becomes to know what other people know (even if it's all good information), i.e. the harder it will be to establish common knowledge. There's nothing mysterious about this: it's just combinatorics. But before unpacking what this means in practice, it's worth clarifying a few things. Firstly, I've started putting scare quotes around the 'knowledge' in common 'knowledge,' because to play the role it does in coordination, common 'knowledge' does not even have to be true. On this basis it might be tempting to start speaking about 'common belief' instead, but as it turns out---and this is even weirder---to play the role it does in coordination, common 'knowledge' does not even have to be _believed_. The point is made succinctly by David Lewis:
 
@@ -49,7 +47,7 @@ Well, no. If the king says "the divine right of kings is a load of shit actually
 
 The conviction motivating this post (Baudrillardian through and through) is that the disempowerment distinctive of contemporary inertia has far more in common with the disempowerment of the king than with the disempowerment of his subjects. We do not live in a world where power is wielded under the sign of omerta. It simply does not need to be--it is far more efficient than that. We live, rather, in a world where the 'taboos' of power are constantly and incessantly being pointed out, and in response everyone goes "haha good one"---then carries on as before.
 
-## 4. Bad Metadata
+## 3. Bad Metadata
 
 What does it mean for a message to have 'bad metadata'? What even is metadata in this context? Consider the difference between seeing an ad during the Super Bowl and encountering the same ad randomly on the internet. Their content is identical, but their metadata is different: when you see it during the Super Bowl you also know that many other people are seeing it, whereas on the internet you have no idea. Watching a Super Bowl ad is like receiving an email that you can see has been cc'd to 90 million other people. Metadata is independent of content, containing only information about context. This 2nd-order, contextual information often has critical implications for common knowledge and coordination. Chwe, for example, argues that the reason advertising spots at the Super Bowl are so sought after is precisely because of this metadata: knowing that many others have received the same information as you is crucial if you are considering buying, say, a new communications technology, something which will be useless unless many others also buy it (here we might think of Apple's famous [Super Bowl commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA) from 1984).
 
