@@ -16,5 +16,7 @@ published: false
 
 > The desire for events to converge is greater than the fear of the event itself---the desire to see causal logic dismantled, a logic which we find deeply repellant, even if we obey the dominant moral imperative and speak in causal terms. We dream of seeing things strung together by a secret logic, entirely independent of our wills. {% cite IE -l 114 %}
 
+> [E]vil is not in any sense the opposite of Good, and seeing the one as the mirror-image of the other is an optical illusion. Only Good posits itself as such; Evil does not posit itself at all. Like the Nothing, of which it is the analogon, it is perfect because it is opposed to nothing. Good and Evil, like masculine and feminine, are asymmetric: they are not the mirrors, nor the complements, nor the opposites of each other. The relation between them might, rather, be described as ironic. One of the terms scoffs at the other and its own positing. In all essentials, they are not comparable. This is where the weakness of all analysis in terms of 'difference' lies. Asymmetric terms do not leave room for a 'difference'. Evil is more than different, since it does not measure itself against the Good, and thus leaves us no choice. {% cite IE -l 127 %}
+
 ## References
 {% bibliography --cited %}

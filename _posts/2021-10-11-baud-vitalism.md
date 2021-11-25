@@ -28,5 +28,14 @@ published: false
 
 > Foucault unmasks all the final or causal illusions concerning power, but he does not tell us anything _concerning the simulacrum of power itself_. Power is an irreversible principle of organization because it fabricates the real (always more and more of the real), effecting a quadrature, nomenclature, and dictature without appeal; nowhere does it cancel itself out, become entangled in itself, or mingle with death. In this sense, even if it has no finality and no last judgment, power returns to its own identity again as a _final principle_: it is the last term, the irreducible web, the last tale that can be told; it is what structures the indeterminate equation of the word. {% cite baudrillard-foucault -l 50 %}
 
+> Neither an agency (_instance_), a structure, a substance, nor in fact a force relation, power is a challenge. From the power puppet of primitive societies which talks but has nothing to say to the current form of power which is there only to exorcise the absence of power, a whole cycle has been covered which is one of a double challenge, the challenge of power against all of society and the challenge against those who hold power. This is the secret history both of power and its catastrophe. {% cite baudrillard-foucault -l 59 %}
+
+> All forms of power have endeavored to camouflage this fundamental challenge in the form of force relations such as dominator/ dominated and exploiter/exploited, thereby channeling all resistance into a frontal relation (even reduced to microstrategies, this conception still dominates in Foucault: the puzzle of guerilla warfare has simply been substituted for the chessboard of classical battle). For in terms of force relations, power always wins, even if it changes hands as revolutions come and go. {% cite baudrillard-foucault -l 60 %}
+
+> But it is doubtful if anyone has ever thought it possible to exorcise power by force. Rather, each person knows deep down that any form of power is a personal challenge, a challenge to the death, and one that can only be answered by a counterchallenge to break the logic of power or, even better, to enclose it in a circular logic. Such is the nature of this counterchallenge nonpolitical, nondialectical, and nonstrategic-but whose strength throughout history has nonetheless been incalculable: this is the challenge which dares those who hold power to exercise it to the limit and which can only spell death for those who are dominated. A challenge to power to be power, power of the sort that is total, irreversible, without scruple, and with no limit to its violence. No form of power dares go that far (to the point where in any case it too would be destroyed). And so it is facing this unanswerable challenge that power starts to break up. {% cite baudrillard-foucault -l 60--61 %}
+
+
+
+
 ## References
 {% bibliography --cited %}

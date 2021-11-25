@@ -10,7 +10,7 @@ This is a quick note on Deleuze's critique of Hegel, or at least on one popular 
 
 <!--more-->
 
-The critique in question concerns the understanding of the principle of difference that grounds processes of real change (and the emergence of novelty). To illustrate, here is a passage from [the Deleuze entry](https://plato.stanford.edu/entries/deleuze/#DelReaOthPhi) in the Stanford Encyclopedia of Philosophy:
+The critique in question concerns the understanding of the principle of difference that grounds processes of change and the emergence of novelty. To illustrate, here is a passage from [the Deleuze entry](https://plato.stanford.edu/entries/deleuze/#DelReaOthPhi) in the Stanford Encyclopedia of Philosophy:
 
 > Deleuze’s anti-Hegelianism is shown in his focus on the productivity of the non-dialectical (“affirmative”) differential forces termed by Nietzsche “noble.” These forces affirm themselves, and thereby differentiate themselves first, and only secondarily consider that from which they have differentiated themselves.
 
