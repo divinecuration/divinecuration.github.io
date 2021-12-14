@@ -6,7 +6,7 @@ categories: [coordination, agency, superrationality, kant, land, crypto]
 published: true
 ---
 
-A while back Nate Coffman published [a great post](https://ncoffman96.medium.com/designing-resonant-forms-of-social-organization-949a93bc1e97) on mechanism design (among other things), to which I added a rather cryptic comment. I subsequently started drafting a post which expanded on the comment, then immediately descended down a massive rabbit hole---here I'd like to reign that in and briefly hash out the quick-and-dirty version of the point. I'll make a distinction between two different kinds of coordination, then argue that one them gets obscured in many common framings of coordination failure and its solutions. I believe this has some worrying long term implications.
+A while back Nate Coffman published [a great post](https://ncoffman96.medium.com/designing-resonant-forms-of-social-organization-949a93bc1e97) on mechanism design (among other things), to which I added a rather cryptic comment. I subsequently started drafting a post which aimed to expand on it, but immediately descended down a massive rabbit hole and didn't get anywhere---here I'd like to reign that in and briefly hash out the quick-and-dirty version of the point. I'll make a distinction between two different kinds of coordination, then argue that one them gets obscured in many common framings of coordination failure and its solutions. I believe this has some worrying long term implications.
 
 <!--more-->
 
