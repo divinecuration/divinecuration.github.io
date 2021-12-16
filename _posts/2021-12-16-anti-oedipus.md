@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deleuze & Guattari on Capitalism"
-date: 2021-12-14 05:23:00
+date: 2021-12-16 05:23:00
 categories: [capitalism, deleuze, desire, marx, vitalism]
 published: true
 ---
