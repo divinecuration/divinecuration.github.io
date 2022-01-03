@@ -2,7 +2,7 @@
 layout: post
 title: "Baudrillard's Subject"
 date: 2022-01-03 05:23:00
-categories: [baudrillard]
+categories: [baudrillard, agency, autonomy, brandom, brecht, capitalism, debord, desire, difference, ethics, fetishism, hegel, kant, legitimacy, marx, normativity, representation, subjectivity, value, wittgenstein]
 published: true
 toc: true
 ---
