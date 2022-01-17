@@ -83,7 +83,7 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 > At the beginning of the analysis, just as at the beginning of every dialectic, this being, if it does exist implicitly, in a virtual fashion, is not realised. For the naive, for someone who has never entered into any dialectic and believes himself simply to be in the real, being has no presence. The speech included in discourse is revealed thanks to the law of association by which it is put in doubt, in brackets, through suspending the law of non-contradiction. This revelation of speech is the realisation of being. {% cite lacan-sem-1 -l 271 %}
 
-## Against Jung
+## 8. Against Jung
 
 > Augustine's main objection [in De Magistro] to the inclusion of the domain of truth within the domain of signs is, he says, that very often subjects say things which go much further than what they think, and that they are even capable of of owning the truth while not adhering to it. {% cite lacan-sem-1 -l 266 %}
 
@@ -95,7 +95,7 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 > Reality is defined by contradiction. Reality is what makes it so that when I am here, you, my lady, cannot be in the same place. It is not clear why the unconscious should escape this type of contradiction. What Freud means when he talks about the suspension of the principle of non-contradiction in the unconscious is that the genuine speech that we are supposed to uncover, not through observation, but through interpretation, in the symptom, in the dream, in the slip, in the _Witz_, obeys laws other than those of discourse, which is subject to the condition of having to move within error up to the moment when it encounters contradiction. Authentic speech has other modes, other means, than eveyrday speech. {% cite lacan-sem-1 -l 267 %}
 
-## On Love
+## 9. On Love
 
 > Love is distinct from desire, considered as the limit-relation which is established by every organism with the object which satisfies it. Because its aim is not satisfaction, but being. That is why one can only speak of love where the symbolic relation as such exists. {% cite lacan-sem-1 -l 276 %}
 
@@ -103,7 +103,7 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 > The desire to be loved is the desire that the loving object should be taken as such, caught up, enslaved to the absolute particularity of oneself as object. The person who aspires to be loved is not at all satisfied, as is well known, with being loved for his attributes. He demands to be loved as far as the complete subversion of the subject into a particularity can go, and into whatever may be most opaque, most unthinkable in this particularity. One wants to be loved for everything—not only for one's ego, as Descartes says, but for the color of one's hair, for one's idiosyncracies, for one's weaknesses, for everything. {% cite lacan-sem-1 -l 276 %}
 
-## The Imaginary Register
+## 10. The Imaginary Register
 
 > The function of the imaginary is not at all overlooked in analytic theory, but to introduce it only in order to deal with transference is to pull the wool over both eyes, because it is present everywhere, and in particular whenever identification is at issue. {% cite lacan-sem-1 -l 281 %}
 
