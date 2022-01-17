@@ -3,7 +3,7 @@ layout: post
 title: "An Obligatory Jordan Peterson Poast"
 date: 2022-01-16 05:23:00
 categories: [capitalism, deleuze, desire, marx, vitalism]
-published: true
+published: false
 ---
 
 I'm a bit loath to do this as I try to avoid culture wars stuff like the deathly anthrax that it is, however in the case of Jordan Peterson I can't shake the sense that the symptom he represents is far from finished being read and integrated, especially by the left. I made a [Twitter thread](https://twitter.com/divinecuration/status/1412385714063515652) which laid out some broad thoughts on this a while back, and figured it's time to exorcise this demon for good. I'll consider what are commonly taken to be some good criticisms of JBP and why they don't quite manage to find their mark, some broader political questions this points to, and finally some positive responses that can be drawn from these thoughts.
