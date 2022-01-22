@@ -27,9 +27,15 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 ## 3. The Ego and the Subject
 
+Criticising one common view of the ego which sees it as something like a muscle, an organ of sheer self-mastery (i.e. a matter of an immediate self-relation):
+
 > That is how […] one whole trend of analysis have come to think that, either the _ego_ is strong, or else it is weak. And if it is weak, they are obliged, by the internal logic of their position, to think it has to be strengthened. As soon as one holds the _ego_ to be the straightforward exercising of self-mastery by the subject, the high point of the hierarchy of the nervous functions, one is completely committed to the task of teaching it to be strong. {% cite lacan-sem-1 -l 193 %}
 
+According to Lacan the ego is rather something mediated through the specular relation.
+
 > The fundamental fact which analysis reveals to us and which I am teaching you, is that the _ego_ is an imaginary function. {% cite lacan-sem-1 -l 193 %}
+
+Contrasting this with the subject:
 
 > If the _ego_ is an imaginary function, it is not to be confused with the subject. What do we call the subject? Quite precisely, what, in the development of objectivation, is outside of the object. {% cite lacan-sem-1 -l 193--194 %}
 
@@ -37,15 +43,19 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 > Well, the dimension of the speaking subject, of the speaking subject _qua_ deceiver, is what Freud uncovered for us in the unconscious. {% cite lacan-sem-1 -l 194 %}
 
-> In science, the subject is only sustained, in the end, on the plane of consciousness, since the subject _x_ in science is in fact the scientist. It is whoever possesses the system of the science that sustains the dimension of the subject. He is the subject, in so far as he is the reflection, the mirror, the support of the objectal world. In contrast, Freud shows us that in the human subject there is something which speaks, which speaks in the full sense of the word, that is to say something which knowlingly lies, and without the contribution of consciousness. {% cite lacan-sem-1 -l 194 %}
+> In science, the subject is only sustained, in the end, on the plane of consciousness, since the subject _x_ in science is in fact the scientist. It is whoever possesses the system of science that sustains the dimension of the subject. He is the subject, in so far as he is the reflection, the mirror, the support of the objectal world. In contrast, Freud shows us that in the human subject there is something which speaks, which speaks in the full sense of the word, that is to say something which knowlingly lies, and without the contribution of consciousness. {% cite lacan-sem-1 -l 194 %}
 
 > By the same token, this dimension is no longer confused with the _ego_. The ego is deprived of its absolute position in the subject. The _ego_ acquires the status of a mirage, as the residue, it is only one element in the objectal relations of the subject. {% cite lacan-sem-1 -l 194 %}
 
 ## 4. The Super-Ego
 
+Outlining the common ‘hydraulic’ conception of the unconscious:
+
 > In general, the super-ego is always thought of within the register of a tension, and this tension is within a hair of being reduced down to purely instinctual principles, like primary masochism for example. Such a conception is not alien to Freud. Freud goes even further. In the article _Das Ich und das Es_, he maintains that the more the subject suppresses his instincts, that is to say, if you wish, the more moral his conduct is, and the more the super-ego exacerbates its pressure, the more severe, demanding and imperious it becomes. {% cite lacan-sem-1 -l 196 %}
 
-> As a counter to this conception, the following may be apt. In a general fashion, the unconscious is, in the subject, a schism of the symbolic system, a limitation, an alienation induced by the symbolic system. The super-ego is an analogous schism, which is produced in the symbolism system integrated by the subject. This symbolic world is not limited to the subject, because it is realised in a language which is the common language, the universal symbolic system, in so far as it establishes its empire over a specific community to which the subject belongs. The super-ego is this schism as it occurs for the subject—but not only for him—in his relations with what we will call the law. {% cite lacan-sem-1 -l 196 %}
+And a different one:
+
+> As a counter to this conception, the following may be apt. In a general fashion, the unconscious is, in the subject, a schism of the symbolic system, a limitation, an alienation induced by the symbolic system. The super-ego is an analogous schism, which is produced in the symbolic system integrated by the subject. This symbolic world is not limited to the subject, because it is realised in a language which is the common language, the universal symbolic system, in so far as it establishes its empire over a specific community to which the subject belongs. The super-ego is this schism as it occurs for the subject—but not only for him—in his relations with what we will call the law. {% cite lacan-sem-1 -l 196 %}
 
 ## 5. Sadism and the Gaze
 
@@ -65,7 +75,7 @@ A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Pa
 
 ## 7. Speech, Being and the Real
 
-> The he instauration of the lie in reality is brought about by speech. And it is precisely because it introduces what isn't, that it can also introduce what is. Before speech, nothing either is or isn't. Everything is already there, no doubt, but it is only with speech that there are things which are—which are true and false, that is to say which are—and things which are not. Truth hollows out its way into the real thanks to the dimension of speech. There is neither true nor false prior to speech. Truth is introduced along with it, and so is the lie, and other registers as well. […] the very act of speech, which founds the dimension of truth, always remains, by this fact, behind, beyond. Speech is in its essence ambiguous. {% cite lacan-sem-1 -l 228--229 %}
+> The instauration of the lie in reality is brought about by speech. And it is precisely because it introduces what isn't, that it can also introduce what is. Before speech, nothing either is or isn't. Everything is already there, no doubt, but it is only with speech that there are things which are—which are true and false, that is to say which are—and things which are not. Truth hollows out its way into the real thanks to the dimension of speech. There is neither true nor false prior to speech. Truth is introduced along with it, and so is the lie, and other registers as well. […] the very act of speech, which founds the dimension of truth, always remains, by this fact, behind, beyond. Speech is in its essence ambiguous. {% cite lacan-sem-1 -l 228--229 %}
 
 > Symmetrically, the hole, the gap of being as such is hollowed out in the real. The notion of being, as soon as we try to grasp it, proves itself to be as ungraspable as that of speech. Because being, the very verb itself, only exists in the register of speech. Speech introduces the hollow of being into the texture of the real, the one and the other holding on to and balancing each other, exactly correlative. {% cite lacan-sem-1 -l 229 %}
 
