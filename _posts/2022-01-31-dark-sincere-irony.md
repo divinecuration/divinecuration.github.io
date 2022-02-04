@@ -2,7 +2,7 @@
 layout: post
 title: "The Other Face of Sincere Irony"
 date: 2022-01-31 05:23:00
-categories: [metamodernism]
+categories: [metamodernism, affect, inertia, normativity]
 published: true
 ---
 
