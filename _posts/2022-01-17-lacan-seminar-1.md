@@ -7,7 +7,7 @@ published: true
 toc: true
 ---
 
-A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Papers on Technique (1953-1954).
+A collection of extracts from The Seminar of Jacques Lacan Book I, on Freud's Papers on Technique (1953-1954). I was surprised at how much exposition of key Lacanian terms there was in what is ostensibly just a commentary on one particular portion of Freud's work, but this was really very good. I've struggled to find a way into Lacan in the past—turns out the answer was to start at the beginning. 
 
 <!--more-->
 
