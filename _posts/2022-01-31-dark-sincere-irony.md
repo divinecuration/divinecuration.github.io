@@ -6,7 +6,7 @@ categories: [metamodernism]
 published: true
 ---
 
-Recently I came across a GDC talk by Leighton Gray, which was shared with some approval in a Discord server I'm a member of. The talk is ostensibly about game design and marketing, but it also doubles as a sort of metamodernism 101 and is largely focused on the topic of sincere-irony. The most interesting thing about it for me is the particular way it takes up this topic: it is neither an attempt at detached cultural analysis, nor does it present a world-historical vision—it is focused in on the far more nuts and bolts realm of product design. The fundamental question it is addresses is what can be _done_ with sincere-irony, on the small and personal scales, and in this respect it is an extremely instructive example of how people thinking about putting this idea into practice.
+Recently I came across a GDC talk by Leighton Gray, which was shared with some approval in a Discord server I'm a member of. The talk is ostensibly about game design and marketing, but it also doubles as a sort of metamodernism 101 and is largely focused on the topic of sincere-irony. The most interesting thing about it for me is the particular way it takes up this topic: it is neither an attempt at detached cultural analysis, nor does it present a world-historical vision—it is focused in on the far more nuts and bolts realm of product design. The fundamental question it is addresses is what can be _done_ with sincere-irony, on the small and personal scales, and in this respect it is an extremely instructive example of how this is supposed to work in practice.
 
 {% include youtube.html id="Ov78c0Kek84" %}
 
