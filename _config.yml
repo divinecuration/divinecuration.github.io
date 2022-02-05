@@ -27,7 +27,7 @@ post:
 page:
   template: _page.txt
   extension: md
-paginate: 10
+paginate: 20
 git:
   branch: src
 plugins:
