@@ -3,7 +3,7 @@ layout: post
 title: "Lyotard on Baudrillard"
 date: 2022-02-18 05:23:00
 categories: [baudrillard, lyotard, desire]
-published: true
+published: false
 ---
 
 Some notes on a criticism of Baudrillard's symbolic exchange made by Lyotard in Libidinal Economies. The point is one that cuts to the heart of their disagreements, and responding to it (as I think it is possible to) is a a great way of getting a clearer view of Baudrillard's position. Here is Lyotard:
