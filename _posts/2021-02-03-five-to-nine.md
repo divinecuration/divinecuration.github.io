@@ -6,11 +6,7 @@ categories: [coordination, common knowledge, strategy, fisher]
 published: true
 ---
 
-It seems Squarespace have upped their cynical advertising game, perhaps surpassing last year's [A Website Makes it Real]({{site.baseurl}}/2020/05/10/the-public-real.html) campaign with a new Super Bowl commercial that overlays a reworked version of Dolly Parton's 9 to 5 on a horrorshow romanticisation of boundless productivity and eternal work (sorry. . . _side-hustle_):
-
-<!--more-->
-
-{% include youtube.html id="v4FYL8twE6Q" %}
+It seems Squarespace have [upped their cynical advertising game](https://www.youtube.com/watch?v=_t2dphXn32E), perhaps surpassing last year's [A Website Makes it Real]({{site.baseurl}}/2020/05/10/the-public-real.html) campaign with a new Super Bowl commercial that overlays a reworked version of Dolly Parton's 9 to 5 on a horrorshow romanticisation of boundless productivity and eternal work (sorry. . . _side-hustle_).
 
 What's striking about this advert is not so much the bleak messaging as its self-awareness. It is deliberately cynical, and this makes criticising the message feel utterly pointless. Critique, it might be argued, brings agency only if it pierces an illusion to reveal a hidden truth. But Squarespace is not trying to create the illusion that something bleak is empowering. This advert does not pretend---it _pretends to pretend_. To earnestly dissect the content as distorting a bleak reality would be to treat it as a straightforward pretence---but to do this is just to become complicit in the 2nd-order pretence. What's the point?
 
