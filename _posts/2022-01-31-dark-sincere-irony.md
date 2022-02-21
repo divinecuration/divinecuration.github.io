@@ -6,7 +6,7 @@ categories: [metamodernism, affect, inertia, normativity]
 published: true
 ---
 
-I recently saw this GDC talk by Leighton Gray, which was shared with some approval in a Discord server I'm a member of. The talk is ostensibly about game design and marketing, but it also doubles as a sort of metamodernism 101 and is largely concerned with the topic of sincere-irony. What's interesting for me is the way it takes up this topic: it is neither an attempt at non-interventional cultural analysis, nor does it present a world-historical vision—it is focused rather on the far more nuts and bolts realm of product design. The fundamental question it is addresses is what can be _done_ with sincere-irony, on the small and personal scales, and in this respect it is an extremely instructive example of how this is supposed to work in practice.
+I recently saw this GDC talk by Leighton Gray, which was shared with some approval in a Discord server I'm a member of. The talk is ostensibly about game design and marketing, but it also doubles as a sort of metamodernism 101 and is largely concerned with the topic of sincere-irony. What's interesting for me is the way it takes up this topic: it is neither an attempt at non-interventional cultural analysis, nor does it present a world-historical vision—it is focused rather on the far more nuts and bolts realm of product design. The fundamental question it addresses is what can be _done_ with sincere-irony, on the small and personal scales, and in this respect it is an extremely instructive example of how this is supposed to work in practice.
 
 {% include youtube.html id="Ov78c0Kek84" %}
 
