@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Depth and Surface (a Critique of Vermeulen and van der Akker's Metamodernism)"
-date: 2022-02-23 05:23:00
+date: 2022-04-26 05:23:00
 categories: [metamodernism]
 published: false
 ---
