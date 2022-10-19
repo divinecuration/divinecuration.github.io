@@ -10,7 +10,7 @@ I'm just catching up on some overdue blog admin, and realised I hadn't got aroun
 
 We talked about structuralist and humanist approaches to social change, and my argument against the common perception that humanist approaches tend to be more optimistic than structuralist ones. Then we got into the relationship between structural approaches in critical theory and coordination problems, mechanism design, and decision theory. This set the stage for a whole bunch of other things, including politics in the internet age, the relevance (or not) of developmental psychology to social change, commodity fetishism, and even a bit of Kant.
 
-{% include youtube.html id="O7YYx5UbxT0&t" %}
+{% include youtube.html id="O7YYx5UbxT0" %}
 
 Here's some posts relevant to the discussion:
 
