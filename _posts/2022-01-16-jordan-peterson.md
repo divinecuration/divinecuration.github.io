@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Obligatory Jordan Peterson Poast"
-date: 2022-01-16 05:23:00
+date: 2022-10-23 05:23:00
 categories: [capitalism, deleuze, desire, marx, vitalism]
 published: false
 ---
