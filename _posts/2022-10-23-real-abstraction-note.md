@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Note on Real Abstraction"
+date: 2022-10-23 05:23:00
+categories: []
+published: true
+---
+
+In this post I'll jot down some thoughts triggered a point raised by Alberto Toscano in his Foreign Objekt workshop, [Towards a Realism of the Abstract](https://www.foreignobjekt.com/post/alberto-toscano-towards-a-realism-of-the-abstract-1). This point concerns the social abstraction said to be implicit in the commodity form of value, or exchange under universal equivalence. To put it simply, the question Toscano raises is this: should we expect the social abstraction (where ‘abstraction’ here refers to the indifferent or formal quality of exchange mediated by a universal equivalent) to show up in the material qualities of labour products themselves?
+
+It has often been assumed uncritically that the answer must be yes—going back to the 1970’s, for instance, people like Guy Debord could be found lamenting the loss of local character from cured sausages with the rise of the new supermarkets, tempting us to conclude that the social abstraction is something which could manifest directly, as it were—as a homogeneity in the product. Toscano cautions against this view. While consumerism may have been a homogenising force from the perspective of a rich food culture like France or Italy, in other places—like the UK, for instance, where postwar food was awful—consumerism has undoubtedly brought about a huge diversification in eating habits and options. But if this is true, then the homogeneity observed by Debord cannot have been necessitated by the abstract character of exchange in itself.
+
+Toscano is making a simple but good point here, one that can guard against the tendency of some anti-capitalists to insist that anything produced by a consumer markets _must_ be junk, when clearly much of it isn't. Sticking with our theme, consider the hipster food market. It is most certainly a product of capitalist dynamics—perhaps it is the ultimate expression of bourgeois consumption—but you would be in a strange position if your theoretical position forced you to claim that all this food was bad. Typically they offer all sorts of niche cuisines cooked with high quality produce, expensive no doubt but also materially good. The quality of social abstraction here therefore seems to have nothing to do with the products themselves, which if anything are heterogeneous and rich. The abstraction manifests instead at the level of social relation—despite the diversity of cuisines on offer somehow it is all divorced from any particular custom or ritual, where the consumer floats freely from stall to stall, a tourist impossible to locate in any particular cultural context.

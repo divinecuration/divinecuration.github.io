@@ -15,10 +15,5 @@ What is the content of this perhaps apocryphal claim? What is the function of a 
 But in fact the claim is more nuanced than this. The suggestion is not just that the symbolic function is lost when the symbol is recognised as a _mere_ symbol, or a symbol _of_ something, but when it is recognised as a symbol _full stop_. In this sense, then, it is not enough to be a conscious literalist: to adopt a self-consciously literalist reading of a symbol is to first recognise it as a symbol before identifying it with its referent—it is only on the basis of such a logical ordering that the literalist is able to grasp the content of their disagreement with the allegorist. The claim here is more startling: it is saying, rather, that the symbol loses its function the moment it becomes possible to meaningfully _distinguish_ between its literal and allegorical meanings. According to our slogan, then, is is all of us who have lost access to the symbolic force of the Eucharist, no matter how hard we strain for it. To be under the influence of such force one must exist in a space prior to the possibility of thinking the disjunction between the literal and the allegorical.
 
 
-
-
-
-
-
 ## References
 {% bibliography --cited %}
