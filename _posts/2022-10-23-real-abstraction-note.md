@@ -3,7 +3,7 @@ layout: post
 title: "Note on Real Abstraction"
 date: 2022-10-23 05:23:00
 categories: []
-published: true
+published: false
 ---
 
 In this post I'll jot down some thoughts triggered a point raised by Alberto Toscano in his Foreign Objekt workshop, [Towards a Realism of the Abstract](https://www.foreignobjekt.com/post/alberto-toscano-towards-a-realism-of-the-abstract-1). This point concerns the social abstraction said to be implicit in the commodity form of value, or exchange under universal equivalence. To put it simply, the question Toscano raises is this: should we expect the social abstraction (where ‘abstraction’ here refers to the indifferent or formal quality of exchange mediated by a universal equivalent) to show up in the material qualities of labour products themselves?
