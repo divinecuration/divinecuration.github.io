@@ -3,7 +3,7 @@ layout: post
 title: "Gap Yah Garage"
 date: 2022-12-11 05:23:00
 categories: [subculture, value, zizek]
-published: true
+published: false
 ---
 
 While browsing for music yesterday I came across a blurb for the new Objekt record which begins, “Arriving in a vein of streamlined, technofied reductions of the dancehall meter explored by likes of Livity Sound, Rhyw, Simo Cell and more, ‘Objekt #5’ sees Objekt keep abreast of prevailing currents after everyone, including him, got a bit bored of the same electro and gap yah garage beats prior to the pandemic.” This is not the first time I've encountered this complaint about ‘gap yah garage,’ and anyone who's been paying attention to electronic music in the UK will be familiar with its target: a slick and stripped back modern iteration of UK garage, spearheaded by a certain group of white university kids, undoubtedly talented yet coming from somewhere very different from the working class and racially diverse London rave scene of the 1990's where the genre originated. While the targets of this complaint are often left unnamed, it is clear that at the bullseye lies the likes of Hessle Audio and its roster:
