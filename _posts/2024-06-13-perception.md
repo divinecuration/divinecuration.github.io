@@ -6,7 +6,7 @@ categories: [hegel]
 published: true
 ---
 
-At the start of the Perception chapter, consciousness has stepped out from the passivity of Sense-Certainty into in a position in which it grasps objects in terms of universals: properties that might be shared with other objects. But there is an important constraint on the kind of universality available to it. Hegel articulates this constraint perhaps most clearly in &#167;129, a summary paragraph towards the end of the chapter.
+At the beginning of the Perception chapter, consciousness finds itself in a position to grasp objects in terms of universals: properties that might be shared with other objects. But there is an important constraint on the kind of universality available to it. Hegel articulates this constraint perhaps most clearly in &#167;129, a summary paragraph towards the end of the chapter.
 
 > From out of sensuous being, [the object] becomes a universal, but since it _emerged from out of the sensuous_, this universal is essentially _conditioned_ by the sensuous and is thus not truly self-equal. Rather, it is a universality affected _with an opposition_, which for that reason is separated into the extremes of singularity and universality, of the _One_ of properties and of the _Also_ of the free-standing matters. {% cite phenom -l 77 %}
 
