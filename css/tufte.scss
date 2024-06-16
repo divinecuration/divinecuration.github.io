@@ -46,11 +46,11 @@ html{
     zoom: 75%;
 }
 
-@media screen and (max-width: 800px) { html{ font-size: 12px; } }
+// @media screen and (max-width: 800px) { html{ font-size: 12px; } }
 
-@media screen and (min-width: 800px){ html{ font-size: 12px;} }
+@media screen and (min-width: 800px){ html{ font-size: 14px;} }
 
-@media screen and (min-width: 900px){ html{ font-size: 13px;} }
+@media screen and (min-width: 900px){ html{ font-size: 14px;} }
 
 @media screen and (min-width: 1000px){ html{ font-size: 14px;} }
 
