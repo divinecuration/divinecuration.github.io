@@ -52,6 +52,6 @@ As a final comment, I just want to mention something Hegel says at the very end 
 
 ## Notes
 
-[^1]: Anyone concerned that colours don't have true opposites will be pleased to know that there's plenty out there who have sweated the details to come up with a version of this argument that actually makes sense—see [Inverted Qualia](https://plato.stanford.edu/entries/qualia-inverted/) for more.
+[^1]: Anyone concerned that colours don't have true opposites will be pleased to know there's plenty out there who have sweated the details to come up with a version of this argument that actually makes sense—see [Inverted Qualia](https://plato.stanford.edu/entries/qualia-inverted/) for more.
 
 
