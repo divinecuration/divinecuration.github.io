@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Note on Category Theory | divine curation</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Note on Category Theory" />
+<meta name="author" content="Divine Curation" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first had some contact with category theory several years ago while studying computability, logic, and set theory. At the time I had some difficulty seeing what conceptual resources it could offer (to either the foundations of mathematics or philosophy) that weren’t already present in set theory. Recently there’s been several strings tugging at me to take another look at it—relationships drawn between Kant’s logic and type theory, for example, or Badiou’s appeal to topos theory in the Logics of Worlds (which I have not read)." />
+<meta property="og:description" content="This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first had some contact with category theory several years ago while studying computability, logic, and set theory. At the time I had some difficulty seeing what conceptual resources it could offer (to either the foundations of mathematics or philosophy) that weren’t already present in set theory. Recently there’s been several strings tugging at me to take another look at it—relationships drawn between Kant’s logic and type theory, for example, or Badiou’s appeal to topos theory in the Logics of Worlds (which I have not read)." />
+<meta property="og:site_name" content="divine curation" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-01-15T06:23:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Note on Category Theory" />
+<meta name="twitter:site" content="@divinecuration" />
+<meta name="twitter:creator" content="@Divine Curation" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Divine Curation"},"dateModified":"2021-01-15T06:23:00+01:00","datePublished":"2021-01-15T06:23:00+01:00","description":"This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first had some contact with category theory several years ago while studying computability, logic, and set theory. At the time I had some difficulty seeing what conceptual resources it could offer (to either the foundations of mathematics or philosophy) that weren’t already present in set theory. Recently there’s been several strings tugging at me to take another look at it—relationships drawn between Kant’s logic and type theory, for example, or Badiou’s appeal to topos theory in the Logics of Worlds (which I have not read).","headline":"Note on Category Theory","mainEntityOfPage":{"@type":"WebPage","@id":"/2021/01/15/logic-notes.html"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/logo/logo.png"},"name":"Divine Curation"},"url":"/2021/01/15/logic-notes.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <title>Note on Category Theory</title>
+  <meta name="description" content="This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first had some contact with category theory sever...">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  
+
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <link rel="stylesheet" type="text/css" href="/css/latex.css">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="/2021/01/15/logic-notes.html">
+
+  <link rel="alternate" type="application/rss+xml" title="divine curation" href="/feed.xml" />
+</head>
+
+  <body>
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group">
+			
+				<a href="/index.html">FEED</a>
+			
+
+			
+				<a href="/writings.html">WRITINGS</a>
+			
+
+			
+				<a href="/pieces.html">PIECES</a>
+			
+
+			
+				<a href="/bib.html">BIBLIOGRAPHY</a>
+			
+
+			
+				<a href="/categories.html">TAGS</a>
+			
+
+			
+				<a href="/about.html">ABOUT</a>
+			
+
+			
+				<a href="/archive.html">ARCHIVE</a>
+			
+	<!-- 
+	
+		
+  	
+		
+  	
+		
+  	
+		
+		    
+		      <a href="/archive.html">Archive</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/about.html">About</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/bib.html">Bibliography</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/writings.html">Writings</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/categories.html">Tags</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/page5/">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/pieces.html">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/page2/">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/page3/">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/page4/">Blog</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/page/">Tufte CSS</a>
+		    
+	    
+  	 -->
+	</nav>
+</header>
+
+    <article class="group">
+      <h1>Note on Category Theory</h1>
+<p class="subtitle">January 15, 2021</p>
+
+<p>This is a quick summary of a few points I found striking in a brief high-level dive into category theory. I first had some contact with category theory several years ago while studying computability, logic, and set theory. At the time I had some difficulty seeing what conceptual resources it could offer (to either the foundations of mathematics or philosophy) that weren’t already present in set theory. Recently there’s been several strings tugging at me to take another look at it—<a href="/assets/pdf/lof-synthetic-a-priori.pdf">relationships drawn between Kant’s logic and type theory</a>, for example, or Badiou’s appeal to topos theory in the Logics of Worlds (which I have not read).</p>
+
+<!--more-->
+
+<p>A cursory dig around some of the material has been enough to provide a much better grasp on what it can offer. One really great resource has been Tom Leinster’s <a href="https://arxiv.org/pdf/1612.09375.pdf">Basic Category Theory</a>, which gives (among other things) a good account of what is missing from the standard set theoretical foundations of mathematics.</p>
+
+<p>One major problem with set theory is that it has no type system. In set theory, <em>everything</em> is a set: integers, reals, functions, relations, tensors, etc. What this means is that a load of statements that ought be nonsensical end up making perfect sense. For example, \( \mathbb{N}\in\leq \) is a perfectly meaningful statement in the set theoretic context. Worse: not only does a meaningless statement like this have a truth value, but this value depends on arbitrary implementation details—in how one chooses, for example, to define one’s ordinals (as one does).</p>
+
+<p>A categorical approach to sets apparently avoids this flaw. In set theory, what characterises a set is the elements it contains, i.e. the membership relations it stands in to other sets. “Membership” is the primitive relation that set theory uses to define everything else, including functions. (In set theory, a function \( f:X \to Y \) is just a subset of the Cartesian product \( X \times Y \).)</p>
+
+<p>The penny-drop moment for me came when Leinster shows how category theory allows us to reverse this order of definition, instead taking functions as primitive and using them to characterise the elements of sets. Take the emptyset \(\emptyset\), for example. The standard emptyset axiom of ZFC set theory characterises this set with the membership relation:</p>
+
+<p align="center"> \( \exists x \forall y (y \notin x) \)</p>
+
+<p>The emptyset is the unique set with no elements (it is unique because there’s only one way to have no elements). The categorical way of doing this is really rather neat. Intuitively, a function between sets maps the elements of one onto elements of the other. Since the emptyset has no elements, a function from the emptyset to another set has nothing to do. And since there is only one way to do nothing, there is one and only one function from the emptyset to any given set. This means that in categorical terms, the emptyset can characterised as the unique object \(A\) in the category of sets with the property that for all other objects \(B\), there exists one and only one map from \(A\) to \(B\).</p>
+
+<p>This is just the first in a ladder of extremely clever and elegant constructions that recovers all the expressivity of the ZFC axioms by recharacterising them in functional terms. The one-element set, for example, can be be characterised as the object \(A\) with the property that for all objects \(B\), there exists one and only one map from \(B\) to \(A\). (This captures the idea that there is only one function to a one-element set from any other set, namely the function that maps all elements in its domain to the unique element in its codomain.) The maps from \(A\) to \(B\) can then be thought of as the elements of \(B\) (since the functions from a set to a one-element set correspond exactly to the elements of the original set)—and so on.</p>
+
+<p>This has impressed on me how category theory can meaningfully rework the set theoretical foundations of mathematics. The payoff here is that since category theory builds in a well-defined notion of function composition, it will end up with a well-defined type system as well—thus fixing one of the major problems with the standard set theoretical approach.</p>
+
+<p>Informally speaking, category theory characterises things in terms of what they do (functions), whereas set theory characterises thing in terms of what they are made of (elements). This ties in fairly directly with the kind of concerns Brandom has in his development of <em>inferentialism</em>, and its origins in certain Kantian ideas.</p>
+
+<p>According to Brandom, Kant is responsible for the idea that concepts can be thought of in terms of functions between judgements. Rather than the atomistic picture which sees judgements as built from concepts (which are themselves made up of other concepts, a stack which must inevitably bottom out in some primitive concepts), the functional picture takes the judgement as primary unit of thought—as the smallest thing which one can be responsible for (much as Wittgenstein identified the sentence, not the word, as the smallest thing with which one can make a move in a language-game).</p>
+
+<p>We can think of atomistic picture as being like a set theoretic approach, with its construction of higher level concepts and judgements on top of a base set of simple primitives (what these primitives are is, of course, the question that has always plagued this approach). Kant’s functional approach—that concepts are individuated by the role they play in inferential relationships between judgement (functions)—has far more affinity with the categorical approach.</p>
+
+<div class="backlinks">
+    <h2>Tags</h2>
+    <br />
+    <div>
+      <p><!-- category theory -->
+        <a href="/categories.html#category theory">category theory</a>&nbsp&nbsp<!-- logic -->
+        <a href="/categories.html#logic">logic</a>&nbsp&nbsp<!-- kant -->
+        <a href="/categories.html#kant">kant</a>&nbsp&nbsp<!-- brandom -->
+        <a href="/categories.html#brandom">brandom</a>&nbsp&nbsp</p>
+    </div>
+</div>
+
+    </article>
+    <span class="print-footer">Note on Category Theory - January 15, 2021 - Divine Curation</span>
+    <footer>
+  <hr class="slender">
+<div class="credits">
+<!-- <span>&copy; 2025
+  
+		<a href="mailto:divinecuration [at] gmail [dot] com">Divine Curation</a></span></br> <br>
+   -->
+
+<span>Created with <a href="//jekyllrb.com">Jekyll</a> and the theme <a href="//github.com/sdruskat/tufte-css-jekyll">tufte-css-jekyll</a>.</span>
+</div>
+</footer>
+
+  </body>
+</html>
