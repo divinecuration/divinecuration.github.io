@@ -6,7 +6,7 @@ categories: [hegel]
 published: true
 ---
 
-In this note I’ll gather a few big picture thoughts on the scope of Hegel’s project in the Phenomenology, how it relates to that of the Science of Logic and also to Kant’s. This was stimulated by a few criticisms Stephen Houlgate aims at Brandom in his [review of A Spirit of Trust](https://ndpr.nd.edu/reviews/a-spirit-of-trust-a-reading-of-hegels-phenomenology/).
+In this note I’ll gather a few big picture thoughts on the scope of Hegel’s project in the Phenomenology, how it relates to the Science of Logic and also to Kant. This was stimulated by a few criticisms Stephen Houlgate aims at Brandom in his [review of A Spirit of Trust](https://ndpr.nd.edu/reviews/a-spirit-of-trust-a-reading-of-hegels-phenomenology/).
 
 One of Kant’s central ideas is that the categories of traditional metaphysics should be understood as universal forms of thought. The implications of this are twofold. First, it saves a priori inquiry from characteristically modern epistemological worries by identifying its domain as the transcendental structure of rational subjectivity. Second, and as a consequence, it limits the metaphysical ambition of philosophy by denying that a priori inquiry can yield insight into being as such. On this understanding the transcendental turn closes the door on pure ontology.
 
